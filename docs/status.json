@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-10-14T16:29:28+03:00",
+  "project": "Оптимист",
+  "lots": 191,
+  "prev_lots": 191,
+  "feeds": [
+    {
+      "agency": "Тренд",
+      "slug": "trend",
+      "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend.xml",
+      "status": "ok",
+      "offers": 191,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "agency": "Адвекс",
+      "slug": "advecs",
+      "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs.xml",
+      "status": "ok",
+      "offers": 191,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "agency": "Петербургская недвижимость",
+      "slug": "peterburgskaya-nedvizhimost",
+      "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost.xml",
+      "status": "ok",
+      "offers": 191,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "agency": "ПАН",
+      "slug": "pan",
+      "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan.xml",
+      "status": "ok",
+      "offers": 191,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "audit": {
+    "checked_at": "2026-10-14T16:30:03+03:00",
+    "status": "ok",
+    "checks": [
+      "Правила Яндекс Недвижимости: проверено фидов 4",
+      "Планировки JPG на месте",
+      "Внешние картинки доступны: 6 из 6",
+      "Набор лотов совпадает с API: 191",
+      "Фиды свежие"
+    ],
+    "errors": [],
+    "warnings": []
+  }
+}

@@ -1,0 +1,61 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Фиды ГК «ПСК» для агентств</title>
+<style>
+:root{--bg:#f6f6f6;--card:#fff;--text:#111;--muted:#666;--line:#e2e2e2;--ok:#1a7f37;--err:#b3261e;--warn:#9a6700}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#151515;--card:#1f1f1f;--text:#f2f2f2;--muted:#a0a0a0;--line:#333;--ok:#4ac26b;--err:#ff7b72;--warn:#d29922}}
+*{box-sizing:border-box}body{font:15px/1.5 system-ui,sans-serif;color:var(--text);background:var(--bg);margin:0;padding:24px 16px}
+main{max-width:1100px;margin:0 auto}section{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:16px;margin:0 0 16px}
+h1{margin:0 0 4px}h2{margin:0 0 8px;font-size:18px}.muted{color:var(--muted);margin:0 0 16px}
+table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid var(--line);padding:10px 8px;text-align:left;vertical-align:top}
+th{font-weight:600;color:var(--muted)}.num{text-align:right}a{color:var(--text)}
+.wrap{overflow-x:auto}.link{display:flex;gap:8px;align-items:center;margin:0 0 4px}
+code{background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:3px 6px;word-break:break-all;font-size:13px}
+button{font:inherit;font-size:13px;padding:3px 10px;border:1px solid var(--line);border-radius:4px;background:var(--card);color:var(--text);cursor:pointer;white-space:nowrap}
+.badge{font-size:13px;padding:1px 8px;border-radius:10px;border:1px solid currentColor}.badge.ok,li.ok{color:var(--ok)}.badge.error,li.error{color:var(--err)}li.warn{color:var(--warn)}
+ul{margin:0;padding-left:20px}
+</style></head><body><main>
+<h1>Фиды ЖК «Оптимист» для агентств</h1>
+<p class="muted">Формат YRL, техтребования Яндекс Недвижимости. Обновляются ежедневно в 12:00 МСК.
+Последняя сборка: 14.10.2026 16:29 МСК. Лотов в продаже: 191.</p>
+<section><h2>Прямые ссылки</h2><div class="wrap"><table>
+<tr><th>Агентство</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
+<tr>
+<td><b>Тренд</b></td>
+<td><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend.xml">открыть XML</a> · <a href="preview/trend.html">превью лотов</a></td>
+<td class="num">191</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td><b>Адвекс</b></td>
+<td><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs.xml">открыть XML</a> · <a href="preview/advecs.html">превью лотов</a></td>
+<td class="num">191</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td><b>Петербургская недвижимость</b></td>
+<td><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost.html">превью лотов</a></td>
+<td class="num">191</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td><b>ПАН</b></td>
+<td><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan.xml">открыть XML</a> · <a href="preview/pan.html">превью лотов</a></td>
+<td class="num">191</td>
+<td><span class="badge ok">готов</span></td>
+</tr></table></div></section>
+<section><h2>Аудит <span class="badge ok">готов</span></h2>
+<p class="muted">Проверено: 14.10.2026 16:30 МСК</p>
+<ul><li class="ok">Правила Яндекс Недвижимости: проверено фидов 4</li><li class="ok">Планировки JPG на месте</li><li class="ok">Внешние картинки доступны: 6 из 6</li><li class="ok">Набор лотов совпадает с API: 191</li><li class="ok">Фиды свежие</li></ul></section>
+<p class="muted">Данные в JSON: <a href="status.json">status.json</a></p>
+</main>
+<script>
+document.querySelectorAll('button[data-url]').forEach(b=>b.addEventListener('click',async()=>{
+  try{await navigator.clipboard.writeText(b.dataset.url);b.textContent='Скопировано'}catch(e){b.textContent='Выделите вручную'}
+  setTimeout(()=>b.textContent='Копировать',1500)}));
+</script></body></html>

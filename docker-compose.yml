@@ -1,0 +1,13 @@
+services:
+  feeds:
+    build: .
+    container_name: psk-agency-feeds
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8080:8080"     # наружу отдает nginx с HTTPS (deploy/nginx.conf)
+    volumes:
+      - ./config.toml:/app/config.toml:ro
+      - ./docs:/app/docs
+      - ./cache:/app/cache
+    environment:
+      - TZ=Europe/Moscow

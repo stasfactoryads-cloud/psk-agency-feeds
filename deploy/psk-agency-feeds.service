@@ -1,0 +1,20 @@
+# Вариант без Docker: systemd-сервис
+# sudo cp deploy/psk-agency-feeds.service /etc/systemd/system/
+# sudo systemctl daemon-reload && sudo systemctl enable --now psk-agency-feeds
+
+[Unit]
+Description=PSK agency YRL feeds (ЖК Оптимист)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/opt/psk-agency-feeds
+ExecStart=/opt/psk-agency-feeds/venv/bin/python -m feedgen --config config.toml serve --host 127.0.0.1 --port 8080
+Restart=always
+RestartSec=10
+Environment=TZ=Europe/Moscow
+
+[Install]
+WantedBy=multi-user.target

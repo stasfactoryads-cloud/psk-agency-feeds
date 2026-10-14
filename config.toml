@@ -1,0 +1,88 @@
+# Конфигурация генератора фидов для агентств недвижимости (ЖК «Оптимист»).
+# Формат: YRL, техтребования Яндекс Недвижимости (продажа квартир в новостройках).
+# После правки конфига сервис подхватывает изменения при следующей генерации.
+
+[general]
+# Публичный адрес, по которому лежат фиды и JPG-планировки (GitHub Pages).
+# Яндекс скачивает картинки по этому адресу, он должен быть доступен по 80/443.
+public_base_url = "https://stasfactoryads-cloud.github.io/psk-agency-feeds"
+output_dir = "docs"            # публикуемая папка: GitHub Pages отдает ее как сайт
+cache_dir = "cache"            # служебные файлы: даты первого появления лотов (коммитятся)
+api_base = "https://psk-info.ru/api"
+site_url = "https://psk-info.ru"
+refresh_minutes = 60           # период перегенерации в режиме serve (на своем сервере)
+image_size = 1200              # длинная сторона планировки в пикселях
+api_workers = 8                # параллельных запросов к карточкам лотов
+
+[project]
+api_id = 45
+name = "Оптимист"              # попадает в <building-name> и описание
+# ID из каталога новостроек Яндекса: https://realty.yandex.ru/newbuildings.tsv
+yandex_building_id = "4895327"
+yandex_house_id = "4895353"
+building_type = "монолит"      # кирпичный / монолит / панельный
+building_section = "корпус 1"
+deal_status = "первичная продажа"
+include_statuses = ["Свободно"]
+render_count = 6               # сколько рендеров ЖК добавлять к каждому лоту
+# true: в <price> пишется цена до скидки, а цена со скидкой в <discount><final-price>.
+# false: в <price> пишется фактическая цена, скидка упоминается только в описании.
+show_discount = false
+
+# Отделка из API сайта -> допустимое значение <renovation> Яндекса
+[project.renovation]
+"Предчистовая" = "предчистовая"
+"С отделкой" = "под ключ"
+
+# ── Агентства ──────────────────────────────────────────────────────────────
+# Каждое агентство получает свой файл: <public_base_url>/feeds/<slug>.xml
+# phones: обязательно. Яндекс требует российский номер, для агентств прямой
+#         номер агента. Номера 880... не принимаются. Без телефона фид собирается,
+#         но валидатор помечает его как непригодный к загрузке.
+# agent_name: имя менеджера, попадает в <sales-agent><name>.
+# category: "агентство" (лоты размещает агентство от своего имени).
+# utm_source: добавляется к ссылке на лот, чтобы видеть трафик от агентства.
+
+[[agency]]
+slug = "trend"
+name = "Тренд"
+organization = "Агентство недвижимости «Тренд»"
+category = "агентство"
+phones = ["7 (812) 210-26-76"]
+agent_name = "Эвелина Петрова"
+email = ""
+url = ""
+utm_source = "trend"
+
+[[agency]]
+slug = "advecs"
+name = "Адвекс"
+organization = "Адвекс. Недвижимость"
+category = "агентство"
+phones = ["7 (812) 210-26-76"]
+agent_name = "Эвелина Петрова"
+email = ""
+url = ""
+utm_source = "advecs"
+
+[[agency]]
+slug = "peterburgskaya-nedvizhimost"
+name = "Петербургская недвижимость"
+organization = "Петербургская недвижимость"
+category = "агентство"
+phones = ["7 (812) 210-26-76"]
+agent_name = "Эвелина Петрова"
+email = ""
+url = ""
+utm_source = "spbnedv"
+
+[[agency]]
+slug = "pan"
+name = "ПАН"
+organization = "ПАН"
+category = "агентство"
+phones = ["7 (812) 210-26-76"]
+agent_name = "Эвелина Петрова"
+email = ""
+url = ""
+utm_source = "pan"
