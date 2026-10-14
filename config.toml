@@ -27,8 +27,9 @@ legacy_project = "optimist"
 # Общие поля:
 #   deal_status: "первичная продажа"; include_statuses: какие статусы лотов брать
 #   render_count: сколько рендеров ЖК добавлять к лоту
-#   show_discount: true = в <price> цена до скидки, а со скидкой в <discount><final-price>;
-#                  false = фактическая цена, скидка только в описании
+#   show_discount: true = две цены: <price><value> старая цена без скидки,
+#                  <price><discount><final-price> цена со скидкой (Яндекс покажет обе);
+#                  false = только фактическая цена, скидка упоминается в описании
 #   renovation: отделка из API сайта -> допустимое значение <renovation> Яндекса
 
 [[project]]
@@ -42,7 +43,7 @@ building_section = "корпус {building}"
 deal_status = "первичная продажа"
 include_statuses = ["Свободно"]
 render_count = 6
-show_discount = false
+show_discount = true
 [project.renovation]
 "Предчистовая" = "предчистовая"
 "С отделкой" = "под ключ"
@@ -58,7 +59,7 @@ building_section = "корпус {building}"
 deal_status = "первичная продажа"
 include_statuses = ["Свободно"]
 render_count = 6
-show_discount = false
+show_discount = true
 [project.house_ids]
 "611" = "4528600"
 "621" = "4528602"
@@ -79,7 +80,7 @@ building_section = "корпус {building}"
 deal_status = "первичная продажа"
 include_statuses = ["Свободно"]
 render_count = 6
-show_discount = false
+show_discount = true
 [project.renovation]
 "Без отделки" = "без отделки"
 "Предчистовая" = "предчистовая"

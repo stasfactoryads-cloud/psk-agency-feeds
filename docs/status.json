@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:17:54+03:00",
+  "generated_at": "2026-10-14T17:48:01+03:00",
   "projects": [
     {
       "key": "optimist",
@@ -16,7 +16,7 @@
     {
       "key": "akvatoriya",
       "name": "Акватория",
-      "lots": 162,
+      "lots": 161,
       "prev_lots": 162
     }
   ],
@@ -160,7 +160,7 @@
       "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/akvatoriya.xml",
       "preview": "preview/trend/akvatoriya.html",
       "status": "ok",
-      "offers": 162,
+      "offers": 161,
       "errors": [],
       "warnings": []
     },
@@ -173,7 +173,7 @@
       "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/akvatoriya.xml",
       "preview": "preview/advecs/akvatoriya.html",
       "status": "ok",
-      "offers": 162,
+      "offers": 161,
       "errors": [],
       "warnings": []
     },
@@ -186,7 +186,7 @@
       "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/akvatoriya.html",
       "status": "ok",
-      "offers": 162,
+      "offers": 161,
       "errors": [],
       "warnings": []
     },
@@ -199,7 +199,7 @@
       "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/akvatoriya.xml",
       "preview": "preview/pan/akvatoriya.html",
       "status": "ok",
-      "offers": 162,
+      "offers": 161,
       "errors": [],
       "warnings": []
     },
@@ -212,22 +212,24 @@
       "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/akvatoriya.xml",
       "preview": "preview/n-market/akvatoriya.html",
       "status": "ok",
-      "offers": 162,
+      "offers": 161,
       "errors": [],
       "warnings": []
     }
   ],
   "audit": {
-    "checked_at": "2026-10-14T17:18:54+03:00",
+    "checked_at": "2026-10-14T17:48:46+03:00",
     "status": "ok",
     "checks": [
       "Правила Яндекс Недвижимости: проверено фидов 15",
       "Планировки JPG на месте",
       "Внешние картинки доступны: 18 из 18",
-      "Набор лотов совпадает с API: Оптимист 191, Сезоны 263, Акватория 162",
+      "Набор лотов совпадает с API: Оптимист 191, Сезоны 263, Акватория 161",
       "Фиды свежие"
     ],
     "errors": [],
-    "warnings": []
+    "warnings": [
+      "ЖК «Акватория»: число лотов изменилось, было 162, стало 161"
+    ]
   }
 }

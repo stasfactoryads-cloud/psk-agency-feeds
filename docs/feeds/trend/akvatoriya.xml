@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-14T17:17:54+03:00</generation-date>
+  <generation-date>2026-10-14T17:48:01+03:00</generation-date>
   <offer internal-id="431809">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431809?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -27,8 +27,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>23155200</value>
+      <value>28944000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>23155200</final-price>
+      </discount>
     </price>
     <area>
       <value>50.25</value>
@@ -80,7 +83,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431841?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -100,8 +103,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>24775732</value>
+      <value>30969666</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>24775732</final-price>
+      </discount>
     </price>
     <area>
       <value>54.02</value>
@@ -153,7 +159,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431813?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -173,8 +179,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>26842464</value>
+      <value>33553080</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>26842464</final-price>
+      </discount>
     </price>
     <area>
       <value>50.38</value>
@@ -226,7 +235,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431845?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -246,8 +255,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>29747520</value>
+      <value>37184400</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>29747520</final-price>
+      </discount>
     </price>
     <area>
       <value>56.34</value>
@@ -299,7 +311,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431821?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -319,8 +331,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>27664728</value>
+      <value>34580910</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>27664728</final-price>
+      </discount>
     </price>
     <area>
       <value>50.19</value>
@@ -372,7 +387,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431853?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -392,8 +407,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>30585072</value>
+      <value>38231340</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>30585072</final-price>
+      </discount>
     </price>
     <area>
       <value>56.14</value>
@@ -445,7 +463,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431829?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -465,8 +483,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>28031136</value>
+      <value>35038920</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>28031136</final-price>
+      </discount>
     </price>
     <area>
       <value>49.49</value>
@@ -518,7 +539,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431861?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -538,8 +559,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>31274496</value>
+      <value>39093120</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>31274496</final-price>
+      </discount>
     </price>
     <area>
       <value>55.53</value>
@@ -591,7 +615,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431810?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -611,8 +635,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>38078863</value>
+      <value>47598579</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>38078863</final-price>
+      </discount>
     </price>
     <area>
       <value>77.89</value>
@@ -664,7 +691,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431840?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -684,8 +711,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>38393784</value>
+      <value>47992230</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>38393784</final-price>
+      </discount>
     </price>
     <area>
       <value>78.65</value>
@@ -737,7 +767,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431814?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -757,8 +787,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>45686784</value>
+      <value>57108480</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>45686784</final-price>
+      </discount>
     </price>
     <area>
       <value>81.12</value>
@@ -810,7 +843,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431815?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -830,8 +863,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>44571392</value>
+      <value>55714240</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>44571392</final-price>
+      </discount>
     </price>
     <area>
       <value>80.98</value>
@@ -883,7 +919,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431843?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -903,8 +939,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>43806336</value>
+      <value>54757920</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>43806336</final-price>
+      </discount>
     </price>
     <area>
       <value>79.59</value>
@@ -956,7 +995,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431844?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -976,8 +1015,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>46026816</value>
+      <value>57533520</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>46026816</final-price>
+      </discount>
     </price>
     <area>
       <value>81.84</value>
@@ -1029,7 +1071,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431822?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1049,8 +1091,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>46922000</value>
+      <value>58652500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>46922000</final-price>
+      </discount>
     </price>
     <area>
       <value>80.9</value>
@@ -1102,7 +1147,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431823?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1122,8 +1167,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>45814880</value>
+      <value>57268600</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>45814880</final-price>
+      </discount>
     </price>
     <area>
       <value>80.66</value>
@@ -1175,7 +1223,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431851?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1195,8 +1243,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>45024336</value>
+      <value>56280420</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>45024336</final-price>
+      </discount>
     </price>
     <area>
       <value>79.38</value>
@@ -1248,7 +1299,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431852?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1268,8 +1319,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>47361184</value>
+      <value>59201480</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>47361184</final-price>
+      </discount>
     </price>
     <area>
       <value>81.77</value>
@@ -1321,7 +1375,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431830?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1341,8 +1395,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>48048368</value>
+      <value>60060460</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>48048368</final-price>
+      </discount>
     </price>
     <area>
       <value>80.51</value>
@@ -1394,7 +1451,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431831?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1414,8 +1471,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>46649920</value>
+      <value>58312400</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>46649920</final-price>
+      </discount>
     </price>
     <area>
       <value>79.88</value>
@@ -1467,7 +1527,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431859?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1487,8 +1547,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>46034016</value>
+      <value>57542520</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>46034016</final-price>
+      </discount>
     </price>
     <area>
       <value>78.61</value>
@@ -1540,7 +1603,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431860?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1560,8 +1623,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>48687240</value>
+      <value>60859050</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>48687240</final-price>
+      </discount>
     </price>
     <area>
       <value>81.69</value>
@@ -1613,7 +1679,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431837?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1633,8 +1699,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>56782080</value>
+      <value>70977600</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>56782080</final-price>
+      </discount>
     </price>
     <area>
       <value>66.96</value>
@@ -1687,7 +1756,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431838?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1707,8 +1776,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>51249504</value>
+      <value>64061880</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>51249504</final-price>
+      </discount>
     </price>
     <area>
       <value>75.19</value>
@@ -1761,7 +1833,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431808?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1781,8 +1853,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>44926452</value>
+      <value>56158065</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>44926452</final-price>
+      </discount>
     </price>
     <area>
       <value>93.55</value>
@@ -1835,7 +1910,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431842?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1855,8 +1930,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>44057592</value>
+      <value>55071990</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>44057592</final-price>
+      </discount>
     </price>
     <area>
       <value>91.33</value>
@@ -1909,7 +1987,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431812?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1929,8 +2007,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>50812992</value>
+      <value>63516240</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>50812992</final-price>
+      </discount>
     </price>
     <area>
       <value>92.86</value>
@@ -1983,7 +2064,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431846?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2003,8 +2084,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>50372160</value>
+      <value>62965200</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>50372160</final-price>
+      </discount>
     </price>
     <area>
       <value>91.92</value>
@@ -2057,7 +2141,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431820?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2077,8 +2161,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>52119240</value>
+      <value>65149050</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>52119240</final-price>
+      </discount>
     </price>
     <area>
       <value>92.41</value>
@@ -2131,7 +2218,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431854?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2151,8 +2238,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>51673552</value>
+      <value>64591940</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>51673552</final-price>
+      </discount>
     </price>
     <area>
       <value>91.49</value>
@@ -2205,7 +2295,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431828?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2225,8 +2315,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>53454856</value>
+      <value>66818570</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>53454856</final-price>
+      </discount>
     </price>
     <area>
       <value>91.91</value>
@@ -2279,7 +2372,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431862?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2299,8 +2392,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>52919784</value>
+      <value>66149730</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>52919784</final-price>
+      </discount>
     </price>
     <area>
       <value>90.99</value>
@@ -2353,7 +2449,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431873?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2373,8 +2469,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>24118272</value>
+      <value>30147840</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>24118272</final-price>
+      </discount>
     </price>
     <area>
       <value>52.34</value>
@@ -2426,7 +2525,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431910?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2446,8 +2545,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>22367772</value>
+      <value>27959716</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>22367772</final-price>
+      </discount>
     </price>
     <area>
       <value>46.36</value>
@@ -2499,7 +2601,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431878?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2519,8 +2621,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>27838800</value>
+      <value>34798500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>27838800</final-price>
+      </discount>
     </price>
     <area>
       <value>52.25</value>
@@ -2572,7 +2677,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431914?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2592,8 +2697,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>26627800</value>
+      <value>33284750</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>26627800</final-price>
+      </discount>
     </price>
     <area>
       <value>45.91</value>
@@ -2645,7 +2753,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431915?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2665,8 +2773,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>27290250</value>
+      <value>34112812</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>27290250</final-price>
+      </discount>
     </price>
     <area>
       <value>46.65</value>
@@ -2719,7 +2830,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431970?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2739,8 +2850,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>26790552</value>
+      <value>33488190</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>26790552</final-price>
+      </discount>
     </price>
     <area>
       <value>54.63</value>
@@ -2792,7 +2906,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432044?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2812,8 +2926,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>27128736</value>
+      <value>33910920</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>27128736</final-price>
+      </discount>
     </price>
     <area>
       <value>55.41</value>
@@ -2865,7 +2982,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432068?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2885,8 +3002,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>26796152</value>
+      <value>33495190</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>26796152</final-price>
+      </discount>
     </price>
     <area>
       <value>51.77</value>
@@ -2938,7 +3058,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432106?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2958,8 +3078,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>31184400</value>
+      <value>38980500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>31184400</final-price>
+      </discount>
     </price>
     <area>
       <value>59.97</value>
@@ -3012,7 +3135,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431888?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3032,8 +3155,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>28634160</value>
+      <value>35792700</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>28634160</final-price>
+      </discount>
     </price>
     <area>
       <value>52.1</value>
@@ -3085,7 +3211,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431924?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3105,8 +3231,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>26953760</value>
+      <value>33692200</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>26953760</final-price>
+      </discount>
     </price>
     <area>
       <value>45.53</value>
@@ -3158,7 +3287,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431925?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3178,8 +3307,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>27649650</value>
+      <value>34562062</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>27649650</final-price>
+      </discount>
     </price>
     <area>
       <value>46.47</value>
@@ -3232,7 +3364,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431976?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3252,8 +3384,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>27393872</value>
+      <value>34242340</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>27393872</final-price>
+      </discount>
     </price>
     <area>
       <value>54.01</value>
@@ -3305,7 +3440,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432050?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3325,8 +3460,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>27819920</value>
+      <value>34774900</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>27819920</final-price>
+      </discount>
     </price>
     <area>
       <value>54.85</value>
@@ -3378,7 +3516,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432078?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3398,8 +3536,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>27313184</value>
+      <value>34141480</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>27313184</final-price>
+      </discount>
     </price>
     <area>
       <value>51.11</value>
@@ -3451,7 +3592,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432116?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3471,8 +3612,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>32322688</value>
+      <value>40403360</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>32322688</final-price>
+      </discount>
     </price>
     <area>
       <value>59.68</value>
@@ -3525,7 +3669,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432010?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3545,8 +3689,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>30827685</value>
+      <value>38534606</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>30827685</final-price>
+      </discount>
     </price>
     <area>
       <value>44.35</value>
@@ -3598,7 +3745,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431898?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3618,8 +3765,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>29418816</value>
+      <value>36773520</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>29418816</final-price>
+      </discount>
     </price>
     <area>
       <value>51.94</value>
@@ -3671,7 +3821,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431934?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3691,8 +3841,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>27457860</value>
+      <value>34322325</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>27457860</final-price>
+      </discount>
     </price>
     <area>
       <value>45.31</value>
@@ -3744,7 +3897,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431982?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3764,8 +3917,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>28055808</value>
+      <value>35069760</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>28055808</final-price>
+      </discount>
     </price>
     <area>
       <value>53.46</value>
@@ -3817,7 +3973,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432015?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3837,8 +3993,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>31781120</value>
+      <value>39726400</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>31781120</final-price>
+      </discount>
     </price>
     <area>
       <value>44.8</value>
@@ -3891,7 +4050,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432056?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3911,8 +4070,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>28568480</value>
+      <value>35710600</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>28568480</final-price>
+      </discount>
     </price>
     <area>
       <value>54.52</value>
@@ -3964,7 +4126,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432088?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3984,8 +4146,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>28078128</value>
+      <value>35097660</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>28078128</final-price>
+      </discount>
     </price>
     <area>
       <value>50.94</value>
@@ -4037,7 +4202,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431871?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4057,8 +4222,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>34049721</value>
+      <value>42562152</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>34049721</final-price>
+      </discount>
     </price>
     <area>
       <value>68.34</value>
@@ -4110,7 +4278,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431872?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4130,8 +4298,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>39082939</value>
+      <value>48853674</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>39082939</final-price>
+      </discount>
     </price>
     <area>
       <value>80.18</value>
@@ -4183,7 +4354,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431874?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4203,8 +4374,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>46869076</value>
+      <value>58586346</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>46869076</final-price>
+      </discount>
     </price>
     <area>
       <value>98.93</value>
@@ -4256,7 +4430,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431945?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4276,8 +4450,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>34429925</value>
+      <value>43037406</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>34429925</final-price>
+      </discount>
     </price>
     <area>
       <value>65.27</value>
@@ -4329,7 +4506,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432063?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4349,8 +4526,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>37468404</value>
+      <value>46835505</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>37468404</final-price>
+      </discount>
     </price>
     <area>
       <value>75.97</value>
@@ -4402,7 +4582,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432064?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4422,8 +4602,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>31919968</value>
+      <value>39899960</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>31919968</final-price>
+      </discount>
     </price>
     <area>
       <value>66.69</value>
@@ -4475,7 +4658,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431876?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4495,8 +4678,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>38601280</value>
+      <value>48251600</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>38601280</final-price>
+      </discount>
     </price>
     <area>
       <value>67.96</value>
@@ -4548,7 +4734,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431877?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4568,8 +4754,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>46158672</value>
+      <value>57698340</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>46158672</final-price>
+      </discount>
     </price>
     <area>
       <value>80.81</value>
@@ -4622,7 +4811,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431879?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4642,8 +4831,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>52580072</value>
+      <value>65725090</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>52580072</final-price>
+      </discount>
     </price>
     <area>
       <value>96.23</value>
@@ -4695,7 +4887,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431948?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4715,8 +4907,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>42762764</value>
+      <value>53453455</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>42762764</final-price>
+      </discount>
     </price>
     <area>
       <value>64.46</value>
@@ -4768,7 +4963,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431996?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4788,8 +4983,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>40811392</value>
+      <value>51014240</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>40811392</final-price>
+      </discount>
     </price>
     <area>
       <value>73.72</value>
@@ -4841,7 +5039,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431997?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4861,8 +5059,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>40575600</value>
+      <value>50719500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>40575600</final-price>
+      </discount>
     </price>
     <area>
       <value>72.25</value>
@@ -4915,7 +5116,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432067?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4935,8 +5136,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>41022520</value>
+      <value>51278150</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>41022520</final-price>
+      </discount>
     </price>
     <area>
       <value>73.15</value>
@@ -4989,7 +5193,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432069?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5009,8 +5213,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>38138528</value>
+      <value>47673160</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>38138528</final-price>
+      </discount>
     </price>
     <area>
       <value>67.24</value>
@@ -5063,7 +5270,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432104?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5083,8 +5290,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>51972271</value>
+      <value>64965338</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>51972271</final-price>
+      </discount>
     </price>
     <area>
       <value>89.32</value>
@@ -5136,7 +5346,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432144?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5156,8 +5366,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>40072238</value>
+      <value>50090297</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>40072238</final-price>
+      </discount>
     </price>
     <area>
       <value>66.58</value>
@@ -5210,7 +5423,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432146?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5230,8 +5443,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>36861024</value>
+      <value>46076280</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>36861024</final-price>
+      </discount>
     </price>
     <area>
       <value>63.7</value>
@@ -5284,7 +5500,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431886?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5304,8 +5520,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>39509088</value>
+      <value>49386360</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>39509088</final-price>
+      </discount>
     </price>
     <area>
       <value>67.56</value>
@@ -5357,7 +5576,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431887?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5377,8 +5596,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>47234040</value>
+      <value>59042550</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>47234040</final-price>
+      </discount>
     </price>
     <area>
       <value>80.33</value>
@@ -5431,7 +5653,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431889?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5451,8 +5673,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>53965824</value>
+      <value>67457280</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>53965824</final-price>
+      </discount>
     </price>
     <area>
       <value>95.82</value>
@@ -5504,7 +5729,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432007?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5524,8 +5749,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>41667648</value>
+      <value>52084560</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>41667648</final-price>
+      </discount>
     </price>
     <area>
       <value>71.94</value>
@@ -5578,7 +5806,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432077?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5598,8 +5826,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>42187904</value>
+      <value>52734880</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>42187904</final-price>
+      </discount>
     </price>
     <area>
       <value>73.04</value>
@@ -5652,7 +5883,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432079?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5672,8 +5903,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>39116320</value>
+      <value>48895400</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>39116320</final-price>
+      </discount>
     </price>
     <area>
       <value>66.98</value>
@@ -5726,7 +5960,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432114?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5746,8 +5980,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>53275287</value>
+      <value>66594109</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>53275287</final-price>
+      </discount>
     </price>
     <area>
       <value>88.99</value>
@@ -5799,7 +6036,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432154?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5819,8 +6056,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>41435155</value>
+      <value>51793944</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>41435155</final-price>
+      </discount>
     </price>
     <area>
       <value>66.12</value>
@@ -5873,7 +6113,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432156?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5893,8 +6133,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>37550085</value>
+      <value>46937607</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>37550085</final-price>
+      </discount>
     </price>
     <area>
       <value>63.06</value>
@@ -5947,7 +6190,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431896?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5967,8 +6210,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>40379392</value>
+      <value>50474240</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>40379392</final-price>
+      </discount>
     </price>
     <area>
       <value>67.12</value>
@@ -6020,7 +6266,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431897?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6040,8 +6286,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>48458920</value>
+      <value>60573650</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>48458920</final-price>
+      </discount>
     </price>
     <area>
       <value>80.23</value>
@@ -6094,7 +6343,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431899?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6114,8 +6363,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>55291400</value>
+      <value>69114250</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>55291400</final-price>
+      </discount>
     </price>
     <area>
       <value>95.33</value>
@@ -6167,7 +6419,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432016?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6187,8 +6439,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>42877568</value>
+      <value>53596960</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>42877568</final-price>
+      </discount>
     </price>
     <area>
       <value>73.12</value>
@@ -6240,7 +6495,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432017?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6260,8 +6515,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>42669888</value>
+      <value>53337360</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>42669888</final-price>
+      </discount>
     </price>
     <area>
       <value>71.69</value>
@@ -6314,7 +6572,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432087?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6334,8 +6592,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>43266376</value>
+      <value>54082970</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>43266376</final-price>
+      </discount>
     </price>
     <area>
       <value>72.79</value>
@@ -6388,7 +6649,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432124?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6408,8 +6669,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>54542596</value>
+      <value>68178246</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>54542596</final-price>
+      </discount>
     </price>
     <area>
       <value>88.62</value>
@@ -6461,7 +6725,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431908?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6481,8 +6745,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>41920021</value>
+      <value>52400027</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>41920021</final-price>
+      </discount>
     </price>
     <area>
       <value>90.29</value>
@@ -6534,7 +6801,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431911?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6554,8 +6821,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>65214000</value>
+      <value>81517500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>65214000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.69</value>
@@ -6607,7 +6877,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431946?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6627,8 +6897,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>42966115</value>
+      <value>53707644</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>42966115</final-price>
+      </discount>
     </price>
     <area>
       <value>87.93</value>
@@ -6680,7 +6953,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431967?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6700,8 +6973,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>45416376</value>
+      <value>56770470</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>45416376</final-price>
+      </discount>
     </price>
     <area>
       <value>96.45</value>
@@ -6754,7 +7030,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431968?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6774,8 +7050,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>49807180</value>
+      <value>62258976</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>49807180</final-price>
+      </discount>
     </price>
     <area>
       <value>110.86</value>
@@ -6827,7 +7106,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431992?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6847,8 +7126,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>44743708</value>
+      <value>55929636</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>44743708</final-price>
+      </discount>
     </price>
     <area>
       <value>93.03</value>
@@ -6900,7 +7182,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432026?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6920,8 +7202,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>47411193</value>
+      <value>59263992</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>47411193</final-price>
+      </discount>
     </price>
     <area>
       <value>99.17</value>
@@ -6974,7 +7259,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432041?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6994,8 +7279,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>43414272</value>
+      <value>54267840</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>43414272</final-price>
+      </discount>
     </price>
     <area>
       <value>91.36</value>
@@ -7048,7 +7336,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431875?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7068,8 +7356,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>46158040</value>
+      <value>57697550</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>46158040</final-price>
+      </discount>
     </price>
     <area>
       <value>84.23</value>
@@ -7122,7 +7413,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431913?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7142,8 +7433,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>50156160</value>
+      <value>62695200</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>50156160</final-price>
+      </discount>
     </price>
     <area>
       <value>90.6</value>
@@ -7196,7 +7490,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431916?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7216,8 +7510,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>67679200</value>
+      <value>84599000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>67679200</final-price>
+      </discount>
     </price>
     <area>
       <value>109.16</value>
@@ -7270,7 +7567,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431917?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7290,8 +7587,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>64908000</value>
+      <value>81135000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>64908000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.18</value>
@@ -7343,7 +7643,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431947?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7363,8 +7663,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>43366752</value>
+      <value>54208440</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>43366752</final-price>
+      </discount>
     </price>
     <area>
       <value>77.22</value>
@@ -7417,7 +7720,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431949?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7437,8 +7740,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>48736260</value>
+      <value>60920326</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>48736260</final-price>
+      </discount>
     </price>
     <area>
       <value>87.32</value>
@@ -7490,7 +7796,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431969?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7510,8 +7816,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>51835392</value>
+      <value>64794240</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>51835392</final-price>
+      </discount>
     </price>
     <area>
       <value>96.42</value>
@@ -7564,7 +7873,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431971?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7584,8 +7893,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>53521360</value>
+      <value>66901700</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>53521360</final-price>
+      </discount>
     </price>
     <area>
       <value>102.14</value>
@@ -7637,7 +7949,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431993?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7657,8 +7969,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>65034000</value>
+      <value>81292500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>65034000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.39</value>
@@ -7710,7 +8025,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431994?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7730,8 +8045,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>65046000</value>
+      <value>81307500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>65046000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.41</value>
@@ -7783,7 +8101,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432028?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7803,8 +8121,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>54205632</value>
+      <value>67757040</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>54205632</final-price>
+      </discount>
     </price>
     <area>
       <value>99.06</value>
@@ -7857,7 +8178,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432043?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7877,8 +8198,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>49410168</value>
+      <value>61762710</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>49410168</final-price>
+      </discount>
     </price>
     <area>
       <value>91.23</value>
@@ -7931,7 +8255,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432070?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7951,8 +8275,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>65082000</value>
+      <value>81352500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>65082000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.47</value>
@@ -8004,7 +8331,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432071?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8024,8 +8351,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>65070000</value>
+      <value>81337500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>65070000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.45</value>
@@ -8077,7 +8407,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432103?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8097,8 +8427,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>74159352</value>
+      <value>92699190</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>74159352</final-price>
+      </discount>
     </price>
     <area>
       <value>153.73</value>
@@ -8151,7 +8484,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432105?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8171,8 +8504,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>66277646</value>
+      <value>82847058</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>66277646</final-price>
+      </discount>
     </price>
     <area>
       <value>128.8</value>
@@ -8224,7 +8560,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432107?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8244,8 +8580,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>61692258</value>
+      <value>77115323</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>61692258</final-price>
+      </discount>
     </price>
     <area>
       <value>112.87</value>
@@ -8297,7 +8636,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432142?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8317,8 +8656,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>65028000</value>
+      <value>81285000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>65028000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.38</value>
@@ -8370,7 +8712,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432143?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8390,8 +8732,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>67753600</value>
+      <value>84692000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>67753600</final-price>
+      </discount>
     </price>
     <area>
       <value>109.28</value>
@@ -8444,7 +8789,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431885?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8464,8 +8809,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>47211632</value>
+      <value>59014540</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>47211632</final-price>
+      </discount>
     </price>
     <area>
       <value>83.59</value>
@@ -8518,7 +8866,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431923?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8538,8 +8886,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>51467192</value>
+      <value>64333990</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>51467192</final-price>
+      </discount>
     </price>
     <area>
       <value>90.23</value>
@@ -8592,7 +8943,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431926?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8612,8 +8963,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>71841000</value>
+      <value>89801250</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>71841000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.85</value>
@@ -8666,7 +9020,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431927?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8686,8 +9040,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>69600000</value>
+      <value>87000000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>69600000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.75</value>
@@ -8740,7 +9097,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431953?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8760,8 +9117,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>44158208</value>
+      <value>55197760</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>44158208</final-price>
+      </discount>
     </price>
     <area>
       <value>76.24</value>
@@ -8814,7 +9174,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431955?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8834,8 +9194,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>50048004</value>
+      <value>62560005</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>50048004</final-price>
+      </discount>
     </price>
     <area>
       <value>87.05</value>
@@ -8887,7 +9250,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431975?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8907,8 +9270,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>53205768</value>
+      <value>66507210</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>53205768</final-price>
+      </discount>
     </price>
     <area>
       <value>95.97</value>
@@ -8961,7 +9327,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431977?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8981,8 +9347,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>55010176</value>
+      <value>68762720</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>55010176</final-price>
+      </discount>
     </price>
     <area>
       <value>101.72</value>
@@ -9034,7 +9403,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432003?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9054,8 +9423,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>69721600</value>
+      <value>87152000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>69721600</final-price>
+      </discount>
     </price>
     <area>
       <value>108.94</value>
@@ -9108,7 +9480,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432004?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9128,8 +9500,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>69734400</value>
+      <value>87168000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>69734400</final-price>
+      </discount>
     </price>
     <area>
       <value>108.96</value>
@@ -9182,7 +9557,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432032?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9202,8 +9577,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>55734480</value>
+      <value>69668100</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>55734480</final-price>
+      </discount>
     </price>
     <area>
       <value>98.82</value>
@@ -9256,7 +9634,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432049?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9276,8 +9654,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>50680296</value>
+      <value>63350370</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>50680296</final-price>
+      </discount>
     </price>
     <area>
       <value>90.63</value>
@@ -9330,7 +9711,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432080?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9350,8 +9731,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>69785600</value>
+      <value>87232000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>69785600</final-price>
+      </discount>
     </price>
     <area>
       <value>109.04</value>
@@ -9404,7 +9788,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432081?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9424,8 +9808,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>69766400</value>
+      <value>87208000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>69766400</final-price>
+      </discount>
     </price>
     <area>
       <value>109.01</value>
@@ -9478,7 +9865,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432113?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9498,8 +9885,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>76377600</value>
+      <value>95472000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>76377600</final-price>
+      </discount>
     </price>
     <area>
       <value>153.0</value>
@@ -9552,7 +9942,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432115?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9572,8 +9962,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>68877425</value>
+      <value>86096782</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>68877425</final-price>
+      </discount>
     </price>
     <area>
       <value>128.46</value>
@@ -9625,7 +10018,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432117?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9645,8 +10038,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>63633051</value>
+      <value>79541314</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>63633051</final-price>
+      </discount>
     </price>
     <area>
       <value>112.47</value>
@@ -9698,7 +10094,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432152?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9718,8 +10114,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>69721600</value>
+      <value>87152000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>69721600</final-price>
+      </discount>
     </price>
     <area>
       <value>108.94</value>
@@ -9772,7 +10171,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432009?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9792,8 +10191,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>71761800</value>
+      <value>89702250</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>71761800</final-price>
+      </discount>
     </price>
     <area>
       <value>108.73</value>
@@ -9846,7 +10248,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431895?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9866,8 +10268,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>48313512</value>
+      <value>60391890</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>48313512</final-price>
+      </discount>
     </price>
     <area>
       <value>83.07</value>
@@ -9920,7 +10325,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431936?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9940,8 +10345,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>75978000</value>
+      <value>94972500</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>75978000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.54</value>
@@ -9994,7 +10402,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431937?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10014,8 +10422,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>73739200</value>
+      <value>92174000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>73739200</final-price>
+      </discount>
     </price>
     <area>
       <value>108.44</value>
@@ -10068,7 +10479,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431959?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10088,8 +10499,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>45123160</value>
+      <value>56403950</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>45123160</final-price>
+      </discount>
     </price>
     <area>
       <value>75.71</value>
@@ -10142,7 +10556,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431961?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10162,8 +10576,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>51113982</value>
+      <value>63892478</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>51113982</final-price>
+      </discount>
     </price>
     <area>
       <value>86.38</value>
@@ -10215,7 +10632,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431981?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10235,8 +10652,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>54543888</value>
+      <value>68179860</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>54543888</final-price>
+      </discount>
     </price>
     <area>
       <value>95.49</value>
@@ -10289,7 +10709,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431983?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10309,8 +10729,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>56387232</value>
+      <value>70484040</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>56387232</final-price>
+      </discount>
     </price>
     <area>
       <value>100.98</value>
@@ -10362,7 +10785,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432013?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10382,8 +10805,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>73576000</value>
+      <value>91970000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>73576000</final-price>
+      </discount>
     </price>
     <area>
       <value>108.2</value>
@@ -10436,7 +10862,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432036?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10456,8 +10882,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>57069408</value>
+      <value>71336760</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>57069408</final-price>
+      </discount>
     </price>
     <area>
       <value>98.26</value>
@@ -10510,7 +10939,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432055?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10530,8 +10959,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>52070400</value>
+      <value>65088000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>52070400</final-price>
+      </discount>
     </price>
     <area>
       <value>90.4</value>
@@ -10584,7 +11016,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432090?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10604,8 +11036,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>73562400</value>
+      <value>91953000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>73562400</final-price>
+      </discount>
     </price>
     <area>
       <value>108.18</value>
@@ -10658,7 +11093,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432123?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10678,8 +11113,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>78622920</value>
+      <value>98278650</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>78622920</final-price>
+      </discount>
     </price>
     <area>
       <value>152.37</value>
@@ -10732,7 +11170,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432125?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10752,8 +11190,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>71346513</value>
+      <value>89183142</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>71346513</final-price>
+      </discount>
     </price>
     <area>
       <value>128.28</value>
@@ -10805,7 +11246,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432127?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10825,8 +11266,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>65159214</value>
+      <value>81449017</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>65159214</final-price>
+      </discount>
     </price>
     <area>
       <value>111.54</value>
@@ -10872,87 +11316,13 @@
     <lift>да</lift>
     <parking>да</parking>
   </offer>
-  <offer internal-id="432018">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <url>https://psk-info.ru/flats/432018?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
-    <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
-    <location>
-      <country>Россия</country>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>Выборгская набережная, дом 61</address>
-      <latitude>59.980722</latitude>
-      <longitude>30.322641</longitude>
-      <metro>
-        <name>Петроградская</name>
-        <time-on-transport>5</time-on-transport>
-      </metro>
-    </location>
-    <sales-agent>
-      <phone>7 (812) 210-26-76</phone>
-      <category>агентство</category>
-      <name>Эвелина Петрова</name>
-      <organization>Агентство недвижимости «Тренд»</organization>
-    </sales-agent>
-    <deal-status>первичная продажа</deal-status>
-    <price>
-      <value>77322259</value>
-      <currency>RUB</currency>
-    </price>
-    <area>
-      <value>92.54</value>
-      <unit>кв. м</unit>
-    </area>
-    <rooms>3</rooms>
-    <new-flat>да</new-flat>
-    <floor>8</floor>
-    <floors-total>9</floors-total>
-    <renovation>без отделки</renovation>
-    <balcony>балкон</balcony>
-    <ceiling-height>3.0</ceiling-height>
-    <image tag="plan">https://stasfactoryads-cloud.github.io/psk-agency-feeds/plans/plan-d512c2369351d734.jpg</image>
-    <image tag="floor-plan">https://stasfactoryads-cloud.github.io/psk-agency-feeds/plans/floor-248140de7869341b.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
-    <description>3-комнатная квартира 92,54 м² на 8 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
-Без отделки. Высота потолков 3 м. Есть балкон. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
-Метро «Петроградская» в 5 минутах на транспорте.
-О проекте ЖК «Акватория»:
-• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
-• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
-• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
-• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
-• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
-• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
-• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
-• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
-• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
-• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
-Застройщик ГК «ПСК». Номер лота на сайте застройщика: 211.</description>
-    <building-name>ЖК «Акватория»</building-name>
-    <yandex-building-id>4544961</yandex-building-id>
-    <yandex-house-id>4545002</yandex-house-id>
-    <building-state>unfinished</building-state>
-    <built-year>2029</built-year>
-    <ready-quarter>2</ready-quarter>
-    <building-type>монолит</building-type>
-    <building-section>корпус 2</building-section>
-    <lift>да</lift>
-    <parking>да</parking>
-  </offer>
   <offer internal-id="431965">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431965?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10972,8 +11342,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>74170359</value>
+      <value>92712948</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>74170359</final-price>
+      </discount>
     </price>
     <area>
       <value>86.2</value>
@@ -11026,7 +11399,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432133?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11046,8 +11419,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>113849875</value>
+      <value>142312344</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>113849875</final-price>
+      </discount>
     </price>
     <area>
       <value>141.62</value>
@@ -11100,7 +11476,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432025?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11120,8 +11496,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>60353416</value>
+      <value>75441771</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>60353416</final-price>
+      </discount>
     </price>
     <area>
       <value>131.73</value>
@@ -11173,7 +11552,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432042?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11193,8 +11572,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>81373500</value>
+      <value>101716875</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>81373500</final-price>
+      </discount>
     </price>
     <area>
       <value>180.83</value>
@@ -11246,7 +11628,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432027?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11266,8 +11648,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>69187715</value>
+      <value>86484644</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>69187715</final-price>
+      </discount>
     </price>
     <area>
       <value>131.17</value>
@@ -11319,7 +11704,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432045?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11339,8 +11724,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>64902256</value>
+      <value>81127820</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>64902256</final-price>
+      </discount>
     </price>
     <area>
       <value>132.13</value>
@@ -11392,7 +11780,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432031?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11412,8 +11800,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>71255304</value>
+      <value>89069130</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>71255304</final-price>
+      </discount>
     </price>
     <area>
       <value>130.92</value>
@@ -11465,7 +11856,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432051?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11485,8 +11876,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>66842640</value>
+      <value>83553300</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>66842640</final-price>
+      </discount>
     </price>
     <area>
       <value>131.58</value>
@@ -11538,7 +11932,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432035?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11558,8 +11952,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>73213502</value>
+      <value>91516877</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>73213502</final-price>
+      </discount>
     </price>
     <area>
       <value>130.49</value>
@@ -11611,7 +12008,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432057?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11631,8 +12028,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>68644000</value>
+      <value>85805000</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>68644000</final-price>
+      </discount>
     </price>
     <area>
       <value>131.0</value>
@@ -11684,7 +12084,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431966?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11704,8 +12104,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>95444706</value>
+      <value>119305883</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>95444706</final-price>
+      </discount>
     </price>
     <area>
       <value>113.11</value>
@@ -11758,7 +12161,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432024?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11778,8 +12181,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>133592485</value>
+      <value>166990607</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>133592485</final-price>
+      </discount>
     </price>
     <area>
       <value>164.02</value>
@@ -11832,7 +12238,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432023?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-14T17:17:54+03:00</last-update-date>
+    <last-update-date>2026-10-14T17:48:01+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11852,8 +12258,11 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>170953663</value>
+      <value>213692079</value>
       <currency>RUB</currency>
+      <discount>
+        <final-price>170953663</final-price>
+      </discount>
     </price>
     <area>
       <value>155.79</value>

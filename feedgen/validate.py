@@ -70,6 +70,14 @@ def validate_feed(path, public_base_url=None):
             t = (ph.text or "").strip()
             if not PHONE_RE.match(t) or re.sub(r"\D", "", t).startswith(("880", "7880")):
                 per_issue[f"телефон «{t}» в недопустимом формате"] += 1
+        final = _f(o, "price/discount/final-price")
+        if final is not None:
+            try:
+                fp, val = float(final.text), float(_f(o, "price/value").text)
+                if not 0 < fp <= val:
+                    per_issue["цена со скидкой не меньше цены без скидки: Яндекс не покажет скидку"] += 1
+            except (TypeError, ValueError):
+                per_issue["<final-price> не число"] += 1
         rooms, studio = _f(o, "rooms"), _f(o, "studio")
         if rooms is None and studio is None:
             per_issue["нет ни <rooms>, ни <studio>"] += 1
@@ -95,7 +103,7 @@ def validate_feed(path, public_base_url=None):
     if dup:
         errors.append(f"Повторяются internal-id: {', '.join(dup[:10])}")
 
-    hard = ("нет обязательного", "вне списка", "телефон", "SVG", "80/443", "нет ни")
+    hard = ("нет обязательного", "вне списка", "телефон", "SVG", "80/443", "нет ни", "цена со скидкой", "final-price")
     for issue, n in per_issue.items():
         (errors if any(h in issue for h in hard) else warnings).append(
             f"{issue}: {n} из {len(offers)}"

@@ -129,13 +129,16 @@ def render_preview(feed_path, agency, project, cfg):
     for o in root.findall(f"{{{NS}}}offer"):
         imgs = [i.text.replace(base, "../../") for i in o.findall(f"{{{NS}}}image")]
         rooms = "Студия" if q(o, "studio") is not None else f"{t(o, 'rooms')}-комн."
-        price = f"{int(t(o, 'price/value')):,}".replace(",", " ")
+        fmt = lambda v: f"{int(float(v)):,}".replace(",", " ")
+        final = t(o, "price/discount/final-price")
+        price = (f"{fmt(final)} ₽ <s>{fmt(t(o, 'price/value'))} ₽</s>" if final
+                 else f"{fmt(t(o, 'price/value'))} ₽")
         agent = q(o, "sales-agent")
         contact = " · ".join(x for x in (t(agent, "organization"), t(agent, "name"),
                                           ", ".join(p.text for p in agent.findall(f"{{{NS}}}phone"))) if x)
         gallery = "".join(f'<a href="{html.escape(u)}" target="_blank"><img loading="lazy" src="{html.escape(u)}"></a>' for u in imgs)
         cards.append(f"""<article><div class="gal">{gallery}</div>
-<h2>{rooms} {t(o, 'area/value')} м² · этаж {t(o, 'floor')}/{t(o, 'floors-total')} · {price} ₽</h2>
+<h2>{rooms} {t(o, 'area/value')} м² · этаж {t(o, 'floor')}/{t(o, 'floors-total')} · {price}</h2>
 <p class="meta">ID {o.get('internal-id')} · {html.escape(t(o, 'renovation'))} · потолки {t(o, 'ceiling-height')} м · сдача {t(o, 'ready-quarter')} кв. {t(o, 'built-year')} · <a href="{html.escape(t(o, 'url'))}" target="_blank">страница лота</a></p>
 <p class="meta">{html.escape(contact)}</p>
 <pre>{html.escape(t(o, 'description'))}</pre></article>""")
