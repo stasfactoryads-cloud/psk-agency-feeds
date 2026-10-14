@@ -1,7 +1,7 @@
 # Фиды ГК «ПСК» для агентств недвижимости
 
 Сервис собирает YRL-фиды по ЖК «Оптимист» для агентств «Тренд», «Адвекс»,
-«Петербургская недвижимость» и «ПАН». Формат соответствует техтребованиям
+«Петербургская недвижимость», «ПАН» и «Н Маркет». Формат соответствует техтребованиям
 Яндекс Недвижимости (продажа квартир в новостройках). Данные берутся из API psk-info.ru.
 
 **Страница со ссылками на фиды:** https://stasfactoryads-cloud.github.io/psk-agency-feeds/
@@ -31,6 +31,7 @@ GitHub Actions ([update-feeds.yml](.github/workflows/update-feeds.yml)) кажд
 | Адвекс | https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs.xml |
 | Петербургская недвижимость | https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost.xml |
 | ПАН | https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan.xml |
+| Н Маркет | https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market.xml |
 | Статус в JSON | https://stasfactoryads-cloud.github.io/psk-agency-feeds/status.json |
 
 У каждого фида есть превью лотов с картинками: `/preview/<агентство>.html`.

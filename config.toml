@@ -86,3 +86,14 @@ agent_name = "Эвелина Петрова"
 email = ""
 url = ""
 utm_source = "pan"
+
+[[agency]]
+slug = "n-market"
+name = "Н Маркет"
+organization = "Агентство недвижимости «Н Маркет»"
+category = "агентство"
+phones = ["7 (812) 210-26-76"]
+agent_name = "Эвелина Петрова"
+email = ""
+url = ""
+utm_source = "nmarket"
