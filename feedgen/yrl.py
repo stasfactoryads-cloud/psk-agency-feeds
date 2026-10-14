@@ -35,19 +35,19 @@ def balcony_value(features):
     return None
 
 
-def lot_url(cfg, flat, agency):
+def lot_url(cfg, project, flat, agency):
     url = f"{cfg.site_url}/flats/{flat['id']}"
     if agency.utm_source:
         url += "?" + urlencode({
             "utm_source": agency.utm_source,
             "utm_medium": "realty_feed",
-            "utm_campaign": cfg.project.name.lower(),
+            "utm_campaign": project.key,
         })
     return url
 
 
 def build_offer(root, ctx, flat, agency):
-    cfg, p = ctx["cfg"], ctx["cfg"].project
+    cfg, p = ctx["cfg"], ctx["project"]
     detail = ctx["details"].get(flat["id"]) or {}
     images = ctx["images"].get(flat["id"], {})
     project_api = ctx["project_api"]
@@ -58,7 +58,7 @@ def build_offer(root, ctx, flat, agency):
     sub(offer, "type", "продажа")
     sub(offer, "property-type", "жилая")
     sub(offer, "category", "квартира")
-    sub(offer, "url", lot_url(cfg, flat, agency))
+    sub(offer, "url", lot_url(cfg, p, flat, agency))
     sub(offer, "creation-date", ctx["first_seen"].get(str(flat["id"]), ts))
     sub(offer, "last-update-date", ts)
 
@@ -144,7 +144,7 @@ def build_offer(root, ctx, flat, agency):
     # Дом
     sub(offer, "building-name", f"ЖК «{p.name}»")
     sub(offer, "yandex-building-id", p.yandex_building_id)
-    sub(offer, "yandex-house-id", p.yandex_house_id)
+    sub(offer, "yandex-house-id", p.house_id(flat))
     year, quarter = flat.get("completion_year"), flat.get("completion_quarter")
     sub(offer, "building-state", building_state(year, quarter, now))
     if year:
@@ -152,8 +152,8 @@ def build_offer(root, ctx, flat, agency):
     if quarter:
         sub(offer, "ready-quarter", quarter)
     sub(offer, "building-type", p.building_type)
-    if p.building_section:
-        sub(offer, "building-section", p.building_section)
+    if p.section(flat):
+        sub(offer, "building-section", p.section(flat))
     sub(offer, "lift", "да")
     sub(offer, "parking", "да")
     return offer

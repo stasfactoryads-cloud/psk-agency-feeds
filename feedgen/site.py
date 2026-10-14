@@ -32,14 +32,22 @@ def _list(items, cls=""):
 def render_index(report):
     e = html.escape
     audit = report.get("audit")
-    rows = "".join(f"""<tr>
-<td><b>{e(f['agency'])}</b></td>
-<td><div class="link"><code>{e(f['url'])}</code>
+    agencies = {}
+    for f in report["feeds"]:
+        agencies.setdefault(f["agency"], []).append(f)
+    rows = ""
+    for agency, feeds in agencies.items():
+        for i, f in enumerate(feeds):
+            first = f'<td rowspan="{len(feeds)}"><b>{e(agency)}</b></td>' if i == 0 else ""
+            rows += f"""<tr class="{'grp' if i == 0 else ''}">{first}
+<td class="nw">ЖК «{e(f['project_name'])}»</td>
+<td class="url"><div class="link"><code>{e(f['url'])}</code>
 <button type="button" data-url="{e(f['url'])}">Копировать</button></div>
-<a href="{e(f['url'])}">открыть XML</a> · <a href="preview/{e(f['slug'])}.html">превью лотов</a></td>
+<a href="{e(f['url'])}">открыть XML</a> · <a href="{e(f['preview'])}">превью лотов</a></td>
 <td class="num">{f['offers']}</td>
 <td><span class="badge {f['status']}">{STATUS_LABEL.get(f['status'], f['status'])}</span></td>
-</tr>""" for f in report["feeds"])
+</tr>"""
+    lots = ", ".join(f"«{e(p['name'])}» {p['lots']}" for p in report.get("projects", []))
 
     if audit:
         audit_html = f"""<section><h2>Аудит <span class="badge {audit['status']}">{STATUS_LABEL[audit['status']]}</span></h2>
@@ -59,17 +67,18 @@ main{{max-width:1100px;margin:0 auto}}section{{background:var(--card);border:1px
 h1{{margin:0 0 4px}}h2{{margin:0 0 8px;font-size:18px}}.muted{{color:var(--muted);margin:0 0 16px}}
 table{{border-collapse:collapse;width:100%}}td,th{{border-bottom:1px solid var(--line);padding:10px 8px;text-align:left;vertical-align:top}}
 th{{font-weight:600;color:var(--muted)}}.num{{text-align:right}}a{{color:var(--text)}}
-.wrap{{overflow-x:auto}}.link{{display:flex;gap:8px;align-items:center;margin:0 0 4px}}
+.wrap{{overflow-x:auto}}tr.grp td{{border-top:2px solid var(--line)}}
+table{{min-width:820px}}.nw{{white-space:nowrap}}td.url{{width:100%}}.link code{{flex:1;min-width:0}}.link{{display:flex;gap:8px;align-items:center;margin:0 0 4px}}
 code{{background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:3px 6px;word-break:break-all;font-size:13px}}
 button{{font:inherit;font-size:13px;padding:3px 10px;border:1px solid var(--line);border-radius:4px;background:var(--card);color:var(--text);cursor:pointer;white-space:nowrap}}
 .badge{{font-size:13px;padding:1px 8px;border-radius:10px;border:1px solid currentColor}}.badge.ok,li.ok{{color:var(--ok)}}.badge.error,li.error{{color:var(--err)}}li.warn{{color:var(--warn)}}
 ul{{margin:0;padding-left:20px}}
 </style></head><body><main>
-<h1>Фиды ЖК «{e(report['project'])}» для агентств</h1>
+<h1>Фиды ГК «ПСК» для агентств недвижимости</h1>
 <p class="muted">Формат YRL, техтребования Яндекс Недвижимости. Обновляются ежедневно в 12:00 МСК.
-Последняя сборка: {e(fmt_ts(report['generated_at']))}. Лотов в продаже: {report['lots']}.</p>
+Последняя сборка: {e(fmt_ts(report['generated_at']))}. Лотов в продаже: {lots}.</p>
 <section><h2>Прямые ссылки</h2><div class="wrap"><table>
-<tr><th>Агентство</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
+<tr><th>Агентство</th><th>ЖК</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
 {rows}</table></div></section>
 {audit_html}
 <p class="muted">Данные в JSON: <a href="status.json">status.json</a></p>

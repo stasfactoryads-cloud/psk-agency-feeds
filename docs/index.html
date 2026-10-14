@@ -9,56 +9,127 @@ main{max-width:1100px;margin:0 auto}section{background:var(--card);border:1px so
 h1{margin:0 0 4px}h2{margin:0 0 8px;font-size:18px}.muted{color:var(--muted);margin:0 0 16px}
 table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid var(--line);padding:10px 8px;text-align:left;vertical-align:top}
 th{font-weight:600;color:var(--muted)}.num{text-align:right}a{color:var(--text)}
-.wrap{overflow-x:auto}.link{display:flex;gap:8px;align-items:center;margin:0 0 4px}
+.wrap{overflow-x:auto}tr.grp td{border-top:2px solid var(--line)}
+table{min-width:820px}.nw{white-space:nowrap}td.url{width:100%}.link code{flex:1;min-width:0}.link{display:flex;gap:8px;align-items:center;margin:0 0 4px}
 code{background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:3px 6px;word-break:break-all;font-size:13px}
 button{font:inherit;font-size:13px;padding:3px 10px;border:1px solid var(--line);border-radius:4px;background:var(--card);color:var(--text);cursor:pointer;white-space:nowrap}
 .badge{font-size:13px;padding:1px 8px;border-radius:10px;border:1px solid currentColor}.badge.ok,li.ok{color:var(--ok)}.badge.error,li.error{color:var(--err)}li.warn{color:var(--warn)}
 ul{margin:0;padding-left:20px}
 </style></head><body><main>
-<h1>Фиды ЖК «Оптимист» для агентств</h1>
+<h1>Фиды ГК «ПСК» для агентств недвижимости</h1>
 <p class="muted">Формат YRL, техтребования Яндекс Недвижимости. Обновляются ежедневно в 12:00 МСК.
-Последняя сборка: 14.10.2026 16:55 МСК. Лотов в продаже: 191.</p>
+Последняя сборка: 14.10.2026 17:13 МСК. Лотов в продаже: «Оптимист» 191, «Сезоны» 263, «Акватория» 162.</p>
 <section><h2>Прямые ссылки</h2><div class="wrap"><table>
-<tr><th>Агентство</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
-<tr>
-<td><b>Тренд</b></td>
-<td><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend.xml</code>
-<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend.xml">Копировать</button></div>
-<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend.xml">открыть XML</a> · <a href="preview/trend.html">превью лотов</a></td>
+<tr><th>Агентство</th><th>ЖК</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
+<tr class="grp"><td rowspan="3"><b>Тренд</b></td>
+<td class="nw">ЖК «Оптимист»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/optimist.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/optimist.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/optimist.xml">открыть XML</a> · <a href="preview/trend/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr>
-<td><b>Адвекс</b></td>
-<td><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs.xml</code>
-<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs.xml">Копировать</button></div>
-<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs.xml">открыть XML</a> · <a href="preview/advecs.html">превью лотов</a></td>
+</tr><tr class="">
+<td class="nw">ЖК «Сезоны»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/sezony.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/sezony.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/sezony.xml">открыть XML</a> · <a href="preview/trend/sezony.html">превью лотов</a></td>
+<td class="num">263</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="">
+<td class="nw">ЖК «Акватория»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/akvatoriya.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/akvatoriya.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend/akvatoriya.xml">открыть XML</a> · <a href="preview/trend/akvatoriya.html">превью лотов</a></td>
+<td class="num">162</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="grp"><td rowspan="3"><b>Адвекс</b></td>
+<td class="nw">ЖК «Оптимист»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/optimist.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/optimist.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/optimist.xml">открыть XML</a> · <a href="preview/advecs/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr>
-<td><b>Петербургская недвижимость</b></td>
-<td><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost.xml</code>
-<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost.xml">Копировать</button></div>
-<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost.html">превью лотов</a></td>
+</tr><tr class="">
+<td class="nw">ЖК «Сезоны»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/sezony.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/sezony.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/sezony.xml">открыть XML</a> · <a href="preview/advecs/sezony.html">превью лотов</a></td>
+<td class="num">263</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="">
+<td class="nw">ЖК «Акватория»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/akvatoriya.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/akvatoriya.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs/akvatoriya.xml">открыть XML</a> · <a href="preview/advecs/akvatoriya.html">превью лотов</a></td>
+<td class="num">162</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="grp"><td rowspan="3"><b>Петербургская недвижимость</b></td>
+<td class="nw">ЖК «Оптимист»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/optimist.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/optimist.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/optimist.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr>
-<td><b>ПАН</b></td>
-<td><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan.xml</code>
-<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan.xml">Копировать</button></div>
-<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan.xml">открыть XML</a> · <a href="preview/pan.html">превью лотов</a></td>
+</tr><tr class="">
+<td class="nw">ЖК «Сезоны»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/sezony.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/sezony.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/sezony.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/sezony.html">превью лотов</a></td>
+<td class="num">263</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="">
+<td class="nw">ЖК «Акватория»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/akvatoriya.html">превью лотов</a></td>
+<td class="num">162</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="grp"><td rowspan="3"><b>ПАН</b></td>
+<td class="nw">ЖК «Оптимист»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/optimist.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/optimist.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/optimist.xml">открыть XML</a> · <a href="preview/pan/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr>
-<td><b>Н Маркет</b></td>
-<td><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market.xml</code>
-<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market.xml">Копировать</button></div>
-<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market.xml">открыть XML</a> · <a href="preview/n-market.html">превью лотов</a></td>
+</tr><tr class="">
+<td class="nw">ЖК «Сезоны»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/sezony.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/sezony.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/sezony.xml">открыть XML</a> · <a href="preview/pan/sezony.html">превью лотов</a></td>
+<td class="num">263</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="">
+<td class="nw">ЖК «Акватория»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/akvatoriya.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/akvatoriya.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/akvatoriya.xml">открыть XML</a> · <a href="preview/pan/akvatoriya.html">превью лотов</a></td>
+<td class="num">162</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="grp"><td rowspan="3"><b>Н Маркет</b></td>
+<td class="nw">ЖК «Оптимист»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/optimist.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/optimist.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/optimist.xml">открыть XML</a> · <a href="preview/n-market/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="">
+<td class="nw">ЖК «Сезоны»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/sezony.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/sezony.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/sezony.xml">открыть XML</a> · <a href="preview/n-market/sezony.html">превью лотов</a></td>
+<td class="num">263</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr class="">
+<td class="nw">ЖК «Акватория»</td>
+<td class="url"><div class="link"><code>https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/akvatoriya.xml</code>
+<button type="button" data-url="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/akvatoriya.xml">Копировать</button></div>
+<a href="https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market/akvatoriya.xml">открыть XML</a> · <a href="preview/n-market/akvatoriya.html">превью лотов</a></td>
+<td class="num">162</td>
 <td><span class="badge ok">готов</span></td>
 </tr></table></div></section>
 <section><h2>Аудит <span class="badge ok">готов</span></h2>
-<p class="muted">Проверено: 14.10.2026 16:56 МСК</p>
-<ul><li class="ok">Правила Яндекс Недвижимости: проверено фидов 5</li><li class="ok">Планировки JPG на месте</li><li class="ok">Внешние картинки доступны: 6 из 6</li><li class="ok">Набор лотов совпадает с API: 191</li><li class="ok">Фиды свежие</li></ul></section>
+<p class="muted">Проверено: 14.10.2026 17:16 МСК</p>
+<ul><li class="ok">Правила Яндекс Недвижимости: проверено фидов 15</li><li class="ok">Планировки JPG на месте</li><li class="ok">Внешние картинки доступны: 18 из 18</li><li class="ok">Набор лотов совпадает с API: Оптимист 191, Сезоны 263, Акватория 162</li><li class="ok">Фиды свежие</li></ul></section>
 <p class="muted">Данные в JSON: <a href="status.json">status.json</a></p>
 </main>
 <script>

@@ -49,6 +49,6 @@ jobs:
             echo "Изменений нет"
             exit 0
           fi
-          LOTS=$(python -c "import json;print(json.load(open('docs/status.json'))['lots'])")
+          LOTS=$(python -c "import json;d=json.load(open('docs/status.json'));print(sum(p['lots'] for p in d['projects']))")
           git commit -m "Фиды обновлены: ${LOTS} лотов, $(TZ=Europe/Moscow date '+%Y-%m-%d %H:%M МСК')"
           git push

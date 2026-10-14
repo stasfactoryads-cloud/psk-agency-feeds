@@ -4,8 +4,8 @@
   1. Каждый фид проходит правила Яндекс Недвижимости (validate.py)
   2. Все картинки с нашего домена реально лежат в папке публикации
   3. Внешние картинки (рендеры ЖК) отвечают 200 и это изображения
-  4. Во всех фидах одинаковый набор лотов, и он совпадает с API
-  5. Число лотов не упало резко относительно прошлой сборки
+  4. В фидах одного ЖК у всех агентств одинаковый набор лотов, и он совпадает с API
+  5. Число лотов по каждому ЖК не упало резко относительно прошлой сборки
   6. Фид свежий (собран не раньше чем 26 часов назад)
 
 Результат пишется в status.json (блок audit) и выводится на главной странице.
@@ -15,6 +15,7 @@
 
 import json
 import logging
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -30,13 +31,20 @@ MAX_DROP = 0.5          # падение числа лотов больше че
 MAX_AGE_HOURS = 26
 
 
-def _head(url):
-    try:
-        req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "PSK-Feed-Audit/1.0"})
-        with urllib.request.urlopen(req, timeout=20) as r:
-            return url, r.status, r.headers.get("Content-Type", "")
-    except Exception as e:
-        return url, getattr(e, "code", 0), str(e)
+def _head(url, attempts=3):
+    """HEAD с повторами: единичный сбой хранилища не должен блокировать публикацию."""
+    result = (url, 0, "")
+    for i in range(attempts):
+        try:
+            req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "PSK-Feed-Audit/1.0"})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                result = (url, r.status, r.headers.get("Content-Type", ""))
+        except Exception as e:
+            result = (url, getattr(e, "code", 0), str(e))
+        if result[1] == 200:
+            return result
+        time.sleep(2 * (i + 1))
+    return result
 
 
 def run(cfg):
@@ -47,18 +55,19 @@ def run(cfg):
 
     offer_sets, local_missing, remote_urls = {}, set(), set()
     for feed in report["feeds"]:
-        path = cfg.feeds_dir / f"{feed['slug']}.xml"
+        label = f"{feed['agency']} / {feed['project_name']}"
+        path = cfg.output_dir / feed["path"]
         if not path.exists():
-            errors.append(f"{feed['agency']}: файл фида отсутствует")
+            errors.append(f"{label}: файл фида отсутствует")
             continue
         res = validate_feed(path, cfg.public_base_url)
         feed.update(res, status="ok" if not res["errors"] else "error")
-        errors += [f"{feed['agency']}: {e}" for e in res["errors"]]
-        warnings += [f"{feed['agency']}: {w}" for w in res["warnings"]]
+        errors += [f"{label}: {e}" for e in res["errors"]]
+        warnings += [f"{label}: {w}" for w in res["warnings"]]
 
         root = ET.parse(path).getroot()
         offers = root.findall(f"{{{NS}}}offer")
-        offer_sets[feed["slug"]] = {o.get("internal-id") for o in offers}
+        offer_sets.setdefault(feed["project"], []).append({o.get("internal-id") for o in offers})
         for img in root.iter(f"{{{NS}}}image"):
             url = img.text or ""
             if url.startswith(base):
@@ -66,7 +75,7 @@ def run(cfg):
                     local_missing.add(url[len(base):])
             else:
                 remote_urls.add(url)
-    checks.append(f"Правила Яндекс Недвижимости: проверено фидов {len(offer_sets)}")
+    checks.append(f"Правила Яндекс Недвижимости: проверено фидов {len(report['feeds'])}")
 
     if local_missing:
         errors.append(f"Нет файлов картинок в публикации: {len(local_missing)} (например {sorted(local_missing)[0]})")
@@ -79,18 +88,19 @@ def run(cfg):
         errors.append(f"Недоступны внешние картинки: {len(broken)} из {len(remote_urls)}, например {broken[0][0]}")
     checks.append(f"Внешние картинки доступны: {len(remote_urls) - len(broken)} из {len(remote_urls)}")
 
-    sets = list(offer_sets.values())
-    if sets and any(s != sets[0] for s in sets):
-        errors.append("В фидах агентств разный набор лотов")
-    if sets and len(sets[0]) != report["lots"]:
-        errors.append(f"В фиде {len(sets[0])} лотов, в API {report['lots']}")
-    checks.append(f"Набор лотов совпадает с API: {report['lots']}")
-
-    prev = report.get("prev_lots")
-    if prev and report["lots"] < prev * (1 - MAX_DROP):
-        errors.append(f"Число лотов упало с {prev} до {report['lots']}: проверьте API сайта")
-    elif prev and report["lots"] != prev:
-        warnings.append(f"Число лотов изменилось: было {prev}, стало {report['lots']}")
+    for pr in report["projects"]:
+        sets = offer_sets.get(pr["key"], [])
+        name = pr["name"]
+        if any(x != sets[0] for x in sets):
+            errors.append(f"ЖК «{name}»: в фидах агентств разный набор лотов")
+        if sets and len(sets[0]) != pr["lots"]:
+            errors.append(f"ЖК «{name}»: в фиде {len(sets[0])} лотов, в API {pr['lots']}")
+        prev = pr.get("prev_lots")
+        if prev and pr["lots"] < prev * (1 - MAX_DROP):
+            errors.append(f"ЖК «{name}»: число лотов упало с {prev} до {pr['lots']}, проверьте API сайта")
+        elif prev and pr["lots"] != prev:
+            warnings.append(f"ЖК «{name}»: число лотов изменилось, было {prev}, стало {pr['lots']}")
+    checks.append("Набор лотов совпадает с API: " + ", ".join(f"{pr['name']} {pr['lots']}" for pr in report["projects"]))
 
     age = datetime.now(MSK) - datetime.fromisoformat(report["generated_at"])
     if age > timedelta(hours=MAX_AGE_HOURS):

@@ -1,7 +1,8 @@
 # Фиды ГК «ПСК» для агентств недвижимости
 
-Сервис собирает YRL-фиды по ЖК «Оптимист» для агентств «Тренд», «Адвекс»,
-«Петербургская недвижимость», «ПАН» и «Н Маркет». Формат соответствует техтребованиям
+Сервис собирает YRL-фиды по ЖК «Оптимист», «Сезоны» и «Акватория» для агентств
+«Тренд», «Адвекс», «Петербургская недвижимость», «ПАН» и «Н Маркет».
+У каждого агентства отдельный фид на каждый ЖК. Формат соответствует техтребованиям
 Яндекс Недвижимости (продажа квартир в новостройках). Данные берутся из API psk-info.ru.
 
 **Страница со ссылками на фиды:** https://stasfactoryads-cloud.github.io/psk-agency-feeds/
@@ -24,17 +25,24 @@ GitHub Actions ([update-feeds.yml](.github/workflows/update-feeds.yml)) кажд
 
 ## Ссылки
 
-| Что | Адрес |
-|---|---|
-| Страница со всеми ссылками и статусом | https://stasfactoryads-cloud.github.io/psk-agency-feeds/ |
-| Тренд | https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/trend.xml |
-| Адвекс | https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/advecs.xml |
-| Петербургская недвижимость | https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/peterburgskaya-nedvizhimost.xml |
-| ПАН | https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan.xml |
-| Н Маркет | https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market.xml |
-| Статус в JSON | https://stasfactoryads-cloud.github.io/psk-agency-feeds/status.json |
+Все актуальные ссылки с кнопкой «Копировать»: https://stasfactoryads-cloud.github.io/psk-agency-feeds/
 
-У каждого фида есть превью лотов с картинками: `/preview/<агентство>.html`.
+Шаблон ссылки на фид: `https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/<агентство>/<ЖК>.xml`
+
+| Агентство | slug | | ЖК | key |
+|---|---|---|---|---|
+| Тренд | `trend` | | Оптимист | `optimist` |
+| Адвекс | `advecs` | | Сезоны | `sezony` |
+| Петербургская недвижимость | `peterburgskaya-nedvizhimost` | | Акватория | `akvatoriya` |
+| ПАН | `pan` | | | |
+| Н Маркет | `n-market` | | | |
+
+Например, фид «Сезоны» для ПАН: https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/pan/sezony.xml
+
+Превью лотов с картинками: `/preview/<агентство>/<ЖК>.html`. Статус в JSON: `/status.json`.
+
+Старые ссылки вида `/feeds/<агентство>.xml` (до разделения по ЖК) продолжают работать
+и отдают фид «Оптимиста» (`legacy_project` в конфиге).
 
 ## Что в фиде
 
@@ -46,17 +54,19 @@ GitHub Actions ([update-feeds.yml](.github/workflows/update-feeds.yml)) кажд
 | Планировка квартиры (`<image tag="plan">`, первая картинка) | SVG `plan` -> JPG |
 | Поэтажный план с подсвеченной квартирой (`tag="floor-plan"`) | SVG `floor_plan` + контур `floor_plan_hover` -> JPG |
 | Рендеры ЖК | `slider_images` проекта |
-| Привязка к каталогу Яндекса | `yandex-building-id` 4895327, `yandex-house-id` 4895353 |
+| Привязка к каталогу Яндекса | `yandex-building-id` и `yandex-house-id` из `config.toml` (у «Сезонов» свой ID на каждый корпус) |
 | Продавец | телефон, менеджер, название агентства из `config.toml` |
 
 Описания проходят проверку по правилам ГК «ПСК»: нет буквы «е» с точками, длинного тире
-и телефонов, есть «ЖК «Оптимист»» и «ГК «ПСК»». Порядок пунктов о проекте зависит
+и телефонов, есть название ЖК и «ГК «ПСК»». Порядок пунктов о проекте зависит
 от агентства, поэтому тексты у агентств не совпадают дословно.
 
 ## Настройка
 
 Все настройки лежат в [config.toml](config.toml), код править не нужно:
-- агентство: блок `[[agency]]` (телефоны, менеджер, название, UTM-метка);
+- агентство: блок `[[agency]]` (телефоны, менеджер, название, UTM-метка,
+  список ЖК `projects`; без него агентство получает все ЖК);
+- ЖК: блок `[[project]]` (ID в API сайта, ID в каталоге Яндекса, отделка);
 - скидка: `show_discount` (перечеркнутая цена в Яндексе или только упоминание в описании);
 - отделка: соответствие значений сайта и Яндекса в `[project.renovation]`.
 

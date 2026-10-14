@@ -3,6 +3,7 @@
 import html
 import json
 import logging
+import shutil
 from datetime import datetime, timedelta, timezone
 
 from . import api
@@ -32,67 +33,93 @@ def _save_json(path, data):
 
 
 def run(cfg, only=None, with_images=True):
+    """only: список slug агентств; None = все. Каждое агентство получает отдельный фид на каждый ЖК."""
     now = datetime.now(MSK)
-    p = cfg.project
-    log.info("Сборка фидов ЖК «%s», %s", p.name, now.strftime("%Y-%m-%d %H:%M МСК"))
-
-    project_api = api.fetch_project(cfg.api_base, p.api_id)
-    flats = api.select_project_flats(api.fetch_all_flats(cfg.api_base), p)
-    flats.sort(key=lambda f: (f.get("rooms") or 0, f.get("floor") or 0, f["id"]))
-    log.info("Лотов в продаже: %d", len(flats))
-    if not flats:
-        raise RuntimeError("API не вернуло ни одного лота: фиды не перезаписываю")
-
-    details = api.fetch_details(cfg.api_base, [f["id"] for f in flats], cfg.api_workers)
-
-    if with_images:
-        images = build_images(flats, cfg.plans_dir, cfg.image_size)
-        cleanup_unused(cfg.plans_dir, {n for e in images.values() for n in e.values() if n})
-    else:
-        images = {}
-
-    renders = [s["image"] for s in sorted(project_api.get("slider_images") or [], key=lambda s: s.get("order", 0))
-               if s.get("image", "").lower().endswith((".jpg", ".jpeg", ".png"))][:p.render_count]
-
-    first_seen = _load_first_seen(cfg)
     ts = now.strftime("%Y-%m-%dT%H:%M:%S+03:00")
-    for f in flats:
-        first_seen.setdefault(str(f["id"]), ts)
-    _save_json(cfg.cache_dir / "first_seen.json", first_seen)
-
-    ctx = {"cfg": cfg, "now": now, "flats": flats, "details": details, "images": images,
-           "project_api": project_api, "renders": renders, "first_seen": first_seen}
+    log.info("Сборка фидов, %s", now.strftime("%Y-%m-%d %H:%M МСК"))
 
     try:
-        prev_lots = json.loads((cfg.output_dir / "status.json").read_text()).get("lots")
-    except (FileNotFoundError, json.JSONDecodeError):
-        prev_lots = None
-    report = {"generated_at": ts, "project": p.name, "lots": len(flats), "prev_lots": prev_lots, "feeds": []}
-    for agency in cfg.agencies:
-        if only and agency.slug not in only:
-            continue
-        path = cfg.feeds_dir / f"{agency.slug}.xml"
-        write_feed(build_feed(ctx, agency), path)
-        check = validate_feed(path, cfg.public_base_url)
-        preview = cfg.output_dir / "preview" / f"{agency.slug}.html"
-        preview.parent.mkdir(parents=True, exist_ok=True)
-        preview.write_text(render_preview(path, agency, cfg), encoding="utf-8")
-        status = "ok" if not check["errors"] else "error"
-        log.info("%-30s %s  офферов %d, ошибок %d, замечаний %d",
-                 agency.name, status.upper(), check["offers"], len(check["errors"]), len(check["warnings"]))
-        for e in check["errors"]:
-            log.warning("  [%s] %s", agency.slug, e)
-        report["feeds"].append({
-            "agency": agency.name, "slug": agency.slug,
-            "url": cfg.public_url(f"feeds/{agency.slug}.xml"),
-            "status": status, **check,
-        })
+        prev = json.loads((cfg.output_dir / "status.json").read_text())
+        prev_lots = {pr["key"]: pr["lots"] for pr in prev.get("projects", [])}
+    except (FileNotFoundError, json.JSONDecodeError, KeyError):
+        prev_lots = {}
 
+    all_flats = api.fetch_all_flats(cfg.api_base)
+    first_seen = _load_first_seen(cfg)
+    used_images, written = set(), set()
+    report = {"generated_at": ts, "projects": [], "feeds": []}
+
+    for p in cfg.projects:
+        project_api = api.fetch_project(cfg.api_base, p.api_id)
+        flats = api.select_project_flats(all_flats, p)
+        flats.sort(key=lambda f: (str(f.get("building")), f.get("rooms") or 0, f.get("floor") or 0, f["id"]))
+        log.info("ЖК «%s»: лотов в продаже %d", p.name, len(flats))
+        if not flats:
+            raise RuntimeError(f"API не вернуло лотов по ЖК «{p.name}»: фиды не перезаписываю")
+
+        details = api.fetch_details(cfg.api_base, [f["id"] for f in flats], cfg.api_workers)
+        images = build_images(flats, cfg.plans_dir, cfg.image_size, render=with_images)
+        used_images |= {n for e in images.values() for n in e.values() if n}
+
+        renders = [s["image"] for s in sorted(project_api.get("slider_images") or [], key=lambda s: s.get("order", 0))
+                   if (s.get("image") or "").lower().endswith((".jpg", ".jpeg", ".png"))][:p.render_count]
+
+        for f in flats:
+            first_seen.setdefault(str(f["id"]), ts)
+
+        ctx = {"cfg": cfg, "project": p, "now": now, "flats": flats, "details": details, "images": images,
+               "project_api": project_api, "renders": renders, "first_seen": first_seen}
+        report["projects"].append({"key": p.key, "name": p.name, "lots": len(flats), "prev_lots": prev_lots.get(p.key)})
+
+        for agency in cfg.agencies:
+            if (only and agency.slug not in only) or not agency.wants(p.key):
+                continue
+            rel = cfg.feed_rel(agency, p)
+            path = cfg.output_dir / rel
+            write_feed(build_feed(ctx, agency), path)
+            written.add(rel)
+            if cfg.legacy_project == p.key:          # старые ссылки feeds/<агентство>.xml
+                legacy = f"feeds/{agency.slug}.xml"
+                shutil.copyfile(path, cfg.output_dir / legacy)
+                written.add(legacy)
+            check = validate_feed(path, cfg.public_base_url)
+            prev_rel = cfg.preview_rel(agency, p)
+            (cfg.output_dir / prev_rel).parent.mkdir(parents=True, exist_ok=True)
+            (cfg.output_dir / prev_rel).write_text(render_preview(path, agency, p, cfg), encoding="utf-8")
+            written.add(prev_rel)
+            status = "ok" if not check["errors"] else "error"
+            log.info("  %-28s %s  офферов %d, ошибок %d, замечаний %d",
+                     agency.name, status.upper(), check["offers"], len(check["errors"]), len(check["warnings"]))
+            for e in check["errors"]:
+                log.warning("    %s", e)
+            report["feeds"].append({
+                "agency": agency.name, "slug": agency.slug, "project": p.key, "project_name": p.name,
+                "path": rel, "url": cfg.public_url(rel), "preview": prev_rel,
+                "status": status, **check,
+            })
+
+    _save_json(cfg.cache_dir / "first_seen.json", first_seen)
+    if with_images:
+        cleanup_unused(cfg.plans_dir, used_images)
+    if not only:
+        _cleanup_stale(cfg, written)
     write_site(cfg, report)
     return report
 
 
-def render_preview(feed_path, agency, cfg):
+def _cleanup_stale(cfg, written):
+    """Удаляет фиды и превью агентств и ЖК, которых больше нет в конфиге."""
+    for folder, pattern in (("feeds", "*.xml"), ("preview", "*.html")):
+        for f in (cfg.output_dir / folder).rglob(pattern):
+            if f.relative_to(cfg.output_dir).as_posix() not in written:
+                f.unlink()
+                log.info("Удален устаревший файл: %s", f.relative_to(cfg.output_dir))
+        for d in sorted((cfg.output_dir / folder).glob("*/"), reverse=True):
+            if d.is_dir() and not any(d.iterdir()):
+                d.rmdir()
+
+
+def render_preview(feed_path, agency, project, cfg):
     """Наглядная страница фида: как лоты увидит человек, картинки по относительным путям."""
     q = lambda el, p: el.find("/".join(f"{{{NS}}}{x}" for x in p.split("/")))
     t = lambda el, p: (q(el, p).text if q(el, p) is not None else "") or ""
@@ -100,7 +127,7 @@ def render_preview(feed_path, agency, cfg):
     root = ET.parse(feed_path).getroot()
     cards = []
     for o in root.findall(f"{{{NS}}}offer"):
-        imgs = [i.text.replace(base, "../") for i in o.findall(f"{{{NS}}}image")]
+        imgs = [i.text.replace(base, "../../") for i in o.findall(f"{{{NS}}}image")]
         rooms = "Студия" if q(o, "studio") is not None else f"{t(o, 'rooms')}-комн."
         price = f"{int(t(o, 'price/value')):,}".replace(",", " ")
         agent = q(o, "sales-agent")
@@ -114,12 +141,12 @@ def render_preview(feed_path, agency, cfg):
 <pre>{html.escape(t(o, 'description'))}</pre></article>""")
     return f"""<!doctype html><html lang="ru"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Фид {html.escape(agency.name)}</title>
+<title>Фид {html.escape(agency.name)}: {html.escape(project.name)}</title>
 <style>body{{font:15px/1.5 system-ui,sans-serif;color:#111;background:#f6f6f6;margin:0;padding:24px 16px}}
 main{{max-width:1100px;margin:0 auto}}article{{background:#fff;border:1px solid #e2e2e2;border-radius:8px;padding:16px;margin:0 0 16px}}
 .gal{{display:flex;gap:8px;overflow-x:auto}}.gal img{{height:180px;border:1px solid #eee;border-radius:4px;background:#fff}}
 h2{{font-size:18px;margin:12px 0 4px}}.meta{{color:#555;margin:2px 0}}.meta a{{color:#111}}
 pre{{white-space:pre-wrap;font:inherit;background:#fafafa;border-left:3px solid #ddd;padding:8px 12px;margin:10px 0 0}}</style></head>
-<body><main><h1>Фид «{html.escape(agency.name)}»: ЖК «{html.escape(cfg.project.name)}»</h1>
-<p>Лотов: {len(cards)}. Файл фида: <a href="../feeds/{agency.slug}.xml">{agency.slug}.xml</a></p>
+<body><main><h1>Фид «{html.escape(agency.name)}»: ЖК «{html.escape(project.name)}»</h1>
+<p>Лотов: {len(cards)}. Файл фида: <a href="../../feeds/{agency.slug}/{project.key}.xml">{project.key}.xml</a> · <a href="../../">все фиды</a></p>
 {''.join(cards)}</main></body></html>"""

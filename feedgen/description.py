@@ -51,16 +51,16 @@ def strip_html(markup):
     return re.sub(r"\s+", " ", text).strip()
 
 
-def lower_first(text):
-    return text[:1].lower() + text[1:] if text[:2] != text[:2].upper() else text
-
-
 def point(title, text):
-    return f"{sentence_case(title)}: {lower_first(text.rstrip('.'))}."
+    # «Заголовок. Текст.»: регистр текста не трогаем, чтобы не испортить имена собственные
+    return f"{sentence_case(title)}. {text.rstrip('.')}."
 
 
 def sentence_case(title):
-    t = title.strip().lower()
+    """Заголовки КАПСОМ приводим к обычному виду, остальные оставляем как есть."""
+    t = title.strip()
+    if t.isupper():
+        t = t.lower()
     return t[:1].upper() + t[1:]
 
 
@@ -127,7 +127,7 @@ def build_description(flat, detail, project_api, project_cfg, renovation, agency
     if renovation and renovation in FINISHING_TEXT:
         facts.append(FINISHING_TEXT[renovation])
     if detail and detail.get("floor_ceiling_height"):
-        facts.append(f"Высота потолков {str(round(detail['floor_ceiling_height'], 2)).replace('.', ',')} м.")
+        facts.append(f"Высота потолков {fmt_area(detail['floor_ceiling_height'])} м.")
     features = [f.lower() for f in (detail or {}).get("features") or []]
     if any("лодж" in f for f in features):
         facts.append("Есть лоджия.")
@@ -138,7 +138,7 @@ def build_description(flat, detail, project_api, project_cfg, renovation, agency
         facts.append(f"Выгода {pct}% от базовой стоимости.")
     q, y = flat.get("completion_quarter"), flat.get("completion_year")
     if q and y:
-        section = f"{project_cfg.building_section.capitalize()}, с" if project_cfg.building_section else "С"
+        section = f"{project_cfg.section(flat).capitalize()}, с" if project_cfg.section(flat) else "С"
         facts.append(f"{section}рок сдачи: {QUARTERS.get(q, q)} квартал {y} года.")
     if facts:
         lines.append(" ".join(facts))
@@ -146,7 +146,10 @@ def build_description(flat, detail, project_api, project_cfg, renovation, agency
     metro = (project_api.get("projectmetro_set") or [])
     if metro:
         m = metro[0]
-        lines.append(f"Метро «{m['metro_name']}» в {m['walk_time']} минутах пешком.")
+        if m.get("walk_time"):
+            lines.append(f"Метро «{m['metro_name']}» в {m['walk_time']} минутах пешком.")
+        elif m.get("car_time"):
+            lines.append(f"Метро «{m['metro_name']}» в {m['car_time']} минутах на транспорте.")
 
     seed = f"{agency_slug}:{flat['id']}"
     about = rotate(project_points(project_api), seed)[:BENEFITS_IN_TEXT]
