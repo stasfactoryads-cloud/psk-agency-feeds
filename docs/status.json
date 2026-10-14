@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:47:06+03:00",
+  "generated_at": "2026-10-14T16:55:35+03:00",
   "project": "Оптимист",
   "lots": 191,
   "prev_lots": 191,
@@ -39,13 +39,22 @@
       "offers": 191,
       "errors": [],
       "warnings": []
+    },
+    {
+      "agency": "Н Маркет",
+      "slug": "n-market",
+      "url": "https://stasfactoryads-cloud.github.io/psk-agency-feeds/feeds/n-market.xml",
+      "status": "ok",
+      "offers": 191,
+      "errors": [],
+      "warnings": []
     }
   ],
   "audit": {
-    "checked_at": "2026-10-14T16:47:33+03:00",
+    "checked_at": "2026-10-14T16:56:18+03:00",
     "status": "ok",
     "checks": [
-      "Правила Яндекс Недвижимости: проверено фидов 4",
+      "Правила Яндекс Недвижимости: проверено фидов 5",
       "Планировки JPG на месте",
       "Внешние картинки доступны: 6 из 6",
       "Набор лотов совпадает с API: 191",
