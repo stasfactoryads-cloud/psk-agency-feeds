@@ -103,6 +103,8 @@ def deploy(local_root):
         with open(path, "rb") as f:
             ftp.storbinary(f"STOR {name}", f)
         uploaded += 1
+        if uploaded % 100 == 0:
+            log.info("Загружено файлов: %d", uploaded)
 
     removed = 0
     for folder in MANAGED_FOLDERS:
