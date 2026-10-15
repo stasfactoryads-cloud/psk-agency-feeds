@@ -76,7 +76,13 @@ def deploy(local_root):
     local_root = Path(local_root)
     base = os.environ.get("FTP_PATH", "/").rstrip("/") or "/"
     ftp = _connect()
-    ftp.cwd(base)
+    try:
+        ftp.cwd(base)
+    except ftplib.error_perm:
+        # диагностика без секретов: что видно от корня входа
+        root_names = ftp.nlst()[:50]
+        log.error("Папка FTP_PATH не найдена. Видно от корня входа: %s", ", ".join(root_names) or "(пусто)")
+        raise
 
     wanted, uploaded, skipped = set(), 0, 0
     for path in sorted(p for p in local_root.rglob("*") if p.is_file()):
