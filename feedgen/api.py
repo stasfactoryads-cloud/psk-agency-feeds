@@ -8,7 +8,10 @@ from concurrent.futures import ThreadPoolExecutor
 
 log = logging.getLogger(__name__)
 
-PAGE_SIZE = 500
+PAGE_SIZE = 200
+PAGE_PAUSE = 0.4              # пауза между страницами списка: не бьем по сайту пачками
+DETAIL_FIELDS = ("floor_ceiling_height", "features", "projectutpslide_set")
+DETAIL_MAX_AGE_DAYS = 7       # карточка лота обновляется раз в неделю
 USER_AGENT = "PSK-Agency-Feeds/1.0"
 
 
@@ -52,6 +55,7 @@ def fetch_all_flats(api_base):
         offset += PAGE_SIZE
         if offset >= data.get("count", 0) or not data.get("results"):
             break
+        time.sleep(PAGE_PAUSE)
     log.info("API: загружено %d лотов", len(flats))
     return flats
 
@@ -69,23 +73,45 @@ def select_project_flats(flats, project):
     return result
 
 
+_projects_cache = {}
+
+
 def fetch_project(api_base, project_id):
-    data = get_json(f"{api_base}/projects/?format=json")
-    items = data.get("results", data) if isinstance(data, dict) else data
-    for p in items:
+    """Карточка проекта. Список проектов один на всех, поэтому запрашиваем его один раз за сборку."""
+    if api_base not in _projects_cache:
+        data = get_json(f"{api_base}/projects/?format=json")
+        _projects_cache[api_base] = data.get("results", data) if isinstance(data, dict) else data
+    for p in _projects_cache[api_base]:
         if p.get("id") == project_id:
             return p
     raise RuntimeError(f"Проект {project_id} не найден в API")
 
 
-def fetch_details(api_base, flat_ids, workers=8):
-    """Карточки лотов (потолки, балконы, преимущества проекта). Ошибка по одному лоту не роняет сборку."""
+def fetch_details(api_base, flat_ids, workers=4, cache=None, now=None):
+    """Карточки лотов (потолки, балконы, преимущества проекта) с кешем.
+
+    cache: словарь {id лота: {"at": время, "d": нужные поля}}, дополняется на месте.
+    Свежие записи берутся из кеша, на сайт уходят только устаревшие и новые лоты.
+    Ошибка по одному лоту не роняет сборку: берется старая запись из кеша, если она есть.
+    """
+    cache = cache if cache is not None else {}
+    now = now or time.time()
+    max_age = DETAIL_MAX_AGE_DAYS * 86400
+    todo = [fid for fid in flat_ids
+            if str(fid) not in cache or now - cache[str(fid)].get("at", 0) > max_age]
+    log.info("Карточки лотов: из кеша %d, запросить %d", len(flat_ids) - len(todo), len(todo))
+
     def one(fid):
         try:
-            return fid, get_json(f"{api_base}/flats/{fid}/?format=json", retries=2, timeout=30)
+            data = get_json(f"{api_base}/flats/{fid}/?format=json", retries=3, timeout=30)
+            return fid, {"at": now, "d": {k: data.get(k) for k in DETAIL_FIELDS}}
         except Exception as e:
             log.warning("Карточка лота %s недоступна: %s", fid, e)
             return fid, None
 
     with ThreadPoolExecutor(max_workers=workers) as ex:
-        return dict(ex.map(one, flat_ids))
+        for fid, entry in ex.map(one, todo):
+            if entry:
+                cache[str(fid)] = entry
+
+    return {fid: (cache.get(str(fid)) or {}).get("d") for fid in flat_ids}

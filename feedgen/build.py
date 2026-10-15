@@ -25,6 +25,13 @@ def _load_first_seen(cfg):
         return {}
 
 
+def _load_json(path):
+    try:
+        return json.loads(path.read_text())
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
 def _save_json(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(".tmp")
@@ -46,6 +53,8 @@ def run(cfg, only=None, with_images=True):
 
     all_flats = api.fetch_all_flats(cfg.api_base)
     first_seen = _load_first_seen(cfg)
+    details_cache = _load_json(cfg.cache_dir / "flat_details.json")
+    seen_ids = set()
     used_images, written = set(), set()
     report = {"generated_at": ts, "projects": [], "feeds": []}
 
@@ -57,7 +66,8 @@ def run(cfg, only=None, with_images=True):
         if not flats:
             raise RuntimeError(f"API не вернуло лотов по {p.title}: фиды не перезаписываю")
 
-        details = api.fetch_details(cfg.api_base, [f["id"] for f in flats], cfg.api_workers)
+        details = api.fetch_details(cfg.api_base, [f["id"] for f in flats], cfg.api_workers, cache=details_cache)
+        seen_ids |= {str(f["id"]) for f in flats}
         images = build_images(flats, cfg.plans_dir, cfg.image_size, render=with_images)
         used_images |= {n for e in images.values() for n in e.values() if n}
 
@@ -99,6 +109,8 @@ def run(cfg, only=None, with_images=True):
             })
 
     _save_json(cfg.cache_dir / "first_seen.json", first_seen)
+    # в кеше карточек оставляем только лоты, которые есть сейчас
+    _save_json(cfg.cache_dir / "flat_details.json", {k: v for k, v in details_cache.items() if k in seen_ids})
     if with_images:
         cleanup_unused(cfg.plans_dir, used_images)
     if not only:
