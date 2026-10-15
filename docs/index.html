@@ -5,135 +5,601 @@
 :root{--bg:#f6f6f6;--card:#fff;--text:#111;--muted:#666;--line:#e2e2e2;--ok:#1a7f37;--err:#b3261e;--warn:#9a6700}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#151515;--card:#1f1f1f;--text:#f2f2f2;--muted:#a0a0a0;--line:#333;--ok:#4ac26b;--err:#ff7b72;--warn:#d29922}}
 *{box-sizing:border-box}body{font:15px/1.5 system-ui,sans-serif;color:var(--text);background:var(--bg);margin:0;padding:24px 16px}
-main{max-width:1100px;margin:0 auto}section{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:16px;margin:0 0 16px}
-h1{margin:0 0 4px}h2{margin:0 0 8px;font-size:18px}.muted{color:var(--muted);margin:0 0 16px}
-table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid var(--line);padding:10px 8px;text-align:left;vertical-align:top}
-th{font-weight:600;color:var(--muted)}.num{text-align:right}a{color:var(--text)}
-.wrap{overflow-x:auto}tr.grp td{border-top:2px solid var(--line)}
-table{min-width:820px}.nw{white-space:nowrap}td.url{width:100%}.link code{flex:1;min-width:0}.link{display:flex;gap:8px;align-items:center;margin:0 0 4px}
+main{max-width:1100px;margin:0 auto}h1{margin:0 0 4px}.muted{color:var(--muted)}p.muted{margin:0 0 8px}a{color:var(--text)}
+.bar{display:flex;gap:8px;margin:16px 0 12px;flex-wrap:wrap}
+button{font:inherit;font-size:13px;padding:4px 12px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--text);cursor:pointer;white-space:nowrap}
+button:hover{border-color:var(--muted)}button.done{border-color:var(--ok);color:var(--ok)}button.fail{border-color:var(--err);color:var(--err)}
+details.agency,details.audit{background:var(--card);border:1px solid var(--line);border-radius:8px;margin:0 0 10px}
+details>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:12px;padding:12px 16px;flex-wrap:wrap}
+details>summary::-webkit-details-marker{display:none}
+.chev{width:8px;height:8px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(-45deg);transition:transform .15s;flex:none}
+details[open]>summary .chev{transform:rotate(45deg)}
+.who{display:flex;flex-direction:column;flex:1;min-width:180px;line-height:1.3}.who b{font-size:16px}.who .muted{font-size:13px}
+.wrap{overflow-x:auto;padding:0 16px 12px}table{border-collapse:collapse;width:100%;min-width:760px}
+td,th{border-top:1px solid var(--line);padding:10px 8px;text-align:left;vertical-align:top}th{font-weight:600;color:var(--muted)}
+.num{text-align:right}.nw{white-space:nowrap}td.url{width:100%}
+.link{display:flex;gap:8px;align-items:center;margin:0 0 4px}.link code{flex:1;min-width:0}
 code{background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:3px 6px;word-break:break-all;font-size:13px}
-button{font:inherit;font-size:13px;padding:3px 10px;border:1px solid var(--line);border-radius:4px;background:var(--card);color:var(--text);cursor:pointer;white-space:nowrap}
-.badge{font-size:13px;padding:1px 8px;border-radius:10px;border:1px solid currentColor}.badge.ok,li.ok{color:var(--ok)}.badge.error,li.error{color:var(--err)}li.warn{color:var(--warn)}
-ul{margin:0;padding-left:20px}
+.badge{font-size:13px;padding:1px 8px;border-radius:10px;border:1px solid currentColor;white-space:nowrap}
+.badge.ok,li.ok{color:var(--ok)}.badge.error,li.error{color:var(--err)}li.warn{color:var(--warn)}
+details.audit ul{margin:0;padding:0 16px 12px 36px}
+@media (max-width:640px){details>summary{gap:8px}button.all{width:100%}}
 </style></head><body><main>
 <h1>Фиды ГК «ПСК» для агентств недвижимости</h1>
 <p class="muted">Формат YRL, техтребования Яндекс Недвижимости. Обновляются ежедневно в 12:00 МСК.
-Последняя сборка: 15.10.2026 13:55 МСК. Лотов в продаже: «Оптимист» 191, «Сезоны» 264, «Акватория» 161.</p>
-<section><h2>Прямые ссылки</h2><div class="wrap"><table>
-<tr><th>Агентство</th><th>ЖК</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
-<tr class="grp"><td rowspan="3"><b>Тренд</b></td>
+Последняя сборка: 15.10.2026 16:01 МСК. Лотов в продаже: «Оптимист» 191, «Сезоны» 263, «Акватория» 161, «Ассамблея» 485, «Галерная гавань» 210, «PLUS Пулковский» 247, «РЕСПЕКТ» 456, «Industrial AVENIR» 114, «Ladozhsky AVENIR» 66, «BAKUNINA 33» 19, «Северная корона» 6.</p>
+<p class="muted"><a href="https://psk-info.ru">https://psk-info.ru</a> · +7 (812) 210-26-76 · руководитель отдела: Эвелина Петрова</p>
+<p class="muted">Технические проблемы с фидами и инфраструктурой: <a href="https://t.me/pskit_feed_boot">@pskit_feed_boot</a></p>
+<div class="bar">
+<button type="button" id="open-all">Раскрыть все</button>
+<button type="button" id="close-all">Свернуть все</button>
+</div>
+<details class="agency" id="trend" data-slug="trend">
+<summary>
+<span class="chev" aria-hidden="true"></span>
+<span class="who"><b>Тренд</b><span class="muted">объектов: 11, лотов: 2218</span></span>
+<span class="badge ok">готов</span>
+<button type="button" class="copy all" data-copy="Действующие фиды выгрузок объектов недвижимости от застройщика Петербургская строительная компания.
+Сайт: https://psk-info.ru
+Единый телефон: +7 (812) 210-26-76
+Руководитель отдела: Эвелина Петрова
+
+Ссылки на фиды для «Тренд»:
+ЖК «Оптимист»: https://feedhub.realty/feed-evel/feeds/trend/optimist.xml
+ЖК «Сезоны»: https://feedhub.realty/feed-evel/feeds/trend/sezony.xml
+ЖК «Акватория»: https://feedhub.realty/feed-evel/feeds/trend/akvatoriya.xml
+ЖК «Ассамблея»: https://feedhub.realty/feed-evel/feeds/trend/assambleya.xml
+ЖК «Галерная гавань»: https://feedhub.realty/feed-evel/feeds/trend/galernaya-gavan.xml
+ЖК «PLUS Пулковский»: https://feedhub.realty/feed-evel/feeds/trend/plus-pulkovsky.xml
+ЖК «РЕСПЕКТ»: https://feedhub.realty/feed-evel/feeds/trend/respect.xml
+Апарт-отель «Industrial AVENIR»: https://feedhub.realty/feed-evel/feeds/trend/industrial-avenir.xml
+Апарт-отель «Ladozhsky AVENIR»: https://feedhub.realty/feed-evel/feeds/trend/ladozhsky-avenir.xml
+ЖК «BAKUNINA 33»: https://feedhub.realty/feed-evel/feeds/trend/bakunina-33.xml
+ЖК «Северная корона»: https://feedhub.realty/feed-evel/feeds/trend/severnaya-korona.xml
+
+Если возникли технические проблемы, связанные с работой фидов и инфраструктуры, просим направлять запрос в телеграм-бот @pskit_feed_boot">Скопировать все ссылки</button>
+</summary>
+<div class="wrap"><table>
+<tr><th>Объект</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
+<tr>
 <td class="nw">ЖК «Оптимист»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/optimist.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/trend/optimist.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/optimist.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/trend/optimist.xml">открыть XML</a> · <a href="preview/trend/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Сезоны»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/sezony.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/trend/sezony.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/sezony.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/trend/sezony.xml">открыть XML</a> · <a href="preview/trend/sezony.html">превью лотов</a></td>
-<td class="num">264</td>
+<td class="num">263</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Акватория»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/akvatoriya.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/trend/akvatoriya.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/akvatoriya.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/trend/akvatoriya.xml">открыть XML</a> · <a href="preview/trend/akvatoriya.html">превью лотов</a></td>
 <td class="num">161</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="grp"><td rowspan="3"><b>Адвекс</b></td>
+</tr><tr>
+<td class="nw">ЖК «Ассамблея»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/assambleya.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/assambleya.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/trend/assambleya.xml">открыть XML</a> · <a href="preview/trend/assambleya.html">превью лотов</a></td>
+<td class="num">485</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Галерная гавань»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/galernaya-gavan.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/galernaya-gavan.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/trend/galernaya-gavan.xml">открыть XML</a> · <a href="preview/trend/galernaya-gavan.html">превью лотов</a></td>
+<td class="num">210</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «PLUS Пулковский»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/plus-pulkovsky.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/plus-pulkovsky.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/trend/plus-pulkovsky.xml">открыть XML</a> · <a href="preview/trend/plus-pulkovsky.html">превью лотов</a></td>
+<td class="num">247</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «РЕСПЕКТ»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/respect.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/respect.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/trend/respect.xml">открыть XML</a> · <a href="preview/trend/respect.html">превью лотов</a></td>
+<td class="num">456</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Industrial AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/industrial-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/industrial-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/trend/industrial-avenir.xml">открыть XML</a> · <a href="preview/trend/industrial-avenir.html">превью лотов</a></td>
+<td class="num">114</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Ladozhsky AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/ladozhsky-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/ladozhsky-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/trend/ladozhsky-avenir.xml">открыть XML</a> · <a href="preview/trend/ladozhsky-avenir.html">превью лотов</a></td>
+<td class="num">66</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «BAKUNINA 33»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/bakunina-33.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/bakunina-33.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/trend/bakunina-33.xml">открыть XML</a> · <a href="preview/trend/bakunina-33.html">превью лотов</a></td>
+<td class="num">19</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Северная корона»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/trend/severnaya-korona.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/trend/severnaya-korona.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/trend/severnaya-korona.xml">открыть XML</a> · <a href="preview/trend/severnaya-korona.html">превью лотов</a></td>
+<td class="num">6</td>
+<td><span class="badge ok">готов</span></td>
+</tr></table></div>
+</details><details class="agency" id="advecs" data-slug="advecs">
+<summary>
+<span class="chev" aria-hidden="true"></span>
+<span class="who"><b>Адвекс</b><span class="muted">объектов: 11, лотов: 2218</span></span>
+<span class="badge ok">готов</span>
+<button type="button" class="copy all" data-copy="Действующие фиды выгрузок объектов недвижимости от застройщика Петербургская строительная компания.
+Сайт: https://psk-info.ru
+Единый телефон: +7 (812) 210-26-76
+Руководитель отдела: Эвелина Петрова
+
+Ссылки на фиды для «Адвекс»:
+ЖК «Оптимист»: https://feedhub.realty/feed-evel/feeds/advecs/optimist.xml
+ЖК «Сезоны»: https://feedhub.realty/feed-evel/feeds/advecs/sezony.xml
+ЖК «Акватория»: https://feedhub.realty/feed-evel/feeds/advecs/akvatoriya.xml
+ЖК «Ассамблея»: https://feedhub.realty/feed-evel/feeds/advecs/assambleya.xml
+ЖК «Галерная гавань»: https://feedhub.realty/feed-evel/feeds/advecs/galernaya-gavan.xml
+ЖК «PLUS Пулковский»: https://feedhub.realty/feed-evel/feeds/advecs/plus-pulkovsky.xml
+ЖК «РЕСПЕКТ»: https://feedhub.realty/feed-evel/feeds/advecs/respect.xml
+Апарт-отель «Industrial AVENIR»: https://feedhub.realty/feed-evel/feeds/advecs/industrial-avenir.xml
+Апарт-отель «Ladozhsky AVENIR»: https://feedhub.realty/feed-evel/feeds/advecs/ladozhsky-avenir.xml
+ЖК «BAKUNINA 33»: https://feedhub.realty/feed-evel/feeds/advecs/bakunina-33.xml
+ЖК «Северная корона»: https://feedhub.realty/feed-evel/feeds/advecs/severnaya-korona.xml
+
+Если возникли технические проблемы, связанные с работой фидов и инфраструктуры, просим направлять запрос в телеграм-бот @pskit_feed_boot">Скопировать все ссылки</button>
+</summary>
+<div class="wrap"><table>
+<tr><th>Объект</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
+<tr>
 <td class="nw">ЖК «Оптимист»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/optimist.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/advecs/optimist.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/optimist.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/advecs/optimist.xml">открыть XML</a> · <a href="preview/advecs/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Сезоны»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/sezony.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/advecs/sezony.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/sezony.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/advecs/sezony.xml">открыть XML</a> · <a href="preview/advecs/sezony.html">превью лотов</a></td>
-<td class="num">264</td>
+<td class="num">263</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Акватория»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/akvatoriya.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/advecs/akvatoriya.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/akvatoriya.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/advecs/akvatoriya.xml">открыть XML</a> · <a href="preview/advecs/akvatoriya.html">превью лотов</a></td>
 <td class="num">161</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="grp"><td rowspan="3"><b>Петербургская недвижимость</b></td>
+</tr><tr>
+<td class="nw">ЖК «Ассамблея»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/assambleya.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/assambleya.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/advecs/assambleya.xml">открыть XML</a> · <a href="preview/advecs/assambleya.html">превью лотов</a></td>
+<td class="num">485</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Галерная гавань»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/galernaya-gavan.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/galernaya-gavan.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/advecs/galernaya-gavan.xml">открыть XML</a> · <a href="preview/advecs/galernaya-gavan.html">превью лотов</a></td>
+<td class="num">210</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «PLUS Пулковский»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/plus-pulkovsky.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/plus-pulkovsky.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/advecs/plus-pulkovsky.xml">открыть XML</a> · <a href="preview/advecs/plus-pulkovsky.html">превью лотов</a></td>
+<td class="num">247</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «РЕСПЕКТ»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/respect.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/respect.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/advecs/respect.xml">открыть XML</a> · <a href="preview/advecs/respect.html">превью лотов</a></td>
+<td class="num">456</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Industrial AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/industrial-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/industrial-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/advecs/industrial-avenir.xml">открыть XML</a> · <a href="preview/advecs/industrial-avenir.html">превью лотов</a></td>
+<td class="num">114</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Ladozhsky AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/ladozhsky-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/ladozhsky-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/advecs/ladozhsky-avenir.xml">открыть XML</a> · <a href="preview/advecs/ladozhsky-avenir.html">превью лотов</a></td>
+<td class="num">66</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «BAKUNINA 33»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/bakunina-33.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/bakunina-33.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/advecs/bakunina-33.xml">открыть XML</a> · <a href="preview/advecs/bakunina-33.html">превью лотов</a></td>
+<td class="num">19</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Северная корона»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/advecs/severnaya-korona.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/advecs/severnaya-korona.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/advecs/severnaya-korona.xml">открыть XML</a> · <a href="preview/advecs/severnaya-korona.html">превью лотов</a></td>
+<td class="num">6</td>
+<td><span class="badge ok">готов</span></td>
+</tr></table></div>
+</details><details class="agency" id="peterburgskaya-nedvizhimost" data-slug="peterburgskaya-nedvizhimost">
+<summary>
+<span class="chev" aria-hidden="true"></span>
+<span class="who"><b>Петербургская недвижимость</b><span class="muted">объектов: 11, лотов: 2218</span></span>
+<span class="badge ok">готов</span>
+<button type="button" class="copy all" data-copy="Действующие фиды выгрузок объектов недвижимости от застройщика Петербургская строительная компания.
+Сайт: https://psk-info.ru
+Единый телефон: +7 (812) 210-26-76
+Руководитель отдела: Эвелина Петрова
+
+Ссылки на фиды для «Петербургская недвижимость»:
+ЖК «Оптимист»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/optimist.xml
+ЖК «Сезоны»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/sezony.xml
+ЖК «Акватория»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml
+ЖК «Ассамблея»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/assambleya.xml
+ЖК «Галерная гавань»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/galernaya-gavan.xml
+ЖК «PLUS Пулковский»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/plus-pulkovsky.xml
+ЖК «РЕСПЕКТ»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/respect.xml
+Апарт-отель «Industrial AVENIR»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/industrial-avenir.xml
+Апарт-отель «Ladozhsky AVENIR»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/ladozhsky-avenir.xml
+ЖК «BAKUNINA 33»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/bakunina-33.xml
+ЖК «Северная корона»: https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/severnaya-korona.xml
+
+Если возникли технические проблемы, связанные с работой фидов и инфраструктуры, просим направлять запрос в телеграм-бот @pskit_feed_boot">Скопировать все ссылки</button>
+</summary>
+<div class="wrap"><table>
+<tr><th>Объект</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
+<tr>
 <td class="nw">ЖК «Оптимист»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/optimist.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/optimist.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/optimist.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/optimist.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Сезоны»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/sezony.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/sezony.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/sezony.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/sezony.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/sezony.html">превью лотов</a></td>
-<td class="num">264</td>
+<td class="num">263</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Акватория»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/akvatoriya.html">превью лотов</a></td>
 <td class="num">161</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="grp"><td rowspan="3"><b>ПАН</b></td>
+</tr><tr>
+<td class="nw">ЖК «Ассамблея»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/assambleya.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/assambleya.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/assambleya.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/assambleya.html">превью лотов</a></td>
+<td class="num">485</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Галерная гавань»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/galernaya-gavan.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/galernaya-gavan.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/galernaya-gavan.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/galernaya-gavan.html">превью лотов</a></td>
+<td class="num">210</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «PLUS Пулковский»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/plus-pulkovsky.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/plus-pulkovsky.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/plus-pulkovsky.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/plus-pulkovsky.html">превью лотов</a></td>
+<td class="num">247</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «РЕСПЕКТ»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/respect.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/respect.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/respect.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/respect.html">превью лотов</a></td>
+<td class="num">456</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Industrial AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/industrial-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/industrial-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/industrial-avenir.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/industrial-avenir.html">превью лотов</a></td>
+<td class="num">114</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Ladozhsky AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/ladozhsky-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/ladozhsky-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/ladozhsky-avenir.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/ladozhsky-avenir.html">превью лотов</a></td>
+<td class="num">66</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «BAKUNINA 33»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/bakunina-33.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/bakunina-33.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/bakunina-33.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/bakunina-33.html">превью лотов</a></td>
+<td class="num">19</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Северная корона»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/severnaya-korona.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/severnaya-korona.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/severnaya-korona.xml">открыть XML</a> · <a href="preview/peterburgskaya-nedvizhimost/severnaya-korona.html">превью лотов</a></td>
+<td class="num">6</td>
+<td><span class="badge ok">готов</span></td>
+</tr></table></div>
+</details><details class="agency" id="pan" data-slug="pan">
+<summary>
+<span class="chev" aria-hidden="true"></span>
+<span class="who"><b>ПАН</b><span class="muted">объектов: 11, лотов: 2218</span></span>
+<span class="badge ok">готов</span>
+<button type="button" class="copy all" data-copy="Действующие фиды выгрузок объектов недвижимости от застройщика Петербургская строительная компания.
+Сайт: https://psk-info.ru
+Единый телефон: +7 (812) 210-26-76
+Руководитель отдела: Эвелина Петрова
+
+Ссылки на фиды для «ПАН»:
+ЖК «Оптимист»: https://feedhub.realty/feed-evel/feeds/pan/optimist.xml
+ЖК «Сезоны»: https://feedhub.realty/feed-evel/feeds/pan/sezony.xml
+ЖК «Акватория»: https://feedhub.realty/feed-evel/feeds/pan/akvatoriya.xml
+ЖК «Ассамблея»: https://feedhub.realty/feed-evel/feeds/pan/assambleya.xml
+ЖК «Галерная гавань»: https://feedhub.realty/feed-evel/feeds/pan/galernaya-gavan.xml
+ЖК «PLUS Пулковский»: https://feedhub.realty/feed-evel/feeds/pan/plus-pulkovsky.xml
+ЖК «РЕСПЕКТ»: https://feedhub.realty/feed-evel/feeds/pan/respect.xml
+Апарт-отель «Industrial AVENIR»: https://feedhub.realty/feed-evel/feeds/pan/industrial-avenir.xml
+Апарт-отель «Ladozhsky AVENIR»: https://feedhub.realty/feed-evel/feeds/pan/ladozhsky-avenir.xml
+ЖК «BAKUNINA 33»: https://feedhub.realty/feed-evel/feeds/pan/bakunina-33.xml
+ЖК «Северная корона»: https://feedhub.realty/feed-evel/feeds/pan/severnaya-korona.xml
+
+Если возникли технические проблемы, связанные с работой фидов и инфраструктуры, просим направлять запрос в телеграм-бот @pskit_feed_boot">Скопировать все ссылки</button>
+</summary>
+<div class="wrap"><table>
+<tr><th>Объект</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
+<tr>
 <td class="nw">ЖК «Оптимист»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/optimist.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/pan/optimist.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/optimist.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/pan/optimist.xml">открыть XML</a> · <a href="preview/pan/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Сезоны»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/sezony.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/pan/sezony.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/sezony.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/pan/sezony.xml">открыть XML</a> · <a href="preview/pan/sezony.html">превью лотов</a></td>
-<td class="num">264</td>
+<td class="num">263</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Акватория»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/akvatoriya.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/pan/akvatoriya.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/akvatoriya.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/pan/akvatoriya.xml">открыть XML</a> · <a href="preview/pan/akvatoriya.html">превью лотов</a></td>
 <td class="num">161</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="grp"><td rowspan="3"><b>Н Маркет</b></td>
+</tr><tr>
+<td class="nw">ЖК «Ассамблея»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/assambleya.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/assambleya.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/pan/assambleya.xml">открыть XML</a> · <a href="preview/pan/assambleya.html">превью лотов</a></td>
+<td class="num">485</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Галерная гавань»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/galernaya-gavan.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/galernaya-gavan.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/pan/galernaya-gavan.xml">открыть XML</a> · <a href="preview/pan/galernaya-gavan.html">превью лотов</a></td>
+<td class="num">210</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «PLUS Пулковский»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/plus-pulkovsky.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/plus-pulkovsky.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/pan/plus-pulkovsky.xml">открыть XML</a> · <a href="preview/pan/plus-pulkovsky.html">превью лотов</a></td>
+<td class="num">247</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «РЕСПЕКТ»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/respect.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/respect.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/pan/respect.xml">открыть XML</a> · <a href="preview/pan/respect.html">превью лотов</a></td>
+<td class="num">456</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Industrial AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/industrial-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/industrial-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/pan/industrial-avenir.xml">открыть XML</a> · <a href="preview/pan/industrial-avenir.html">превью лотов</a></td>
+<td class="num">114</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Ladozhsky AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/ladozhsky-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/ladozhsky-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/pan/ladozhsky-avenir.xml">открыть XML</a> · <a href="preview/pan/ladozhsky-avenir.html">превью лотов</a></td>
+<td class="num">66</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «BAKUNINA 33»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/bakunina-33.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/bakunina-33.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/pan/bakunina-33.xml">открыть XML</a> · <a href="preview/pan/bakunina-33.html">превью лотов</a></td>
+<td class="num">19</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Северная корона»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/pan/severnaya-korona.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/pan/severnaya-korona.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/pan/severnaya-korona.xml">открыть XML</a> · <a href="preview/pan/severnaya-korona.html">превью лотов</a></td>
+<td class="num">6</td>
+<td><span class="badge ok">готов</span></td>
+</tr></table></div>
+</details><details class="agency" id="n-market" data-slug="n-market">
+<summary>
+<span class="chev" aria-hidden="true"></span>
+<span class="who"><b>Н Маркет</b><span class="muted">объектов: 11, лотов: 2218</span></span>
+<span class="badge ok">готов</span>
+<button type="button" class="copy all" data-copy="Действующие фиды выгрузок объектов недвижимости от застройщика Петербургская строительная компания.
+Сайт: https://psk-info.ru
+Единый телефон: +7 (812) 210-26-76
+Руководитель отдела: Эвелина Петрова
+
+Ссылки на фиды для «Н Маркет»:
+ЖК «Оптимист»: https://feedhub.realty/feed-evel/feeds/n-market/optimist.xml
+ЖК «Сезоны»: https://feedhub.realty/feed-evel/feeds/n-market/sezony.xml
+ЖК «Акватория»: https://feedhub.realty/feed-evel/feeds/n-market/akvatoriya.xml
+ЖК «Ассамблея»: https://feedhub.realty/feed-evel/feeds/n-market/assambleya.xml
+ЖК «Галерная гавань»: https://feedhub.realty/feed-evel/feeds/n-market/galernaya-gavan.xml
+ЖК «PLUS Пулковский»: https://feedhub.realty/feed-evel/feeds/n-market/plus-pulkovsky.xml
+ЖК «РЕСПЕКТ»: https://feedhub.realty/feed-evel/feeds/n-market/respect.xml
+Апарт-отель «Industrial AVENIR»: https://feedhub.realty/feed-evel/feeds/n-market/industrial-avenir.xml
+Апарт-отель «Ladozhsky AVENIR»: https://feedhub.realty/feed-evel/feeds/n-market/ladozhsky-avenir.xml
+ЖК «BAKUNINA 33»: https://feedhub.realty/feed-evel/feeds/n-market/bakunina-33.xml
+ЖК «Северная корона»: https://feedhub.realty/feed-evel/feeds/n-market/severnaya-korona.xml
+
+Если возникли технические проблемы, связанные с работой фидов и инфраструктуры, просим направлять запрос в телеграм-бот @pskit_feed_boot">Скопировать все ссылки</button>
+</summary>
+<div class="wrap"><table>
+<tr><th>Объект</th><th>Ссылка на фид</th><th class="num">Лотов</th><th>Статус</th></tr>
+<tr>
 <td class="nw">ЖК «Оптимист»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/optimist.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/n-market/optimist.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/optimist.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/n-market/optimist.xml">открыть XML</a> · <a href="preview/n-market/optimist.html">превью лотов</a></td>
 <td class="num">191</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Сезоны»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/sezony.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/n-market/sezony.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/sezony.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/n-market/sezony.xml">открыть XML</a> · <a href="preview/n-market/sezony.html">превью лотов</a></td>
-<td class="num">264</td>
+<td class="num">263</td>
 <td><span class="badge ok">готов</span></td>
-</tr><tr class="">
+</tr><tr>
 <td class="nw">ЖК «Акватория»</td>
 <td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/akvatoriya.xml</code>
-<button type="button" data-url="https://feedhub.realty/feed-evel/feeds/n-market/akvatoriya.xml">Копировать</button></div>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/akvatoriya.xml">Копировать</button></div>
 <a href="https://feedhub.realty/feed-evel/feeds/n-market/akvatoriya.xml">открыть XML</a> · <a href="preview/n-market/akvatoriya.html">превью лотов</a></td>
 <td class="num">161</td>
 <td><span class="badge ok">готов</span></td>
-</tr></table></div></section>
-<section><h2>Аудит <span class="badge ok">готов</span></h2>
-<p class="muted">Проверено: 15.10.2026 13:57 МСК</p>
-<ul><li class="ok">Правила Яндекс Недвижимости: проверено фидов 15</li><li class="ok">Планировки JPG на месте</li><li class="ok">Внешние картинки доступны: 18 из 18</li><li class="ok">Набор лотов совпадает с API: Оптимист 191, Сезоны 264, Акватория 161</li><li class="ok">Фиды свежие</li><li class="warn">ЖК «Сезоны»: число лотов изменилось, было 263, стало 264</li></ul></section>
+</tr><tr>
+<td class="nw">ЖК «Ассамблея»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/assambleya.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/assambleya.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/n-market/assambleya.xml">открыть XML</a> · <a href="preview/n-market/assambleya.html">превью лотов</a></td>
+<td class="num">485</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Галерная гавань»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/galernaya-gavan.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/galernaya-gavan.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/n-market/galernaya-gavan.xml">открыть XML</a> · <a href="preview/n-market/galernaya-gavan.html">превью лотов</a></td>
+<td class="num">210</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «PLUS Пулковский»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/plus-pulkovsky.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/plus-pulkovsky.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/n-market/plus-pulkovsky.xml">открыть XML</a> · <a href="preview/n-market/plus-pulkovsky.html">превью лотов</a></td>
+<td class="num">247</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «РЕСПЕКТ»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/respect.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/respect.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/n-market/respect.xml">открыть XML</a> · <a href="preview/n-market/respect.html">превью лотов</a></td>
+<td class="num">456</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Industrial AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/industrial-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/industrial-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/n-market/industrial-avenir.xml">открыть XML</a> · <a href="preview/n-market/industrial-avenir.html">превью лотов</a></td>
+<td class="num">114</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">Апарт-отель «Ladozhsky AVENIR»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/ladozhsky-avenir.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/ladozhsky-avenir.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/n-market/ladozhsky-avenir.xml">открыть XML</a> · <a href="preview/n-market/ladozhsky-avenir.html">превью лотов</a></td>
+<td class="num">66</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «BAKUNINA 33»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/bakunina-33.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/bakunina-33.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/n-market/bakunina-33.xml">открыть XML</a> · <a href="preview/n-market/bakunina-33.html">превью лотов</a></td>
+<td class="num">19</td>
+<td><span class="badge ok">готов</span></td>
+</tr><tr>
+<td class="nw">ЖК «Северная корона»</td>
+<td class="url"><div class="link"><code>https://feedhub.realty/feed-evel/feeds/n-market/severnaya-korona.xml</code>
+<button type="button" class="copy" data-copy="https://feedhub.realty/feed-evel/feeds/n-market/severnaya-korona.xml">Копировать</button></div>
+<a href="https://feedhub.realty/feed-evel/feeds/n-market/severnaya-korona.xml">открыть XML</a> · <a href="preview/n-market/severnaya-korona.html">превью лотов</a></td>
+<td class="num">6</td>
+<td><span class="badge ok">готов</span></td>
+</tr></table></div>
+</details>
+<details class="audit"><summary><b>Аудит</b>
+<span class="badge ok">готов</span>
+<span class="muted">проверено 15.10.2026 16:26 МСК</span></summary>
+<ul><li class="ok">Правила Яндекс Недвижимости: проверено фидов 55</li><li class="ok">Планировки JPG на месте</li><li class="ok">Внешние картинки доступны: 66 из 66</li><li class="ok">Набор лотов совпадает с API: Оптимист 191, Сезоны 263, Акватория 161, Ассамблея 485, Галерная гавань 210, PLUS Пулковский 247, РЕСПЕКТ 456, Industrial AVENIR 114, Ladozhsky AVENIR 66, BAKUNINA 33 19, Северная корона 6</li><li class="ok">Фиды свежие</li><li class="warn">ЖК «Сезоны»: число лотов изменилось, было 264, стало 263</li></ul></details>
 <p class="muted">Данные в JSON: <a href="status.json">status.json</a></p>
 </main>
 <script>
-document.querySelectorAll('button[data-url]').forEach(b=>b.addEventListener('click',async()=>{
-  try{await navigator.clipboard.writeText(b.dataset.url);b.textContent='Скопировано'}catch(e){b.textContent='Выделите вручную'}
-  setTimeout(()=>b.textContent='Копировать',1500)}));
+function flash(btn, text, ok) {
+  const old = btn.dataset.label || btn.textContent;
+  btn.dataset.label = old;
+  btn.textContent = text; btn.classList.add(ok ? 'done' : 'fail');
+  setTimeout(() => { btn.textContent = old; btn.classList.remove('done', 'fail'); }, 1600);
+}
+async function copyText(text) {
+  try { await navigator.clipboard.writeText(text); return true; } catch (e) {}
+  const ta = document.createElement('textarea');
+  ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+  document.body.appendChild(ta); ta.select();
+  let ok = false;
+  try { ok = document.execCommand('copy'); } catch (e) {}
+  ta.remove();
+  return ok;
+}
+document.querySelectorAll('button.copy').forEach(b => b.addEventListener('click', async ev => {
+  ev.preventDefault(); ev.stopPropagation();           // не раскрывать аккордеон по клику на кнопку
+  const ok = await copyText(b.dataset.copy);
+  flash(b, ok ? 'Скопировано' : 'Не удалось скопировать', ok);
+  if (!ok) window.prompt('Скопируйте текст вручную (Ctrl+C / Cmd+C):', b.dataset.copy);
+}));
+const agencies = [...document.querySelectorAll('details.agency')];
+const KEY = 'psk-feeds-open';
+function saveState() {
+  try { localStorage.setItem(KEY, JSON.stringify(agencies.filter(d => d.open).map(d => d.dataset.slug))); } catch (e) {}
+}
+try {
+  const saved = JSON.parse(localStorage.getItem(KEY) || 'null');
+  if (Array.isArray(saved)) agencies.forEach(d => { d.open = saved.includes(d.dataset.slug); });
+} catch (e) {}
+if (location.hash) { const t = document.querySelector(location.hash); if (t && t.tagName === 'DETAILS') t.open = true; }
+agencies.forEach(d => d.addEventListener('toggle', saveState));
+document.getElementById('open-all').addEventListener('click', () => { agencies.forEach(d => d.open = true); });
+document.getElementById('close-all').addEventListener('click', () => { agencies.forEach(d => d.open = false); });
 </script></body></html>

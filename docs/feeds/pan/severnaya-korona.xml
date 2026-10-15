@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-10-15T16:01:48+03:00</generation-date>
+  <offer internal-id="87462">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/87462?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=severnaya-korona</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
+      <latitude>59.970213</latitude>
+      <longitude>30.306256</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-foot>7</time-on-foot>
+        <time-on-transport>3</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>85848000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>117.6</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>2</floor>
+    <floors-total>8</floors-total>
+    <renovation>без отделки</renovation>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-ee8e5643f9293236.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-b1e54a9922d63540.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/80a795ce0a57e6bdd1d209a8f4066f5dbbdc8183.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/06a3457b92c402578fb891fce2bd39b82af38fc6.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/483f824c81943ddbe2bd58d4c858d0abdb677946.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/11f31233c97a6980e90d1f7df4bb075fcb2075cf.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fc1bb2f74363b2f37177b60e8f8ce0bf2d0b3a04.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/10ff2e12a1b4e2bed71a7e0c67914db4a4ab813a.jpg</image>
+    <description>2-комнатная квартира 117,6 м² на 2 этаже 8-этажного дома в ЖК «Северная корона» от ГК «ПСК».
+Без отделки. Корпус 7.2, дом сдан.
+Метро «Петроградская» в 7 минутах пешком.
+О проекте «Северная корона»:
+• 250 метров вдоль реки Карповки. «Северная корона» уникальна видами на историческую архитектуру, Иоановский монастырь, Каменноостровский проспект и реку Карповку.
+• Премиальные сервисы. Ландшафтные дворы, изысканные лобби, клубная гостиная, детский клуб, бьюти-кабинеты, фитнес-зал – все только для собственников дома.
+• Архитектура. Архитектура премиального дома «Северная корона» – это современное воплощение и новое развитие архитектуры северного модерна.
+• Ландшафтный дизайн. Собственная территория «Северной короны» оформлена, как карта островов Петербурга – с зелеными и водными участками.
+• Общественные пространства. Интерьер премиального дома «Северная корона» вдохновлен мифическим персонажем – Царевной–Лебедь.
+• Машино-места в паркинге. от 5,9 млн. рублей.
+• Кладовые помещения. от 1,3 млн. рублей.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 145.</description>
+    <building-name>ЖК «Северная корона»</building-name>
+    <yandex-building-id>2742301</yandex-building-id>
+    <yandex-house-id>2920813</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2023</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 7.2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="87414">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/87414?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=severnaya-korona</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
+      <latitude>59.970213</latitude>
+      <longitude>30.306256</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-foot>7</time-on-foot>
+        <time-on-transport>3</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>130674000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>150.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>6</floor>
+    <floors-total>8</floors-total>
+    <renovation>без отделки</renovation>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-52b28e9ef1f5a8ba.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-81e5e6c09f9a641e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/80a795ce0a57e6bdd1d209a8f4066f5dbbdc8183.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/06a3457b92c402578fb891fce2bd39b82af38fc6.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/483f824c81943ddbe2bd58d4c858d0abdb677946.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/11f31233c97a6980e90d1f7df4bb075fcb2075cf.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fc1bb2f74363b2f37177b60e8f8ce0bf2d0b3a04.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/10ff2e12a1b4e2bed71a7e0c67914db4a4ab813a.jpg</image>
+    <description>3-комнатная квартира 150,2 м² на 6 этаже 8-этажного дома в ЖК «Северная корона» от ГК «ПСК».
+Без отделки. Корпус 7.2, дом сдан.
+Метро «Петроградская» в 7 минутах пешком.
+О проекте «Северная корона»:
+• Архитектура. Архитектура премиального дома «Северная корона» – это современное воплощение и новое развитие архитектуры северного модерна.
+• Ландшафтный дизайн. Собственная территория «Северной короны» оформлена, как карта островов Петербурга – с зелеными и водными участками.
+• Общественные пространства. Интерьер премиального дома «Северная корона» вдохновлен мифическим персонажем – Царевной–Лебедь.
+• 250 метров вдоль реки Карповки. «Северная корона» уникальна видами на историческую архитектуру, Иоановский монастырь, Каменноостровский проспект и реку Карповку.
+• Премиальные сервисы. Ландшафтные дворы, изысканные лобби, клубная гостиная, детский клуб, бьюти-кабинеты, фитнес-зал – все только для собственников дома.
+• Машино-места в паркинге. от 5,9 млн. рублей.
+• Кладовые помещения. от 1,3 млн. рублей.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 97.</description>
+    <building-name>ЖК «Северная корона»</building-name>
+    <yandex-building-id>2742301</yandex-building-id>
+    <yandex-house-id>2920813</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2023</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 7.2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="87629">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/87629?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=severnaya-korona</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
+      <latitude>59.970213</latitude>
+      <longitude>30.306256</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-foot>7</time-on-foot>
+        <time-on-transport>3</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>68472000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>95.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>8</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-859d5e0bef0cb4cc.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-781133bcb165666e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/80a795ce0a57e6bdd1d209a8f4066f5dbbdc8183.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/06a3457b92c402578fb891fce2bd39b82af38fc6.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/483f824c81943ddbe2bd58d4c858d0abdb677946.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/11f31233c97a6980e90d1f7df4bb075fcb2075cf.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fc1bb2f74363b2f37177b60e8f8ce0bf2d0b3a04.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/10ff2e12a1b4e2bed71a7e0c67914db4a4ab813a.jpg</image>
+    <description>2-комнатная квартира 95,1 м² на 5 этаже 8-этажного дома в ЖК «Северная корона» от ГК «ПСК».
+Без отделки. Есть балкон. Корпус 8.1, дом сдан.
+Метро «Петроградская» в 7 минутах пешком.
+О проекте «Северная корона»:
+• 250 метров вдоль реки Карповки. «Северная корона» уникальна видами на историческую архитектуру, Иоановский монастырь, Каменноостровский проспект и реку Карповку.
+• Премиальные сервисы. Ландшафтные дворы, изысканные лобби, клубная гостиная, детский клуб, бьюти-кабинеты, фитнес-зал – все только для собственников дома.
+• Архитектура. Архитектура премиального дома «Северная корона» – это современное воплощение и новое развитие архитектуры северного модерна.
+• Ландшафтный дизайн. Собственная территория «Северной короны» оформлена, как карта островов Петербурга – с зелеными и водными участками.
+• Общественные пространства. Интерьер премиального дома «Северная корона» вдохновлен мифическим персонажем – Царевной–Лебедь.
+• Машино-места в паркинге. от 5,9 млн. рублей.
+• Кладовые помещения. от 1,3 млн. рублей.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 312.</description>
+    <building-name>ЖК «Северная корона»</building-name>
+    <yandex-building-id>2742301</yandex-building-id>
+    <yandex-house-id>2920815</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2023</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 8.1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="87632">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/87632?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=severnaya-korona</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
+      <latitude>59.970213</latitude>
+      <longitude>30.306256</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-foot>7</time-on-foot>
+        <time-on-transport>3</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>69204000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>94.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>6</floor>
+    <floors-total>8</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-7f62b21e62652d42.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-623e6f9b5917d5f0.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/80a795ce0a57e6bdd1d209a8f4066f5dbbdc8183.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/06a3457b92c402578fb891fce2bd39b82af38fc6.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/483f824c81943ddbe2bd58d4c858d0abdb677946.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/11f31233c97a6980e90d1f7df4bb075fcb2075cf.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fc1bb2f74363b2f37177b60e8f8ce0bf2d0b3a04.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/10ff2e12a1b4e2bed71a7e0c67914db4a4ab813a.jpg</image>
+    <description>2-комнатная квартира 94,8 м² на 6 этаже 8-этажного дома в ЖК «Северная корона» от ГК «ПСК».
+Без отделки. Есть балкон. Корпус 8.1, дом сдан.
+Метро «Петроградская» в 7 минутах пешком.
+О проекте «Северная корона»:
+• Общественные пространства. Интерьер премиального дома «Северная корона» вдохновлен мифическим персонажем – Царевной–Лебедь.
+• 250 метров вдоль реки Карповки. «Северная корона» уникальна видами на историческую архитектуру, Иоановский монастырь, Каменноостровский проспект и реку Карповку.
+• Премиальные сервисы. Ландшафтные дворы, изысканные лобби, клубная гостиная, детский клуб, бьюти-кабинеты, фитнес-зал – все только для собственников дома.
+• Архитектура. Архитектура премиального дома «Северная корона» – это современное воплощение и новое развитие архитектуры северного модерна.
+• Ландшафтный дизайн. Собственная территория «Северной короны» оформлена, как карта островов Петербурга – с зелеными и водными участками.
+• Машино-места в паркинге. от 5,9 млн. рублей.
+• Кладовые помещения. от 1,3 млн. рублей.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 315.</description>
+    <building-name>ЖК «Северная корона»</building-name>
+    <yandex-building-id>2742301</yandex-building-id>
+    <yandex-house-id>2920815</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2023</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 8.1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="87636">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/87636?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=severnaya-korona</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
+      <latitude>59.970213</latitude>
+      <longitude>30.306256</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-foot>7</time-on-foot>
+        <time-on-transport>3</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>155794000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>127.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>8</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-5b38c26ef985597c.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-90d763426b062830.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/80a795ce0a57e6bdd1d209a8f4066f5dbbdc8183.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/06a3457b92c402578fb891fce2bd39b82af38fc6.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/483f824c81943ddbe2bd58d4c858d0abdb677946.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/11f31233c97a6980e90d1f7df4bb075fcb2075cf.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fc1bb2f74363b2f37177b60e8f8ce0bf2d0b3a04.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/10ff2e12a1b4e2bed71a7e0c67914db4a4ab813a.jpg</image>
+    <description>3-комнатная квартира 127,7 м² на 8 этаже 8-этажного дома в ЖК «Северная корона» от ГК «ПСК».
+Без отделки. Есть балкон. Корпус 8.1, дом сдан.
+Метро «Петроградская» в 7 минутах пешком.
+О проекте «Северная корона»:
+• 250 метров вдоль реки Карповки. «Северная корона» уникальна видами на историческую архитектуру, Иоановский монастырь, Каменноостровский проспект и реку Карповку.
+• Премиальные сервисы. Ландшафтные дворы, изысканные лобби, клубная гостиная, детский клуб, бьюти-кабинеты, фитнес-зал – все только для собственников дома.
+• Архитектура. Архитектура премиального дома «Северная корона» – это современное воплощение и новое развитие архитектуры северного модерна.
+• Ландшафтный дизайн. Собственная территория «Северной короны» оформлена, как карта островов Петербурга – с зелеными и водными участками.
+• Общественные пространства. Интерьер премиального дома «Северная корона» вдохновлен мифическим персонажем – Царевной–Лебедь.
+• Машино-места в паркинге. от 5,9 млн. рублей.
+• Кладовые помещения. от 1,3 млн. рублей.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 319.</description>
+    <building-name>ЖК «Северная корона»</building-name>
+    <yandex-building-id>2742301</yandex-building-id>
+    <yandex-house-id>2920815</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2023</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 8.1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="87548">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/87548?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=severnaya-korona</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
+      <latitude>59.970213</latitude>
+      <longitude>30.306256</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-foot>7</time-on-foot>
+        <time-on-transport>3</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>105200000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>105.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>4</floor>
+    <floors-total>8</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-5bc7f98bec9ffe95.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-e7c7631478dd1f7e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/80a795ce0a57e6bdd1d209a8f4066f5dbbdc8183.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/06a3457b92c402578fb891fce2bd39b82af38fc6.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/483f824c81943ddbe2bd58d4c858d0abdb677946.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/11f31233c97a6980e90d1f7df4bb075fcb2075cf.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fc1bb2f74363b2f37177b60e8f8ce0bf2d0b3a04.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/10ff2e12a1b4e2bed71a7e0c67914db4a4ab813a.jpg</image>
+    <description>3-комнатная квартира 105,2 м² на 4 этаже 8-этажного дома в ЖК «Северная корона» от ГК «ПСК».
+Без отделки. Есть балкон. Корпус 8.2, дом сдан.
+Метро «Петроградская» в 7 минутах пешком.
+О проекте «Северная корона»:
+• Ландшафтный дизайн. Собственная территория «Северной короны» оформлена, как карта островов Петербурга – с зелеными и водными участками.
+• Общественные пространства. Интерьер премиального дома «Северная корона» вдохновлен мифическим персонажем – Царевной–Лебедь.
+• 250 метров вдоль реки Карповки. «Северная корона» уникальна видами на историческую архитектуру, Иоановский монастырь, Каменноостровский проспект и реку Карповку.
+• Премиальные сервисы. Ландшафтные дворы, изысканные лобби, клубная гостиная, детский клуб, бьюти-кабинеты, фитнес-зал – все только для собственников дома.
+• Архитектура. Архитектура премиального дома «Северная корона» – это современное воплощение и новое развитие архитектуры северного модерна.
+• Машино-места в паркинге. от 5,9 млн. рублей.
+• Кладовые помещения. от 1,3 млн. рублей.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 231.</description>
+    <building-name>ЖК «Северная корона»</building-name>
+    <yandex-building-id>2742301</yandex-building-id>
+    <yandex-house-id>2920816</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2023</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 8.2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+</realty-feed>

@@ -1,0 +1,1380 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-10-15T16:01:48+03:00</generation-date>
+  <offer internal-id="85940">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85940?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>45396000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>87.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-b0bac0d3a5f9b9ae.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-5ee56f3d51d09eb6.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 87,3 м² на 2 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 89.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85968">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85968?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>42056000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>75.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>4</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-be0af839b152104b.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-39cc4c5b86d4d4e3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 75,1 м² на 4 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 62.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85984">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85984?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>42921000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>75.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-2e0abf8dfa86aec8.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-1aee5fec3f6606a7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 75,3 м² на 5 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 67.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85989">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85989?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>41100000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>68.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>6</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-3ff61272051b176c.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-de280e33cdab5450.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 68,5 м² на 6 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 27.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="86000">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86000?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>44688000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>79.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>6</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-d35489d870813e9a.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-0e9dd5c02aaf0e14.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 79,8 м² на 6 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 73.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="86003">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86003?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>44793000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>71.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>6</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-3161e158fc7784f7.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-bfe1f5c2fac5ecb2.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 71,1 м² на 6 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 104.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="86014">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86014?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>41500015</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>75.6</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>7</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-17177010f48e5dc4.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-1b9c178b43010ece.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 75,6 м² на 7 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 77.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="86015">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86015?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>46342000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>79.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>7</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-4259258a9642e3c4.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-ce9f4b08d72bf053.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 79,9 м² на 7 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 78.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85931">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85931?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>57772000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>111.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-3550ab68a1ebf23d.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-10a02592945ae1cb.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>3-комнатная квартира 111,1 м² на 2 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 4.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85950">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85950?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>55512000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>102.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>3</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-adfa39f090ce07e7.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-59243756d589b862.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>3-комнатная квартира 102,8 м² на 3 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 55.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85979">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85979?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>62272000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>111.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-2aed78e761c22801.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-92ae3126c59c6cf7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>3-комнатная квартира 111,2 м² на 5 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 25.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85982">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85982?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>57624000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>102.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-abdac0cddfd2d839.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-5125a82e9fec4f23.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>3-комнатная квартира 102,9 м² на 5 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 65.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="86009">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86009?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>74638000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>111.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>7</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-e0bf3366df662ee6.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-9e46f6112e12a2e2.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>3-комнатная квартира 111,4 м² на 7 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 39.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85935">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85935?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>70490000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>133.0</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <new-flat>да</new-flat>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-cf9f522b8b60ea14.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-fbdc5ce761ea024b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>4-комнатная квартира 133 м² на 2 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 51.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85967">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85967?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>76779000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>134.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <new-flat>да</new-flat>
+    <floor>4</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-fd653446b779189e.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-15f2bbc0778087ec.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>4-комнатная квартира 134,7 м² на 4 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 61.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="85983">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85983?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>79473000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>134.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-0d212b1a8e6ca6f5.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-e8d3a2f56db850c4.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>4-комнатная квартира 134,7 м² на 5 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 66.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="86023">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86023?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>100044000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>158.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-952188a8d0711e60.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-bd801ca753581fe1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>4-комнатная квартира 158,8 м² на 8 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 79.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="86024">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86024?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>83080000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>124.0</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-83db580d08aab4de.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-8ebf883139ea62c5.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>4-комнатная квартира 124 м² на 8 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 80.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+  <offer internal-id="86034">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86034?utm_source=advecs&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-15T16:01:48+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Адвекс. Недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>101036000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>150.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <new-flat>да</new-flat>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-d2b9d3350ee808b5.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-4bb1c11ffacf45f9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>4-комнатная квартира 150,8 м² на 9 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3,5 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 83.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+  </offer>
+</realty-feed>
