@@ -3,9 +3,9 @@
 # После правки конфига сервис подхватывает изменения при следующей генерации.
 
 [general]
-# Публичный адрес, по которому лежат фиды и JPG-планировки (GitHub Pages).
+# Публичный адрес фидов и JPG-планировок (хостинг REG.RU, папка /feed-evel/).
 # Яндекс скачивает картинки по этому адресу, он должен быть доступен по 80/443.
-public_base_url = "https://stasfactoryads-cloud.github.io/psk-agency-feeds"
+public_base_url = "https://feedhub.realty/feed-evel"
 output_dir = "docs"            # публикуемая папка: GitHub Pages отдает ее как сайт
 cache_dir = "cache"            # служебные файлы: даты первого появления лотов (коммитятся)
 api_base = "https://psk-info.ru/api"

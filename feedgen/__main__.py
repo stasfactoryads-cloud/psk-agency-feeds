@@ -4,6 +4,7 @@
   python -m feedgen build --agency pan       # только одно агентство
   python -m feedgen serve --port 8080        # сервис: раздача + автообновление
   python -m feedgen audit                    # аудит набора фидов перед публикацией
+  python -m feedgen deploy                   # загрузить docs/ на хостинг (FTP_* из окружения)
   python -m feedgen validate docs/feeds/pan.xml
 """
 
@@ -32,6 +33,7 @@ def main():
     s.add_argument("--port", type=int, default=8080)
 
     sp.add_parser("audit", help="аудит всех фидов перед публикацией")
+    sp.add_parser("deploy", help="загрузить docs/ на хостинг по FTP")
 
     v = sp.add_parser("validate", help="проверить готовый фид")
     v.add_argument("path")
@@ -53,6 +55,11 @@ def main():
     if args.cmd == "audit":
         from . import audit
         return 1 if audit.run(cfg)["status"] != "ok" else 0
+
+    if args.cmd == "deploy":
+        from .deploy import deploy
+        deploy(cfg.output_dir)
+        return 0
 
     if args.cmd == "serve":
         from .server import serve

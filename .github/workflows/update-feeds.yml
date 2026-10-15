@@ -40,6 +40,16 @@ jobs:
         # при ошибке аудита job падает, коммита нет, в интернете остается прошлая версия
         run: python -m feedgen audit
 
+      - name: Загрузка на хостинг REG.RU
+        if: ${{ secrets.FTP_SERVER != '' }}
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_PATH: ${{ secrets.FTP_PATH }}
+          FTP_TLS: "1"
+        run: python -m feedgen deploy
+
       - name: Публикация
         run: |
           git config user.name "github-actions[bot]"
