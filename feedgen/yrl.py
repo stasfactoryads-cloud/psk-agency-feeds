@@ -1,5 +1,6 @@
 """Сборка YRL-фида по техтребованиям Яндекс Недвижимости (продажа, новостройки)."""
 
+import re
 import xml.etree.ElementTree as ET
 from urllib.parse import urlencode
 
@@ -20,10 +21,30 @@ def sub(parent, name, text=None, **attrs):
     return el
 
 
-def building_state(year, quarter, now):
-    if year and quarter and (year, quarter) <= (now.year, (now.month - 1) // 3 + 1):
+STATE_FROM_API = {"hand_over": "hand-over", "ready": "built", "unfinished": "unfinished"}
+
+
+def building_state(year, quarter, now, api_status=None):
+    """Статус дома для Яндекса. Прошедший срок сдачи обязан быть hand-over (требование Яндекса),
+    иначе берем статус корпуса с сайта: ready = построен, но не сдан."""
+    current = (now.year, (now.month - 1) // 3 + 1)
+    if year and quarter and (year, quarter) < current:
+        return "hand-over"
+    if api_status in STATE_FROM_API:
+        return STATE_FROM_API[api_status]
+    if year and quarter and (year, quarter) == current:
         return "hand-over"
     return "unfinished"
+
+
+def building_statuses(project_api):
+    return {str(b.get("number")): b.get("completion_status") for b in project_api.get("building_set") or []}
+
+
+def normalize_address(raw):
+    """«г.Санкт-Петербург, ул. X, 1» / «Санкт-Петербург, ул. X, 1» / «ул. X, 1» -> «Санкт-Петербург, ул. X, 1»."""
+    addr = re.sub(r"^(г\.\s*)?Санкт-Петербург,\s*", "", (raw or "").strip())
+    return f"Санкт-Петербург, {addr}" if addr else "Санкт-Петербург"
 
 
 def balcony_value(features):
@@ -66,7 +87,7 @@ def build_offer(root, ctx, flat, agency):
     loc = sub(offer, "location")
     sub(loc, "country", "Россия")
     sub(loc, "locality-name", "Санкт-Петербург")
-    sub(loc, "address", (project_api.get("address") or "").replace("г.Санкт-Петербург, ", ""))
+    sub(loc, "address", normalize_address(project_api.get("address")))
     coords = (project_api.get("coords") or "").split(",")
     if len(coords) == 2:
         sub(loc, "latitude", coords[0].strip())
@@ -118,6 +139,8 @@ def build_offer(root, ctx, flat, agency):
     else:
         sub(offer, "studio", "да")
     sub(offer, "new-flat", "да")
+    if flat.get("type") == "apartments":
+        sub(offer, "apartments", "да")
     sub(offer, "floor", flat["floor"])
     if flat.get("max_floor"):
         sub(offer, "floors-total", flat["max_floor"])
@@ -139,19 +162,21 @@ def build_offer(root, ctx, flat, agency):
     for url in ctx["renders"]:
         sub(offer, "image", url)
 
-    sub(offer, "description", build_description(flat, detail, project_api, p, renovation, agency.slug))
+    year, quarter = flat.get("completion_year"), flat.get("completion_quarter")
+    state = building_state(year, quarter, now, building_statuses(project_api).get(str(flat.get("building"))))
+    sub(offer, "description", build_description(flat, detail, project_api, p, renovation, agency.slug, state))
 
     # Дом
-    sub(offer, "building-name", f"ЖК «{p.name}»")
+    sub(offer, "building-name", p.title)
     sub(offer, "yandex-building-id", p.yandex_building_id)
     sub(offer, "yandex-house-id", p.house_id(flat))
-    year, quarter = flat.get("completion_year"), flat.get("completion_quarter")
-    sub(offer, "building-state", building_state(year, quarter, now))
+    sub(offer, "building-state", state)
     if year:
         sub(offer, "built-year", year)
     if quarter:
         sub(offer, "ready-quarter", quarter)
-    sub(offer, "building-type", p.building_type)
+    if p.building_type:
+        sub(offer, "building-type", p.building_type)
     if p.section(flat):
         sub(offer, "building-section", p.section(flat))
     sub(offer, "lift", "да")

@@ -32,6 +32,8 @@ class Project:
     house_ids: dict = field(default_factory=dict)   # номер корпуса в API -> yandex-house-id
     building_type: str = "монолит"
     building_section: str = "корпус {building}"
+    building_labels: dict = field(default_factory=dict)   # номер корпуса в API -> как показывать (71 -> 7.1)
+    label: str = "ЖК"                                     # "ЖК" или "Апарт-отель"
     deal_status: str = "первичная продажа"
     include_statuses: list = field(default_factory=lambda: ["Свободно"])
     render_count: int = 6
@@ -43,7 +45,13 @@ class Project:
 
     def section(self, flat):
         b = flat.get("building")
-        return self.building_section.format(building=b) if b and self.building_section else ""
+        if not b or not self.building_section:
+            return ""
+        return self.building_section.format(building=self.building_labels.get(str(b), b))
+
+    @property
+    def title(self):
+        return f"{self.label} «{self.name}»"
 
 
 @dataclass

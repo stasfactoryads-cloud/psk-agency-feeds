@@ -77,8 +77,19 @@ def inline_css(svg):
     return CLASS_TAG_RE.sub(repl, svg)
 
 
+def decode_svg(svg_bytes):
+    """SVG бывают в UTF-8 и в UTF-16 (Illustrator): определяем по BOM и приводим к UTF-8."""
+    if svg_bytes[:2] in (b"\xff\xfe", b"\xfe\xff"):
+        text = svg_bytes.decode("utf-16")
+    elif svg_bytes[:3] == b"\xef\xbb\xbf":
+        text = svg_bytes[3:].decode("utf-8", errors="replace")
+    else:
+        text = svg_bytes.decode("utf-8", errors="replace")
+    return re.sub(r"^\s*<\?xml[^>]*\?>", '<?xml version="1.0" encoding="UTF-8"?>', text)
+
+
 def prepare_svg(svg_bytes):
-    return inline_css(svg_bytes.decode("utf-8", errors="replace")).encode("utf-8")
+    return inline_css(decode_svg(svg_bytes)).encode("utf-8")
 
 
 def highlight_svg(svg_bytes, hover_markup):

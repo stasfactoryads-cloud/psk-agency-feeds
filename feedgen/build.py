@@ -53,9 +53,9 @@ def run(cfg, only=None, with_images=True):
         project_api = api.fetch_project(cfg.api_base, p.api_id)
         flats = api.select_project_flats(all_flats, p)
         flats.sort(key=lambda f: (str(f.get("building")), f.get("rooms") or 0, f.get("floor") or 0, f["id"]))
-        log.info("ЖК «%s»: лотов в продаже %d", p.name, len(flats))
+        log.info("%s: лотов в продаже %d", p.title, len(flats))
         if not flats:
-            raise RuntimeError(f"API не вернуло лотов по ЖК «{p.name}»: фиды не перезаписываю")
+            raise RuntimeError(f"API не вернуло лотов по {p.title}: фиды не перезаписываю")
 
         details = api.fetch_details(cfg.api_base, [f["id"] for f in flats], cfg.api_workers)
         images = build_images(flats, cfg.plans_dir, cfg.image_size, render=with_images)
@@ -69,7 +69,7 @@ def run(cfg, only=None, with_images=True):
 
         ctx = {"cfg": cfg, "project": p, "now": now, "flats": flats, "details": details, "images": images,
                "project_api": project_api, "renders": renders, "first_seen": first_seen}
-        report["projects"].append({"key": p.key, "name": p.name, "lots": len(flats), "prev_lots": prev_lots.get(p.key)})
+        report["projects"].append({"key": p.key, "name": p.name, "title": p.title, "lots": len(flats), "prev_lots": prev_lots.get(p.key)})
 
         for agency in cfg.agencies:
             if (only and agency.slug not in only) or not agency.wants(p.key):
@@ -93,7 +93,7 @@ def run(cfg, only=None, with_images=True):
             for e in check["errors"]:
                 log.warning("    %s", e)
             report["feeds"].append({
-                "agency": agency.name, "slug": agency.slug, "project": p.key, "project_name": p.name,
+                "agency": agency.name, "slug": agency.slug, "project": p.key, "project_name": p.name, "project_title": p.title,
                 "path": rel, "url": cfg.public_url(rel), "preview": prev_rel,
                 "status": status, **check,
             })
@@ -150,6 +150,6 @@ main{{max-width:1100px;margin:0 auto}}article{{background:#fff;border:1px solid 
 .gal{{display:flex;gap:8px;overflow-x:auto}}.gal img{{height:180px;border:1px solid #eee;border-radius:4px;background:#fff}}
 h2{{font-size:18px;margin:12px 0 4px}}.meta{{color:#555;margin:2px 0}}.meta a{{color:#111}}
 pre{{white-space:pre-wrap;font:inherit;background:#fafafa;border-left:3px solid #ddd;padding:8px 12px;margin:10px 0 0}}</style></head>
-<body><main><h1>Фид «{html.escape(agency.name)}»: ЖК «{html.escape(project.name)}»</h1>
+<body><main><h1>Фид «{html.escape(agency.name)}»: {html.escape(project.title)}</h1>
 <p>Лотов: {len(cards)}. Файл фида: <a href="../../feeds/{agency.slug}/{project.key}.xml">{project.key}.xml</a> · <a href="../../">все фиды</a></p>
 {''.join(cards)}</main></body></html>"""

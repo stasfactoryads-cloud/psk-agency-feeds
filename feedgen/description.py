@@ -68,7 +68,9 @@ def fmt_area(area):
     return f"{area:.2f}".rstrip("0").rstrip(".").replace(".", ",")
 
 
-def rooms_label(rooms):
+def rooms_label(rooms, apartments=False):
+    if apartments:
+        return "Апартаменты-студия" if not rooms else f"{rooms}-комнатные апартаменты"
     if not rooms:
         return "Квартира-студия"
     return f"{rooms}-комнатная квартира"
@@ -111,21 +113,25 @@ def rotate(items, seed):
     return items[shift:] + items[:shift]
 
 
-def build_description(flat, detail, project_api, project_cfg, renovation, agency_slug):
-    name = f"ЖК «{project_cfg.name}»"
+def build_description(flat, detail, project_api, project_cfg, renovation, agency_slug, state="unfinished"):
+    name = project_cfg.title
     rooms = flat.get("rooms") or 0
     area = fmt_area(float(flat.get("area") or 0))
     floor, max_floor = flat.get("floor"), flat.get("max_floor")
 
     lines = []
-    head = f"{rooms_label(rooms)} {area} м²"
+    head = f"{rooms_label(rooms, flat.get('type') == 'apartments')} {area} м²"
     if floor and max_floor:
         head += f" на {floor} этаже {max_floor}-этажного дома"
-    lines.append(f"{head} в {name} от ГК «ПСК».")
+    place = {"ЖК": "ЖК", "Апарт-отель": "апарт-отеле"}.get(project_cfg.label, project_cfg.label)
+    lines.append(f"{head} в {place} «{project_cfg.name}» от ГК «ПСК».")
 
     facts = []
     if renovation and renovation in FINISHING_TEXT:
-        facts.append(FINISHING_TEXT[renovation])
+        text = FINISHING_TEXT[renovation]
+        if flat.get("type") == "apartments":
+            text = text.replace("Квартира с отделкой", "Апартаменты с отделкой")
+        facts.append(text)
     if detail and detail.get("floor_ceiling_height"):
         facts.append(f"Высота потолков {fmt_area(detail['floor_ceiling_height'])} м.")
     features = [f.lower() for f in (detail or {}).get("features") or []]
@@ -137,9 +143,15 @@ def build_description(flat, detail, project_api, project_cfg, renovation, agency
     if pct > 0:
         facts.append(f"Выгода {pct}% от базовой стоимости.")
     q, y = flat.get("completion_quarter"), flat.get("completion_year")
-    if q and y:
-        section = f"{project_cfg.section(flat).capitalize()}, с" if project_cfg.section(flat) else "С"
-        facts.append(f"{section}рок сдачи: {QUARTERS.get(q, q)} квартал {y} года.")
+    section = project_cfg.section(flat)
+    if state == "hand-over":
+        facts.append(f"{section.capitalize()}, дом сдан." if section else "Дом сдан.")
+    elif state == "built":
+        facts.append(f"{section.capitalize()}, дом построен, идет передача ключей." if section
+                     else "Дом построен, идет передача ключей.")
+    elif q and y:
+        prefix = f"{section.capitalize()}, с" if section else "С"
+        facts.append(f"{prefix}рок сдачи: {QUARTERS.get(q, q)} квартал {y} года.")
     if facts:
         lines.append(" ".join(facts))
 
@@ -155,7 +167,7 @@ def build_description(flat, detail, project_api, project_cfg, renovation, agency
     about = rotate(project_points(project_api), seed)[:BENEFITS_IN_TEXT]
     utp = utp_points(detail)
     if about or utp:
-        lines.append(f"О проекте {name}:")
+        lines.append(f"О проекте «{project_cfg.name}»:")
         lines.extend(f"• {p}" for p in about + utp)
 
     lines.append(f"Застройщик ГК «ПСК». Номер лота на сайте застройщика: {flat.get('number')}.")

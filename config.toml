@@ -25,6 +25,9 @@ legacy_project = "optimist"
 #   yandex_building_id: 3-й столбец (ЖК), yandex_house_id: 7-й столбец (корпус).
 # house_ids: если у корпусов разные ID в каталоге, номер корпуса в API -> ID.
 # Общие поля:
+#   label: "ЖК" (по умолчанию) или "Апарт-отель": как называть объект в фиде
+#   building_type: кирпичный / монолит / панельный; пусто = тег не передается
+#   building_labels: подпись корпуса в фиде, номер в API -> как показывать (71 -> 7.1)
 #   deal_status: "первичная продажа"; include_statuses: какие статусы лотов брать
 #   render_count: сколько рендеров ЖК добавлять к лоту
 #   show_discount: true = две цены: <price><value> старая цена без скидки,
@@ -81,6 +84,191 @@ deal_status = "первичная продажа"
 include_statuses = ["Свободно"]
 render_count = 6
 show_discount = true
+[project.renovation]
+"Без отделки" = "без отделки"
+"Предчистовая" = "предчистовая"
+"С отделкой" = "под ключ"
+
+[[project]]
+key = "assambleya"
+api_id = 41
+name = "Ассамблея"
+yandex_building_id = "4105749"
+yandex_house_id = "4126233"
+building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
+building_section = "корпус {building}"
+deal_status = "первичная продажа"
+include_statuses = ["Свободно"]
+render_count = 6
+show_discount = true
+[project.house_ids]
+"1" = "4126233"
+"2" = "4126241"
+"3" = "4126245"
+"4" = "4126263"
+"5" = "4126267"
+[project.renovation]
+"Без отделки" = "без отделки"
+"Предчистовая" = "предчистовая"
+"С отделкой" = "под ключ"
+
+[[project]]
+key = "galernaya-gavan"
+api_id = 42
+name = "Галерная гавань"
+yandex_building_id = "4188972"
+yandex_house_id = "4199106"
+building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
+building_section = "корпус {building}"
+deal_status = "первичная продажа"
+include_statuses = ["Свободно"]
+render_count = 6
+show_discount = true
+[project.house_ids]
+"1" = "4199106"
+"3" = "4200914"
+"5" = "4200915"
+[project.renovation]
+"Без отделки" = "без отделки"
+"Предчистовая" = "предчистовая"
+"С отделкой" = "под ключ"
+
+[[project]]
+key = "plus-pulkovsky"
+api_id = 32
+name = "PLUS Пулковский"
+yandex_building_id = "3698654"
+yandex_house_id = "3698841"
+building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
+building_section = "корпус {building}"
+deal_status = "первичная продажа"
+include_statuses = ["Свободно"]
+render_count = 6
+show_discount = true
+[project.house_ids]
+"1" = "3698841"
+"2" = "3698865"
+"3" = "3698888"
+"4" = "3699308"
+"5" = "3699328"
+"6" = "3699354"
+"7" = "3699377"
+"8" = "3699392"
+"9" = "4186870"
+"10" = "4186879"
+"11" = "4186880"
+"12" = "4186893"
+"13" = "4186896"
+"14" = "4186897"
+[project.renovation]
+"Без отделки" = "без отделки"
+"Предчистовая" = "предчистовая"
+"С отделкой" = "под ключ"
+
+[[project]]
+key = "respect"
+api_id = 39
+name = "РЕСПЕКТ"
+yandex_building_id = "3827651"
+yandex_house_id = "3827695"
+building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
+building_section = "корпус {building}"
+deal_status = "первичная продажа"
+include_statuses = ["Свободно"]
+render_count = 6
+show_discount = true
+[project.house_ids]
+"1" = "3827695"
+"2" = "3827727"
+"3" = "3827757"
+"4" = "3827769"
+"5" = "3827782"
+"6" = "4082839"
+[project.renovation]
+"Без отделки" = "без отделки"
+"Предчистовая" = "предчистовая"
+"С отделкой" = "под ключ"
+
+[[project]]
+key = "industrial-avenir"
+api_id = 40
+name = "Industrial AVENIR"
+label = "Апарт-отель"
+yandex_building_id = "4018265"
+yandex_house_id = "4018307"
+building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
+building_section = "корпус {building}"
+deal_status = "первичная продажа"
+include_statuses = ["Свободно"]
+render_count = 6
+show_discount = true
+[project.renovation]
+"Без отделки" = "без отделки"
+"Предчистовая" = "предчистовая"
+"С отделкой" = "под ключ"
+
+[[project]]
+key = "ladozhsky-avenir"
+api_id = 2
+name = "Ladozhsky AVENIR"
+label = "Апарт-отель"
+yandex_building_id = "3118471"
+yandex_house_id = "3118634"
+building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
+building_section = "корпус {building}"
+deal_status = "первичная продажа"
+include_statuses = ["Свободно"]
+render_count = 6
+show_discount = true
+[project.renovation]
+"Без отделки" = "без отделки"
+"Предчистовая" = "предчистовая"
+"С отделкой" = "под ключ"
+
+[[project]]
+key = "bakunina-33"
+api_id = 30
+name = "BAKUNINA 33"
+yandex_building_id = "2898101"
+yandex_house_id = "2898138"
+building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
+building_section = "корпус {building}"
+deal_status = "первичная продажа"
+include_statuses = ["Свободно"]
+render_count = 6
+show_discount = true
+[project.renovation]
+"Без отделки" = "без отделки"
+"Предчистовая" = "предчистовая"
+"С отделкой" = "под ключ"
+
+[[project]]
+key = "severnaya-korona"
+api_id = 22
+name = "Северная корона"
+yandex_building_id = "2742301"
+yandex_house_id = "2742329"   # к. 1 в каталоге; у остальных корпусов свой ID (см. house_ids)
+building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
+building_section = "корпус {building}"
+deal_status = "первичная продажа"
+include_statuses = ["Свободно"]
+render_count = 6
+show_discount = true
+[project.house_ids]
+"1" = "2742329"
+"2" = "2920807"
+"4" = "2920808"
+"5" = "2920809"
+"6" = "2920812"
+"71" = "3818394"
+"72" = "2920813"
+"81" = "2920815"
+"82" = "2920816"
+[project.building_labels]
+"71" = "7.1"
+"72" = "7.2"
+"81" = "8.1"
+"82" = "8.2"
 [project.renovation]
 "Без отделки" = "без отделки"
 "Предчистовая" = "предчистовая"

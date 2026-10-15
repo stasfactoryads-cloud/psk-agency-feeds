@@ -40,7 +40,7 @@ def render_index(report):
         for i, f in enumerate(feeds):
             first = f'<td rowspan="{len(feeds)}"><b>{e(agency)}</b></td>' if i == 0 else ""
             rows += f"""<tr class="{'grp' if i == 0 else ''}">{first}
-<td class="nw">ЖК «{e(f['project_name'])}»</td>
+<td class="nw">{e(f.get('project_title') or 'ЖК «' + f['project_name'] + '»')}</td>
 <td class="url"><div class="link"><code>{e(f['url'])}</code>
 <button type="button" data-url="{e(f['url'])}">Копировать</button></div>
 <a href="{e(f['url'])}">открыть XML</a> · <a href="{e(f['preview'])}">превью лотов</a></td>

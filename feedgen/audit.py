@@ -90,16 +90,16 @@ def run(cfg):
 
     for pr in report["projects"]:
         sets = offer_sets.get(pr["key"], [])
-        name = pr["name"]
+        name = pr.get("title") or f"ЖК «{pr['name']}»"
         if any(x != sets[0] for x in sets):
-            errors.append(f"ЖК «{name}»: в фидах агентств разный набор лотов")
+            errors.append(f"{name}: в фидах агентств разный набор лотов")
         if sets and len(sets[0]) != pr["lots"]:
-            errors.append(f"ЖК «{name}»: в фиде {len(sets[0])} лотов, в API {pr['lots']}")
+            errors.append(f"{name}: в фиде {len(sets[0])} лотов, в API {pr['lots']}")
         prev = pr.get("prev_lots")
         if prev and pr["lots"] < prev * (1 - MAX_DROP):
-            errors.append(f"ЖК «{name}»: число лотов упало с {prev} до {pr['lots']}, проверьте API сайта")
+            errors.append(f"{name}: число лотов упало с {prev} до {pr['lots']}, проверьте API сайта")
         elif prev and pr["lots"] != prev:
-            warnings.append(f"ЖК «{name}»: число лотов изменилось, было {prev}, стало {pr['lots']}")
+            warnings.append(f"{name}: число лотов изменилось, было {prev}, стало {pr['lots']}")
     checks.append("Набор лотов совпадает с API: " + ", ".join(f"{pr['name']} {pr['lots']}" for pr in report["projects"]))
 
     age = datetime.now(MSK) - datetime.fromisoformat(report["generated_at"])

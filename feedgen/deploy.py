@@ -5,6 +5,7 @@
   FTP_PATH                                – папка на хостинге, куда кладутся файлы
   FTP_TLS                                 – "1" для FTPS (по умолчанию), "0" для обычного FTP
   FTP_PORT                                – порт, по умолчанию 21
+  FTP_WORKERS                             – число параллельных соединений, по умолчанию 4
 
 Правила:
   - XML, HTML и JSON загружаются всегда;
@@ -19,6 +20,8 @@
 import ftplib
 import logging
 import os
+import threading
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 log = logging.getLogger(__name__)
@@ -72,9 +75,41 @@ def _walk_remote(ftp, folder):
     return files, dirs
 
 
-def deploy(local_root):
+def _upload_worker(jobs, base, counter, lock, total):
+    """Один поток со своим FTP-соединением: загружает свою долю файлов."""
+    ftp = _connect()
+    done = skipped = 0
+    try:
+        for rel, path in jobs:
+            ftp.cwd(base)
+            _cd_or_make(ftp, os.path.dirname(rel))
+            name = os.path.basename(rel)
+            if not name.endswith(ALWAYS_UPLOAD):
+                try:
+                    if ftp.size(name) == path.stat().st_size:
+                        skipped += 1
+                        continue
+                except ftplib.error_perm:
+                    pass  # файла на сервере нет, загрузим
+            with open(path, "rb") as f:
+                ftp.storbinary(f"STOR {name}", f)
+            done += 1
+            with lock:
+                counter[0] += 1
+                if counter[0] % 200 == 0:
+                    log.info("Загружено файлов: %d", counter[0])
+    finally:
+        try:
+            ftp.quit()
+        except Exception:
+            pass
+    return done, skipped
+
+
+def deploy(local_root, workers=None):
     local_root = Path(local_root)
     base = os.environ.get("FTP_PATH", "/").rstrip("/") or "/"
+    workers = workers or int(os.environ.get("FTP_WORKERS", "4"))
     ftp = _connect()
     try:
         ftp.cwd(base)
@@ -84,33 +119,28 @@ def deploy(local_root):
         log.error("Папка FTP_PATH не найдена. Видно от корня входа: %s", ", ".join(root_names) or "(пусто)")
         raise
 
-    wanted, uploaded, skipped = set(), 0, 0
-    for path in sorted(p for p in local_root.rglob("*") if p.is_file()):
-        rel = path.relative_to(local_root).as_posix()
-        wanted.add(rel)
+    files = sorted((p.relative_to(local_root).as_posix(), p) for p in local_root.rglob("*") if p.is_file())
+    wanted = {rel for rel, _ in files}
+
+    # папки создаем заранее одним соединением, чтобы потоки не мешали друг другу
+    for d in sorted({os.path.dirname(rel) for rel in wanted if os.path.dirname(rel)}):
         ftp.cwd(base)
-        _cd_or_make(ftp, os.path.dirname(rel))
-        name = os.path.basename(rel)
+        _cd_or_make(ftp, d)
 
-        if not name.endswith(ALWAYS_UPLOAD):
-            try:
-                if ftp.size(name) == path.stat().st_size:
-                    skipped += 1
-                    continue
-            except ftplib.error_perm:
-                pass  # файла на сервере нет, загрузим
-
-        with open(path, "rb") as f:
-            ftp.storbinary(f"STOR {name}", f)
-        uploaded += 1
-        if uploaded % 100 == 0:
-            log.info("Загружено файлов: %d", uploaded)
+    # раздаем файлы потокам по кругу, чтобы нагрузка была ровной
+    shares = [files[i::workers] for i in range(workers)]
+    counter, lock = [0], threading.Lock()
+    uploaded = skipped = 0
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        for done, skip in ex.map(lambda j: _upload_worker(j, base, counter, lock, len(files)), shares):
+            uploaded += done
+            skipped += skip
 
     removed = 0
     for folder in MANAGED_FOLDERS:
         ftp.cwd(base)
-        files, dirs = _walk_remote(ftp, folder)
-        for rel in files:
+        remote_files, dirs = _walk_remote(ftp, folder)
+        for rel in remote_files:
             if rel not in wanted:
                 ftp.cwd(base)
                 ftp.delete(rel)
@@ -124,6 +154,6 @@ def deploy(local_root):
                 pass
 
     ftp.quit()
-    log.info("Загрузка на хостинг: загружено %d, без изменений %d, удалено устаревших %d",
-             uploaded, skipped, removed)
+    log.info("Загрузка на хостинг: загружено %d, без изменений %d, удалено устаревших %d (потоков %d)",
+             uploaded, skipped, removed, workers)
     return {"uploaded": uploaded, "skipped": skipped, "removed": removed}
