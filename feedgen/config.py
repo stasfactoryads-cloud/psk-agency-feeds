@@ -17,9 +17,21 @@ class Agency:
     url: str = ""
     utm_source: str = ""
     projects: list = field(default_factory=list)   # пусто = все ЖК
+    logo: str = ""                                 # файл в папке logos/; если пусто, ищется logos/<slug>.*
 
     def wants(self, project_key):
         return not self.projects or project_key in self.projects
+
+
+@dataclass
+class Portal:
+    """Тексты страницы со ссылками и блока для копирования."""
+    developer: str = "Петербургская строительная компания"
+    site: str = "https://psk-info.ru"
+    phone: str = ""
+    manager: str = ""
+    manager_role: str = "руководитель отдела"
+    support_bot: str = ""
 
 
 @dataclass
@@ -68,6 +80,7 @@ class Config:
     projects: list
     agencies: list
     legacy_project: str = ""
+    portal: Portal = field(default_factory=Portal)
 
     @property
     def feeds_dir(self):
@@ -121,5 +134,6 @@ def load_config(path):
         api_workers=int(g.get("api_workers", 8)),
         projects=projects,
         legacy_project=g.get("legacy_project", ""),
+        portal=Portal(**raw.get("portal", {})),
         agencies=agencies,
     )
