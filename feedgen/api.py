@@ -12,7 +12,8 @@ PAGE_SIZE = 500
 USER_AGENT = "PSK-Agency-Feeds/1.0"
 
 
-def get_json(url, retries=3, timeout=60):
+def get_json(url, retries=6, timeout=90):
+    """GET JSON с повторами и нарастающими паузами: разовые сбои сети не должны ронять сборку."""
     last_err = None
     for attempt in range(retries):
         try:
@@ -24,7 +25,8 @@ def get_json(url, retries=3, timeout=60):
                 return json.loads(resp.read().decode("utf-8"))
         except Exception as e:  # сеть, 5xx, битый JSON
             last_err = e
-            time.sleep(2 * (attempt + 1))
+            log.warning("API: попытка %d из %d не удалась (%s): %s", attempt + 1, retries, type(e).__name__, url[:80])
+            time.sleep(5 * (attempt + 1))
     raise RuntimeError(f"API недоступно: {url}: {last_err}")
 
 
