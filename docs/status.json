@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:01:56+03:00",
+  "generated_at": "2026-10-15T13:55:45+03:00",
   "projects": [
     {
       "key": "optimist",
@@ -10,7 +10,7 @@
     {
       "key": "sezony",
       "name": "Сезоны",
-      "lots": 263,
+      "lots": 264,
       "prev_lots": 263
     },
     {
@@ -95,7 +95,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/sezony.xml",
       "preview": "preview/trend/sezony.html",
       "status": "ok",
-      "offers": 263,
+      "offers": 264,
       "errors": [],
       "warnings": []
     },
@@ -108,7 +108,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/sezony.xml",
       "preview": "preview/advecs/sezony.html",
       "status": "ok",
-      "offers": 263,
+      "offers": 264,
       "errors": [],
       "warnings": []
     },
@@ -121,7 +121,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/sezony.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/sezony.html",
       "status": "ok",
-      "offers": 263,
+      "offers": 264,
       "errors": [],
       "warnings": []
     },
@@ -134,7 +134,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/sezony.xml",
       "preview": "preview/pan/sezony.html",
       "status": "ok",
-      "offers": 263,
+      "offers": 264,
       "errors": [],
       "warnings": []
     },
@@ -147,7 +147,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/sezony.xml",
       "preview": "preview/n-market/sezony.html",
       "status": "ok",
-      "offers": 263,
+      "offers": 264,
       "errors": [],
       "warnings": []
     },
@@ -218,16 +218,18 @@
     }
   ],
   "audit": {
-    "checked_at": "2026-10-15T12:02:45+03:00",
+    "checked_at": "2026-10-15T13:57:04+03:00",
     "status": "ok",
     "checks": [
       "Правила Яндекс Недвижимости: проверено фидов 15",
       "Планировки JPG на месте",
       "Внешние картинки доступны: 18 из 18",
-      "Набор лотов совпадает с API: Оптимист 191, Сезоны 263, Акватория 161",
+      "Набор лотов совпадает с API: Оптимист 191, Сезоны 264, Акватория 161",
       "Фиды свежие"
     ],
     "errors": [],
-    "warnings": []
+    "warnings": [
+      "ЖК «Сезоны»: число лотов изменилось, было 263, стало 264"
+    ]
   }
 }
