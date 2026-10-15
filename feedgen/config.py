@@ -17,7 +17,6 @@ class Agency:
     url: str = ""
     utm_source: str = ""
     projects: list = field(default_factory=list)   # пусто = все ЖК
-    logo: str = ""                                 # файл в папке logos/; если пусто, ищется logos/<slug>.*
 
     def wants(self, project_key):
         return not self.projects or project_key in self.projects

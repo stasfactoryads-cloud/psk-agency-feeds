@@ -2,30 +2,11 @@
 
 import html
 import json
-import shutil
 from datetime import datetime
 
 from .config import Config
 
 STATUS_LABEL = {"ok": "готов", "error": "есть ошибки"}
-LOGO_EXTENSIONS = ("svg", "png", "jpg", "jpeg", "webp")
-
-
-def collect_logos(cfg: Config):
-    """Копирует логотипы агентств из logos/ в публикуемую папку. Возвращает {slug: 'logos/файл'}."""
-    src_dir = cfg.base_dir / "logos"
-    out_dir = cfg.output_dir / "logos"
-    found = {}
-    for agency in cfg.agencies:
-        candidates = [agency.logo] if agency.logo else [f"{agency.slug}.{ext}" for ext in LOGO_EXTENSIONS]
-        for name in candidates:
-            path = src_dir / name
-            if name and path.is_file():
-                out_dir.mkdir(parents=True, exist_ok=True)
-                shutil.copyfile(path, out_dir / path.name)
-                found[agency.slug] = f"logos/{path.name}"
-                break
-    return found
 
 
 def write_site(cfg: Config, report):
@@ -34,8 +15,7 @@ def write_site(cfg: Config, report):
     tmp = cfg.output_dir / "status.json.tmp"
     tmp.write_text(json.dumps(report, ensure_ascii=False, indent=2))
     tmp.replace(cfg.output_dir / "status.json")
-    logos = collect_logos(cfg)
-    (cfg.output_dir / "index.html").write_text(render_index(report, cfg, logos), encoding="utf-8")
+    (cfg.output_dir / "index.html").write_text(render_index(report, cfg), encoding="utf-8")
 
 
 def fmt_ts(iso):
@@ -47,12 +27,6 @@ def fmt_ts(iso):
 
 def _list(items, cls=""):
     return "".join(f'<li class="{cls}">{html.escape(i)}</li>' for i in items)
-
-
-def monogram(name):
-    words = [w for w in name.replace("«", " ").replace("»", " ").split() if w]
-    letters = "".join(w[0] for w in words[:2]) or "?"
-    return letters.upper()
 
 
 def copy_text(cfg: Config, agency_name, feeds):
@@ -75,9 +49,8 @@ def copy_text(cfg: Config, agency_name, feeds):
     return "\n".join(lines)
 
 
-def render_index(report, cfg: Config, logos=None):
+def render_index(report, cfg: Config):
     e = html.escape
-    logos = logos or {}
     audit = report.get("audit")
     p = cfg.portal
 
@@ -90,8 +63,6 @@ def render_index(report, cfg: Config, logos=None):
         feeds, name = g["feeds"], g["name"]
         ok = all(f["status"] == "ok" for f in feeds)
         lots = sum(f["offers"] for f in feeds)
-        logo = (f'<img class="logo" src="{e(logos[slug])}" alt="{e(name)}">' if slug in logos
-                else f'<span class="logo mono" aria-hidden="true">{e(monogram(name))}</span>')
         rows = ""
         for f in feeds:
             title = f.get("project_title") or f"ЖК «{f['project_name']}»"
@@ -106,7 +77,6 @@ def render_index(report, cfg: Config, logos=None):
         sections += f"""<details class="agency" id="{e(slug)}" data-slug="{e(slug)}">
 <summary>
 <span class="chev" aria-hidden="true"></span>
-{logo}
 <span class="who"><b>{e(name)}</b><span class="muted">объектов: {len(feeds)}, лотов: {lots}</span></span>
 <span class="badge {'ok' if ok else 'error'}">{'готов' if ok else 'есть ошибки'}</span>
 <button type="button" class="copy all" data-copy="{e(copy_text(cfg, name, feeds), quote=True)}">Скопировать все ссылки</button>
@@ -156,8 +126,6 @@ details>summary{{list-style:none;cursor:pointer;display:flex;align-items:center;
 details>summary::-webkit-details-marker{{display:none}}
 .chev{{width:8px;height:8px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(-45deg);transition:transform .15s;flex:none}}
 details[open]>summary .chev{{transform:rotate(45deg)}}
-.logo{{width:44px;height:44px;border-radius:8px;border:1px solid var(--line);background:#fff;object-fit:contain;flex:none}}
-.logo.mono{{display:inline-flex;align-items:center;justify-content:center;background:var(--bg);color:var(--text);font-weight:700;font-size:15px}}
 .who{{display:flex;flex-direction:column;flex:1;min-width:180px;line-height:1.3}}.who b{{font-size:16px}}.who .muted{{font-size:13px}}
 .wrap{{overflow-x:auto;padding:0 16px 12px}}table{{border-collapse:collapse;width:100%;min-width:760px}}
 td,th{{border-top:1px solid var(--line);padding:10px 8px;text-align:left;vertical-align:top}}th{{font-weight:600;color:var(--muted)}}
