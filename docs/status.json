@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:01:48+03:00",
+  "generated_at": "2026-10-16T12:24:33+03:00",
   "projects": [
     {
       "key": "optimist",
@@ -13,13 +13,13 @@
       "name": "Сезоны",
       "title": "ЖК «Сезоны»",
       "lots": 263,
-      "prev_lots": 264
+      "prev_lots": 263
     },
     {
       "key": "akvatoriya",
       "name": "Акватория",
       "title": "ЖК «Акватория»",
-      "lots": 161,
+      "lots": 160,
       "prev_lots": 161
     },
     {
@@ -27,56 +27,56 @@
       "name": "Ассамблея",
       "title": "ЖК «Ассамблея»",
       "lots": 485,
-      "prev_lots": null
+      "prev_lots": 485
     },
     {
       "key": "galernaya-gavan",
       "name": "Галерная гавань",
       "title": "ЖК «Галерная гавань»",
-      "lots": 210,
-      "prev_lots": null
+      "lots": 209,
+      "prev_lots": 210
     },
     {
       "key": "plus-pulkovsky",
       "name": "PLUS Пулковский",
       "title": "ЖК «PLUS Пулковский»",
-      "lots": 247,
-      "prev_lots": null
+      "lots": 246,
+      "prev_lots": 247
     },
     {
       "key": "respect",
       "name": "РЕСПЕКТ",
       "title": "ЖК «РЕСПЕКТ»",
       "lots": 456,
-      "prev_lots": null
+      "prev_lots": 456
     },
     {
       "key": "industrial-avenir",
       "name": "Industrial AVENIR",
       "title": "Апарт-отель «Industrial AVENIR»",
-      "lots": 114,
-      "prev_lots": null
+      "lots": 112,
+      "prev_lots": 114
     },
     {
       "key": "ladozhsky-avenir",
       "name": "Ladozhsky AVENIR",
       "title": "Апарт-отель «Ladozhsky AVENIR»",
-      "lots": 66,
-      "prev_lots": null
+      "lots": 65,
+      "prev_lots": 66
     },
     {
       "key": "bakunina-33",
       "name": "BAKUNINA 33",
       "title": "ЖК «BAKUNINA 33»",
       "lots": 19,
-      "prev_lots": null
+      "prev_lots": 19
     },
     {
       "key": "severnaya-korona",
       "name": "Северная корона",
       "title": "ЖК «Северная корона»",
-      "lots": 6,
-      "prev_lots": null
+      "lots": 7,
+      "prev_lots": 6
     }
   ],
   "feeds": [
@@ -230,7 +230,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/akvatoriya.xml",
       "preview": "preview/trend/akvatoriya.html",
       "status": "ok",
-      "offers": 161,
+      "offers": 160,
       "errors": [],
       "warnings": []
     },
@@ -244,7 +244,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/akvatoriya.xml",
       "preview": "preview/advecs/akvatoriya.html",
       "status": "ok",
-      "offers": 161,
+      "offers": 160,
       "errors": [],
       "warnings": []
     },
@@ -258,7 +258,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/akvatoriya.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/akvatoriya.html",
       "status": "ok",
-      "offers": 161,
+      "offers": 160,
       "errors": [],
       "warnings": []
     },
@@ -272,7 +272,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/akvatoriya.xml",
       "preview": "preview/pan/akvatoriya.html",
       "status": "ok",
-      "offers": 161,
+      "offers": 160,
       "errors": [],
       "warnings": []
     },
@@ -286,7 +286,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/akvatoriya.xml",
       "preview": "preview/n-market/akvatoriya.html",
       "status": "ok",
-      "offers": 161,
+      "offers": 160,
       "errors": [],
       "warnings": []
     },
@@ -370,7 +370,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/galernaya-gavan.xml",
       "preview": "preview/trend/galernaya-gavan.html",
       "status": "ok",
-      "offers": 210,
+      "offers": 209,
       "errors": [],
       "warnings": []
     },
@@ -384,7 +384,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/galernaya-gavan.xml",
       "preview": "preview/advecs/galernaya-gavan.html",
       "status": "ok",
-      "offers": 210,
+      "offers": 209,
       "errors": [],
       "warnings": []
     },
@@ -398,7 +398,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/galernaya-gavan.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/galernaya-gavan.html",
       "status": "ok",
-      "offers": 210,
+      "offers": 209,
       "errors": [],
       "warnings": []
     },
@@ -412,7 +412,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/galernaya-gavan.xml",
       "preview": "preview/pan/galernaya-gavan.html",
       "status": "ok",
-      "offers": 210,
+      "offers": 209,
       "errors": [],
       "warnings": []
     },
@@ -426,7 +426,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/galernaya-gavan.xml",
       "preview": "preview/n-market/galernaya-gavan.html",
       "status": "ok",
-      "offers": 210,
+      "offers": 209,
       "errors": [],
       "warnings": []
     },
@@ -440,7 +440,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/plus-pulkovsky.xml",
       "preview": "preview/trend/plus-pulkovsky.html",
       "status": "ok",
-      "offers": 247,
+      "offers": 246,
       "errors": [],
       "warnings": []
     },
@@ -454,7 +454,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/plus-pulkovsky.xml",
       "preview": "preview/advecs/plus-pulkovsky.html",
       "status": "ok",
-      "offers": 247,
+      "offers": 246,
       "errors": [],
       "warnings": []
     },
@@ -468,7 +468,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/plus-pulkovsky.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/plus-pulkovsky.html",
       "status": "ok",
-      "offers": 247,
+      "offers": 246,
       "errors": [],
       "warnings": []
     },
@@ -482,7 +482,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/plus-pulkovsky.xml",
       "preview": "preview/pan/plus-pulkovsky.html",
       "status": "ok",
-      "offers": 247,
+      "offers": 246,
       "errors": [],
       "warnings": []
     },
@@ -496,7 +496,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/plus-pulkovsky.xml",
       "preview": "preview/n-market/plus-pulkovsky.html",
       "status": "ok",
-      "offers": 247,
+      "offers": 246,
       "errors": [],
       "warnings": []
     },
@@ -580,7 +580,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/industrial-avenir.xml",
       "preview": "preview/trend/industrial-avenir.html",
       "status": "ok",
-      "offers": 114,
+      "offers": 112,
       "errors": [],
       "warnings": []
     },
@@ -594,7 +594,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/industrial-avenir.xml",
       "preview": "preview/advecs/industrial-avenir.html",
       "status": "ok",
-      "offers": 114,
+      "offers": 112,
       "errors": [],
       "warnings": []
     },
@@ -608,7 +608,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/industrial-avenir.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/industrial-avenir.html",
       "status": "ok",
-      "offers": 114,
+      "offers": 112,
       "errors": [],
       "warnings": []
     },
@@ -622,7 +622,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/industrial-avenir.xml",
       "preview": "preview/pan/industrial-avenir.html",
       "status": "ok",
-      "offers": 114,
+      "offers": 112,
       "errors": [],
       "warnings": []
     },
@@ -636,7 +636,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/industrial-avenir.xml",
       "preview": "preview/n-market/industrial-avenir.html",
       "status": "ok",
-      "offers": 114,
+      "offers": 112,
       "errors": [],
       "warnings": []
     },
@@ -650,7 +650,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/ladozhsky-avenir.xml",
       "preview": "preview/trend/ladozhsky-avenir.html",
       "status": "ok",
-      "offers": 66,
+      "offers": 65,
       "errors": [],
       "warnings": []
     },
@@ -664,7 +664,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/ladozhsky-avenir.xml",
       "preview": "preview/advecs/ladozhsky-avenir.html",
       "status": "ok",
-      "offers": 66,
+      "offers": 65,
       "errors": [],
       "warnings": []
     },
@@ -678,7 +678,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/ladozhsky-avenir.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/ladozhsky-avenir.html",
       "status": "ok",
-      "offers": 66,
+      "offers": 65,
       "errors": [],
       "warnings": []
     },
@@ -692,7 +692,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/ladozhsky-avenir.xml",
       "preview": "preview/pan/ladozhsky-avenir.html",
       "status": "ok",
-      "offers": 66,
+      "offers": 65,
       "errors": [],
       "warnings": []
     },
@@ -706,7 +706,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/ladozhsky-avenir.xml",
       "preview": "preview/n-market/ladozhsky-avenir.html",
       "status": "ok",
-      "offers": 66,
+      "offers": 65,
       "errors": [],
       "warnings": []
     },
@@ -790,7 +790,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/severnaya-korona.xml",
       "preview": "preview/trend/severnaya-korona.html",
       "status": "ok",
-      "offers": 6,
+      "offers": 7,
       "errors": [],
       "warnings": []
     },
@@ -804,7 +804,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/severnaya-korona.xml",
       "preview": "preview/advecs/severnaya-korona.html",
       "status": "ok",
-      "offers": 6,
+      "offers": 7,
       "errors": [],
       "warnings": []
     },
@@ -818,7 +818,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/severnaya-korona.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/severnaya-korona.html",
       "status": "ok",
-      "offers": 6,
+      "offers": 7,
       "errors": [],
       "warnings": []
     },
@@ -832,7 +832,7 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/severnaya-korona.xml",
       "preview": "preview/pan/severnaya-korona.html",
       "status": "ok",
-      "offers": 6,
+      "offers": 7,
       "errors": [],
       "warnings": []
     },
@@ -846,24 +846,29 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/severnaya-korona.xml",
       "preview": "preview/n-market/severnaya-korona.html",
       "status": "ok",
-      "offers": 6,
+      "offers": 7,
       "errors": [],
       "warnings": []
     }
   ],
   "audit": {
-    "checked_at": "2026-10-15T16:26:28+03:00",
+    "checked_at": "2026-10-16T12:27:21+03:00",
     "status": "ok",
     "checks": [
       "Правила Яндекс Недвижимости: проверено фидов 55",
       "Планировки JPG на месте",
       "Внешние картинки доступны: 66 из 66",
-      "Набор лотов совпадает с API: Оптимист 191, Сезоны 263, Акватория 161, Ассамблея 485, Галерная гавань 210, PLUS Пулковский 247, РЕСПЕКТ 456, Industrial AVENIR 114, Ladozhsky AVENIR 66, BAKUNINA 33 19, Северная корона 6",
+      "Набор лотов совпадает с API: Оптимист 191, Сезоны 263, Акватория 160, Ассамблея 485, Галерная гавань 209, PLUS Пулковский 246, РЕСПЕКТ 456, Industrial AVENIR 112, Ladozhsky AVENIR 65, BAKUNINA 33 19, Северная корона 7",
       "Фиды свежие"
     ],
     "errors": [],
     "warnings": [
-      "ЖК «Сезоны»: число лотов изменилось, было 264, стало 263"
+      "ЖК «Акватория»: число лотов изменилось, было 161, стало 160",
+      "ЖК «Галерная гавань»: число лотов изменилось, было 210, стало 209",
+      "ЖК «PLUS Пулковский»: число лотов изменилось, было 247, стало 246",
+      "Апарт-отель «Industrial AVENIR»: число лотов изменилось, было 114, стало 112",
+      "Апарт-отель «Ladozhsky AVENIR»: число лотов изменилось, было 66, стало 65",
+      "ЖК «Северная корона»: число лотов изменилось, было 6, стало 7"
     ]
   }
 }
