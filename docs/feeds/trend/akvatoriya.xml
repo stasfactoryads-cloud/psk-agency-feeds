@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-17T12:18:56+03:00</generation-date>
+  <generation-date>2026-10-17T21:56:21+03:00</generation-date>
   <offer internal-id="431809">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431809?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -76,6 +76,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>2</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431841">
     <type>продажа</type>
@@ -83,7 +85,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431841?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -152,6 +154,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>34</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431813">
     <type>продажа</type>
@@ -159,7 +163,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431813?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -228,6 +232,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>6</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431845">
     <type>продажа</type>
@@ -235,7 +241,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431845?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -304,6 +310,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>38</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431821">
     <type>продажа</type>
@@ -311,7 +319,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431821?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -380,6 +388,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>14</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431853">
     <type>продажа</type>
@@ -387,7 +397,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431853?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -456,6 +466,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>46</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431829">
     <type>продажа</type>
@@ -463,7 +475,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431829?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -532,6 +544,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>22</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431861">
     <type>продажа</type>
@@ -539,7 +553,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431861?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -608,6 +622,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>54</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431810">
     <type>продажа</type>
@@ -615,7 +631,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431810?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -684,6 +700,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>3</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431840">
     <type>продажа</type>
@@ -691,7 +709,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431840?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -760,6 +778,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>33</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431814">
     <type>продажа</type>
@@ -767,7 +787,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431814?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -836,6 +856,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>7</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431815">
     <type>продажа</type>
@@ -843,7 +865,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431815?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -912,6 +934,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>8</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431843">
     <type>продажа</type>
@@ -919,7 +943,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431843?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -988,6 +1012,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>36</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431844">
     <type>продажа</type>
@@ -995,7 +1021,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431844?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1064,6 +1090,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>37</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431822">
     <type>продажа</type>
@@ -1071,7 +1099,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431822?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1140,6 +1168,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>15</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431823">
     <type>продажа</type>
@@ -1147,7 +1177,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431823?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1216,6 +1246,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>16</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431851">
     <type>продажа</type>
@@ -1223,7 +1255,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431851?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1292,6 +1324,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>44</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431852">
     <type>продажа</type>
@@ -1299,7 +1333,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431852?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1368,6 +1402,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>45</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431830">
     <type>продажа</type>
@@ -1375,7 +1411,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431830?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1444,6 +1480,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>23</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431831">
     <type>продажа</type>
@@ -1451,7 +1489,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431831?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1520,6 +1558,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>24</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431859">
     <type>продажа</type>
@@ -1527,7 +1567,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431859?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1596,6 +1636,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>52</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431860">
     <type>продажа</type>
@@ -1603,7 +1645,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431860?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1672,6 +1714,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>53</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431837">
     <type>продажа</type>
@@ -1679,7 +1723,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431837?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1749,6 +1793,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>30</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431838">
     <type>продажа</type>
@@ -1756,7 +1802,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431838?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1826,6 +1872,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>31</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431808">
     <type>продажа</type>
@@ -1833,7 +1881,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431808?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1903,6 +1951,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431842">
     <type>продажа</type>
@@ -1910,7 +1960,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431842?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1980,6 +2030,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>35</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431812">
     <type>продажа</type>
@@ -1987,7 +2039,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431812?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2057,6 +2109,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>5</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431846">
     <type>продажа</type>
@@ -2064,7 +2118,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431846?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2134,6 +2188,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>39</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431820">
     <type>продажа</type>
@@ -2141,7 +2197,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431820?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2211,6 +2267,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>13</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431854">
     <type>продажа</type>
@@ -2218,7 +2276,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431854?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2288,6 +2346,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>47</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431828">
     <type>продажа</type>
@@ -2295,7 +2355,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431828?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2365,6 +2425,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>21</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431862">
     <type>продажа</type>
@@ -2372,7 +2434,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431862?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2442,6 +2504,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>55</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431873">
     <type>продажа</type>
@@ -2449,7 +2513,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431873?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2518,6 +2582,86 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>66</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="431909">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/431909?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>27881313</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>22305050</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>46.23</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-9fb24fc0f2bc6dda.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-4614dd55e01221c3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>1-комнатная квартира 46,23 м² на 2 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 102.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>102</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="431910">
     <type>продажа</type>
@@ -2525,7 +2669,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431910?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2594,6 +2738,86 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>103</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="431991">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/431991?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>30528297</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>24422638</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>44.69</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-2876dee87851bc13.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-bcdf5a3cef269b7c.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>1-комнатная квартира 44,69 м² на 2 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 184.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>184</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="431878">
     <type>продажа</type>
@@ -2601,7 +2825,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431878?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2670,6 +2894,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>71</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431914">
     <type>продажа</type>
@@ -2677,7 +2903,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431914?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2746,6 +2972,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>107</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431915">
     <type>продажа</type>
@@ -2753,7 +2981,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431915?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2823,6 +3051,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>108</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431970">
     <type>продажа</type>
@@ -2830,7 +3060,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431970?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2899,6 +3129,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>163</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432044">
     <type>продажа</type>
@@ -2906,7 +3138,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432044?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2975,6 +3207,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>237</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432068">
     <type>продажа</type>
@@ -2982,7 +3216,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432068?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3051,6 +3285,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>261</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432106">
     <type>продажа</type>
@@ -3058,7 +3294,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432106?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3128,6 +3364,86 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>299</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432145">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432145?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>38505779</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>30804623</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>50.66</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>3</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-19b375277f10bec1.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-abd1e93abe43d11c.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>1-комнатная квартира 50,66 м² на 3 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 338.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>338</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="431888">
     <type>продажа</type>
@@ -3135,7 +3451,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431888?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3204,6 +3520,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>81</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431924">
     <type>продажа</type>
@@ -3211,7 +3529,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431924?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3280,6 +3598,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>117</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431925">
     <type>продажа</type>
@@ -3287,7 +3607,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431925?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3357,6 +3677,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>118</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431976">
     <type>продажа</type>
@@ -3364,7 +3686,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431976?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3433,6 +3755,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>169</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432050">
     <type>продажа</type>
@@ -3440,7 +3764,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432050?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3509,6 +3833,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>243</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432078">
     <type>продажа</type>
@@ -3516,7 +3842,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432078?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3585,6 +3911,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>271</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432116">
     <type>продажа</type>
@@ -3592,7 +3920,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432116?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3662,6 +3990,86 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>309</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432155">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432155?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>39709712</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>31767769</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>50.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-27a8dd2d2272021f.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-3f765697b28aaba1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>1-комнатная квартира 50,3 м² на 5 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 348.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>348</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="432010">
     <type>продажа</type>
@@ -3669,7 +4077,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432010?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3738,6 +4146,87 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>203</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432160">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432160?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>41378805</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>33103044</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>50.86</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>6</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-393894c7e18955bf.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-b4cdbefa98831607.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>1-комнатная квартира 50,86 м² на 6 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 353.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>353</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="431898">
     <type>продажа</type>
@@ -3745,7 +4234,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431898?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3814,6 +4303,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>91</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431934">
     <type>продажа</type>
@@ -3821,7 +4312,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431934?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3890,6 +4381,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>127</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431982">
     <type>продажа</type>
@@ -3897,7 +4390,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431982?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3966,6 +4459,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>175</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432015">
     <type>продажа</type>
@@ -3973,7 +4468,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432015?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4043,6 +4538,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>208</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432056">
     <type>продажа</type>
@@ -4050,7 +4547,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432056?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4119,6 +4616,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>249</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432088">
     <type>продажа</type>
@@ -4126,7 +4625,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432088?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4195,6 +4694,165 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>281</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432126">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432126?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>41831680</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>33465344</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>59.42</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>7</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-9f94d650c9c09391.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-e618dea059d96273.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>1-комнатная квартира 59,42 м² на 7 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 319.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>319</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
+  </offer>
+  <offer internal-id="432020">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432020?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>39775050</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>31820040</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>43.92</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-fd54b9975a8f2858.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-d03e815d346a0ee0.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>1-комнатная квартира 43,92 м² на 8 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 213.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>213</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="431871">
     <type>продажа</type>
@@ -4202,7 +4860,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431871?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4271,6 +4929,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>64</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431872">
     <type>продажа</type>
@@ -4278,7 +4938,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431872?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4347,6 +5007,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>65</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431874">
     <type>продажа</type>
@@ -4354,7 +5016,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431874?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4423,6 +5085,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>67</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431945">
     <type>продажа</type>
@@ -4430,7 +5094,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431945?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4499,6 +5163,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>138</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432063">
     <type>продажа</type>
@@ -4506,7 +5172,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432063?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4575,6 +5241,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>256</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432064">
     <type>продажа</type>
@@ -4582,7 +5250,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432064?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4651,6 +5319,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>257</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431876">
     <type>продажа</type>
@@ -4658,7 +5328,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431876?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4727,6 +5397,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>69</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431877">
     <type>продажа</type>
@@ -4734,7 +5406,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431877?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4804,6 +5476,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>70</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431879">
     <type>продажа</type>
@@ -4811,7 +5485,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431879?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4880,6 +5554,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>72</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431948">
     <type>продажа</type>
@@ -4887,7 +5563,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431948?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4956,6 +5632,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>141</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431996">
     <type>продажа</type>
@@ -4963,7 +5641,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431996?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5032,6 +5710,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>189</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431997">
     <type>продажа</type>
@@ -5039,7 +5719,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431997?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5109,6 +5789,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>190</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432067">
     <type>продажа</type>
@@ -5116,7 +5798,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432067?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5186,6 +5868,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>260</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432069">
     <type>продажа</type>
@@ -5193,7 +5877,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432069?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5263,6 +5947,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>262</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432104">
     <type>продажа</type>
@@ -5270,7 +5956,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432104?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5339,6 +6025,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>297</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432144">
     <type>продажа</type>
@@ -5346,7 +6034,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432144?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5416,6 +6104,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>337</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432146">
     <type>продажа</type>
@@ -5423,7 +6113,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432146?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5493,6 +6183,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>339</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431886">
     <type>продажа</type>
@@ -5500,7 +6192,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431886?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5569,6 +6261,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>79</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431887">
     <type>продажа</type>
@@ -5576,7 +6270,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431887?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5646,6 +6340,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>80</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431889">
     <type>продажа</type>
@@ -5653,7 +6349,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431889?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5722,6 +6418,86 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>82</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432006">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432006?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>52232320</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>41785856</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>73.36</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-5803cd1f9aa9e56b.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-0008a5a34ab85428.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>2-комнатная квартира 73,36 м² на 5 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 199.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>199</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="432007">
     <type>продажа</type>
@@ -5729,7 +6505,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432007?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5799,6 +6575,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>200</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432077">
     <type>продажа</type>
@@ -5806,7 +6584,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432077?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5876,6 +6654,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>270</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432079">
     <type>продажа</type>
@@ -5883,7 +6663,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432079?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5953,6 +6733,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>272</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432114">
     <type>продажа</type>
@@ -5960,7 +6742,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432114?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6029,6 +6811,87 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>307</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432154">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432154?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-14T17:09:23+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>51793944</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>41435155</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>66.12</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-bb9c18d5328545d9.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-50d0b023f3bd3498.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>2-комнатная квартира 66,12 м² на 5 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 347.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>347</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432156">
     <type>продажа</type>
@@ -6036,7 +6899,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432156?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6106,6 +6969,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>349</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431896">
     <type>продажа</type>
@@ -6113,7 +6978,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431896?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6182,6 +7047,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>89</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431897">
     <type>продажа</type>
@@ -6189,7 +7056,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431897?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6259,6 +7126,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>90</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431899">
     <type>продажа</type>
@@ -6266,7 +7135,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431899?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6335,6 +7204,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>92</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432016">
     <type>продажа</type>
@@ -6342,7 +7213,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432016?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6411,6 +7282,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>209</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432017">
     <type>продажа</type>
@@ -6418,7 +7291,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432017?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6488,6 +7361,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>210</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432087">
     <type>продажа</type>
@@ -6495,7 +7370,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432087?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6565,6 +7440,87 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>280</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432089">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432089?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>49873910</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>39899128</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>66.41</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>7</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-bd1ab8a12f13baf0.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-50bccddc6ee21910.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>2-комнатная квартира 66,41 м² на 7 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 282.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>282</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="432124">
     <type>продажа</type>
@@ -6572,7 +7528,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432124?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6641,6 +7597,86 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>317</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="431901">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/431901?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>50932080</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>40745664</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>66.84</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-80d93daac2b2bdcf.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-55491f5de9204b37.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>2-комнатная квартира 66,84 м² на 8 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 94.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>94</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="431908">
     <type>продажа</type>
@@ -6648,7 +7684,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431908?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6717,6 +7753,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>101</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431911">
     <type>продажа</type>
@@ -6724,7 +7762,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431911?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6793,6 +7831,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>104</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431946">
     <type>продажа</type>
@@ -6800,7 +7840,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431946?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6869,6 +7909,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>139</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431967">
     <type>продажа</type>
@@ -6876,7 +7918,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431967?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6946,6 +7988,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>160</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431968">
     <type>продажа</type>
@@ -6953,7 +7997,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431968?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7022,6 +8066,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>161</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431992">
     <type>продажа</type>
@@ -7029,7 +8075,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431992?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7098,6 +8144,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>185</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432026">
     <type>продажа</type>
@@ -7105,7 +8153,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432026?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7175,6 +8223,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>219</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432041">
     <type>продажа</type>
@@ -7182,7 +8232,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432041?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7252,6 +8302,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>234</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431875">
     <type>продажа</type>
@@ -7259,7 +8311,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431875?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7329,6 +8381,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>68</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431913">
     <type>продажа</type>
@@ -7336,7 +8390,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431913?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7406,6 +8460,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>106</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431916">
     <type>продажа</type>
@@ -7413,7 +8469,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431916?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7483,6 +8539,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>109</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431917">
     <type>продажа</type>
@@ -7490,7 +8548,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431917?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7559,6 +8617,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>110</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431947">
     <type>продажа</type>
@@ -7566,7 +8626,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431947?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7636,6 +8696,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>140</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431949">
     <type>продажа</type>
@@ -7643,7 +8705,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431949?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7712,6 +8774,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>142</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431969">
     <type>продажа</type>
@@ -7719,7 +8783,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431969?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7789,6 +8853,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>162</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431971">
     <type>продажа</type>
@@ -7796,7 +8862,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431971?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7865,6 +8931,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>164</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431993">
     <type>продажа</type>
@@ -7872,7 +8940,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431993?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7941,6 +9009,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>186</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431994">
     <type>продажа</type>
@@ -7948,7 +9018,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431994?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8017,6 +9087,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>187</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432028">
     <type>продажа</type>
@@ -8024,7 +9096,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432028?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8094,6 +9166,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>221</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432043">
     <type>продажа</type>
@@ -8101,7 +9175,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432043?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8171,6 +9245,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>236</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432070">
     <type>продажа</type>
@@ -8178,7 +9254,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432070?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8247,6 +9323,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>263</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432071">
     <type>продажа</type>
@@ -8254,7 +9332,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432071?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8323,6 +9401,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>264</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432103">
     <type>продажа</type>
@@ -8330,7 +9410,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432103?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8400,6 +9480,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>296</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432105">
     <type>продажа</type>
@@ -8407,7 +9489,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432105?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8476,6 +9558,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>298</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432107">
     <type>продажа</type>
@@ -8483,7 +9567,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432107?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8552,6 +9636,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>300</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432142">
     <type>продажа</type>
@@ -8559,7 +9645,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432142?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8628,6 +9714,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>335</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432143">
     <type>продажа</type>
@@ -8635,7 +9723,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432143?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8705,6 +9793,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>336</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431885">
     <type>продажа</type>
@@ -8712,7 +9802,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431885?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8782,6 +9872,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>78</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431923">
     <type>продажа</type>
@@ -8789,7 +9881,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431923?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8859,6 +9951,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>116</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431926">
     <type>продажа</type>
@@ -8866,7 +9960,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431926?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8936,6 +10030,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>119</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431927">
     <type>продажа</type>
@@ -8943,7 +10039,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431927?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9013,6 +10109,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>120</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431953">
     <type>продажа</type>
@@ -9020,7 +10118,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431953?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9090,6 +10188,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>146</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431955">
     <type>продажа</type>
@@ -9097,7 +10197,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431955?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9166,6 +10266,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>148</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431975">
     <type>продажа</type>
@@ -9173,7 +10275,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431975?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9243,6 +10345,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>168</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431977">
     <type>продажа</type>
@@ -9250,7 +10354,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431977?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9319,6 +10423,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>170</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432003">
     <type>продажа</type>
@@ -9326,7 +10432,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432003?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9396,6 +10502,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>196</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432004">
     <type>продажа</type>
@@ -9403,7 +10511,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432004?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9473,6 +10581,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>197</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432032">
     <type>продажа</type>
@@ -9480,7 +10590,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432032?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9550,6 +10660,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>225</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432049">
     <type>продажа</type>
@@ -9557,7 +10669,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432049?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9627,6 +10739,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>242</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432080">
     <type>продажа</type>
@@ -9634,7 +10748,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432080?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9704,6 +10818,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>273</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432081">
     <type>продажа</type>
@@ -9711,7 +10827,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432081?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9781,6 +10897,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>274</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432113">
     <type>продажа</type>
@@ -9788,7 +10906,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432113?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9858,6 +10976,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>306</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432115">
     <type>продажа</type>
@@ -9865,7 +10985,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432115?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9934,6 +11054,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>308</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432117">
     <type>продажа</type>
@@ -9941,7 +11063,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432117?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10010,6 +11132,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>310</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432152">
     <type>продажа</type>
@@ -10017,7 +11141,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432152?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10087,6 +11211,87 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>345</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432153">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432153?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>89892000</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>71913600</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>108.96</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-aa2bbbbe5a85775d.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-7634e5e49de922b8.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>3-комнатная квартира 108,96 м² на 5 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 346.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>346</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="432009">
     <type>продажа</type>
@@ -10094,7 +11299,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432009?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10164,6 +11369,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>202</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431895">
     <type>продажа</type>
@@ -10171,7 +11378,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431895?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10241,6 +11448,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>88</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431936">
     <type>продажа</type>
@@ -10248,7 +11457,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431936?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10318,6 +11527,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>129</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431937">
     <type>продажа</type>
@@ -10325,7 +11536,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431937?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10395,6 +11606,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>130</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431959">
     <type>продажа</type>
@@ -10402,7 +11615,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431959?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10472,6 +11685,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>152</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431961">
     <type>продажа</type>
@@ -10479,7 +11694,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431961?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10548,6 +11763,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>154</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431981">
     <type>продажа</type>
@@ -10555,7 +11772,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431981?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10625,6 +11842,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>174</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="431983">
     <type>продажа</type>
@@ -10632,7 +11851,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431983?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10701,6 +11920,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>176</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432013">
     <type>продажа</type>
@@ -10708,7 +11929,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432013?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10778,6 +11999,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>206</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432036">
     <type>продажа</type>
@@ -10785,7 +12008,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432036?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10855,6 +12078,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>229</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432055">
     <type>продажа</type>
@@ -10862,7 +12087,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432055?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10932,6 +12157,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>248</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432090">
     <type>продажа</type>
@@ -10939,7 +12166,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432090?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11009,6 +12236,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>283</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432123">
     <type>продажа</type>
@@ -11016,7 +12245,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432123?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11086,6 +12315,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>316</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432125">
     <type>продажа</type>
@@ -11093,7 +12324,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432125?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11162,6 +12393,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>318</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432127">
     <type>продажа</type>
@@ -11169,7 +12402,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432127?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11238,6 +12471,166 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>320</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432018">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432018?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-14T17:09:23+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>96652824</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>77322259</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>92.54</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-d512c2369351d734.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-248140de7869341b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>3-комнатная квартира 92,54 м² на 8 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 211.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>211</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
+  </offer>
+  <offer internal-id="432019">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432019?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>96621491</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>77297193</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>92.51</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-2d2bf393e98e4b55.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-ea5ce19535d07574.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>3-комнатная квартира 92,51 м² на 8 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Архитектурный характер. Три двора-курдонера с колоннадой, ритмичные вертикали в форме волн и эркеры, как рисунок бриза на водной глади.
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 212.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>212</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="431965">
     <type>продажа</type>
@@ -11245,7 +12638,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431965?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11315,6 +12708,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>158</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432133">
     <type>продажа</type>
@@ -11322,7 +12717,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432133?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11392,6 +12787,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>326</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432025">
     <type>продажа</type>
@@ -11399,7 +12796,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432025?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11468,6 +12865,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>218</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432042">
     <type>продажа</type>
@@ -11475,7 +12874,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432042?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11544,6 +12943,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>235</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432027">
     <type>продажа</type>
@@ -11551,7 +12952,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432027?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11620,6 +13021,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>220</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432045">
     <type>продажа</type>
@@ -11627,7 +13030,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432045?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11696,6 +13099,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>238</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432031">
     <type>продажа</type>
@@ -11703,7 +13108,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432031?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11772,6 +13177,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>224</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432051">
     <type>продажа</type>
@@ -11779,7 +13186,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432051?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11848,6 +13255,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>244</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432035">
     <type>продажа</type>
@@ -11855,7 +13264,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432035?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11924,6 +13333,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>228</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432057">
     <type>продажа</type>
@@ -11931,7 +13342,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432057?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12000,6 +13411,86 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>250</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="432037">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/432037?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, Выборгская набережная, дом 61</address>
+      <latitude>59.980722</latitude>
+      <longitude>30.322641</longitude>
+      <metro>
+        <name>Петроградская</name>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>92629718</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>74103774</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>130.22</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-ecd6d19773eca69b.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-d47f50539582cc98.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5a845e99155b3e8d98fe5f396ef632735cd86688.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2e94fd2d7f5d86341ec1cff8a74db208176be809.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f0c9e4376ba382fa6404f50184493e86bc3c095b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/14b68594fa92378f7caa3ca9912fcf2d7f1d6f02.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8ca684b1eaf38350c687e33e61cfdd088ca4f3f7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4e21cc0546321e6328fdd5e52602ff3a8a315b27.jpg</image>
+    <description>4-комнатная квартира 130,22 м² на 8 этаже 9-этажного дома в ЖК «Акватория» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Выгода 20% от базовой стоимости. Корпус 2, срок сдачи: II квартал 2029 года.
+Метро «Петроградская» в 5 минутах на транспорте.
+О проекте «Акватория»:
+• Эстетика внутренних интерьеров. Эффект отраженного света в оформлении интерьеров превращает общественные пространства в художественные композиции.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, дистанционное открывание дверей и доступа на территорию и в парадную со смартфона и планшета.
+• Премиальные сервисы. Только для резидентов: ландшафтные дворы, лобби с лаунж-пространством и ресепшн, переговорной, коворкингом, детским клубом и фитнес залом.
+• Премиальный проект. Жизнь у воды в мегаполисе – редкое и особенно ценное сочетание комфорта, экологии и эстетики.
+• Виды на большую воду. Первая линия Большой Невки у Кантемировского моста – превосходство расположения, клубного формата и близости к воде.
+• Кантемировский мост. Самый молодой и второй по длине разводной мост Санкт-Петербурга.
+• Дворцы и особняки. Каменноостровский дворец, дача Головина, особняк «Строгановская дача», дворцы и парки Елагина острова.
+• Парки и сады. Лопухинский сад, Ботанический сад, Приморский парк Победы, парки Елагина и Каменного островов.
+• Большая невка. Самый протяженный рукав Невы, ширина Большой Невки от 200 до 400 метров.
+• Набережные. Шесть набережных, обеспечивающих быстрый доступ в любой район города и на ЗСД.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 230.</description>
+    <building-name>ЖК «Акватория»</building-name>
+    <yandex-building-id>4544961</yandex-building-id>
+    <yandex-house-id>4545002</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2029</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 2</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>230</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="431966">
     <type>продажа</type>
@@ -12007,7 +13498,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/431966?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12077,6 +13568,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>159</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432024">
     <type>продажа</type>
@@ -12084,7 +13577,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432024?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12154,6 +13647,8 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>217</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="432023">
     <type>продажа</type>
@@ -12161,7 +13656,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/432023?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=akvatoriya</url>
     <creation-date>2026-10-14T17:09:23+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12231,5 +13726,7 @@
     <building-section>корпус 2</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>216</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
 </realty-feed>

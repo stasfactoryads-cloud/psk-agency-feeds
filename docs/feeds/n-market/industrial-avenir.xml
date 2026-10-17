@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-17T12:18:56+03:00</generation-date>
+  <generation-date>2026-10-17T21:56:21+03:00</generation-date>
   <offer internal-id="336174">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336174?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -73,6 +73,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>225</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336175">
     <type>продажа</type>
@@ -80,7 +82,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336175?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -146,6 +148,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>226</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336176">
     <type>продажа</type>
@@ -153,7 +157,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336176?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -219,6 +223,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>227</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336177">
     <type>продажа</type>
@@ -226,7 +232,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336177?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -292,6 +298,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>228</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336178">
     <type>продажа</type>
@@ -299,7 +307,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336178?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -365,6 +373,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>229</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336179">
     <type>продажа</type>
@@ -372,7 +382,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336179?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -438,6 +448,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>230</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336180">
     <type>продажа</type>
@@ -445,7 +457,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336180?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -511,6 +523,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>231</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336181">
     <type>продажа</type>
@@ -518,7 +532,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336181?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -584,6 +598,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>232</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336182">
     <type>продажа</type>
@@ -591,7 +607,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336182?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -657,6 +673,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>233</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336183">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336183?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6371497</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5734347</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>2</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-9f21bf9c3f073203.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-57825ce36f494fb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 24,5 м² на 2 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 234.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>234</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336184">
     <type>продажа</type>
@@ -664,7 +757,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336184?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -730,6 +823,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>235</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336199">
     <type>продажа</type>
@@ -737,7 +832,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336199?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -803,6 +898,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>250</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336200">
     <type>продажа</type>
@@ -810,7 +907,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336200?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -876,6 +973,155 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>251</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336203">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336203?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>4900000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>22.0</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>2</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-e331f3e396022de5.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-fae7d3bf96d29113.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 22 м² на 2 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 254.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>254</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
+  </offer>
+  <offer internal-id="336204">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336204?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6384160</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5745744</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>22.0</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>2</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-cae4df5bc1c7e099.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-a46c4aba21163eb1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 22 м² на 2 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 255.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>255</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336208">
     <type>продажа</type>
@@ -883,7 +1129,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336208?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -949,6 +1195,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>259</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336227">
     <type>продажа</type>
@@ -956,7 +1204,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336227?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1022,6 +1270,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>322</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336229">
     <type>продажа</type>
@@ -1029,7 +1279,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336229?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1095,6 +1345,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>324</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336230">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336230?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6666121</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5999509</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>3</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-8363ae1628dabb93.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-39c43998fabaf332.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 24,4 м² на 3 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 325.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>325</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336231">
     <type>продажа</type>
@@ -1102,7 +1429,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336231?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1168,6 +1495,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>326</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336232">
     <type>продажа</type>
@@ -1175,7 +1504,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336232?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1241,6 +1570,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>327</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336233">
     <type>продажа</type>
@@ -1248,7 +1579,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336233?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1314,6 +1645,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>328</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336234">
     <type>продажа</type>
@@ -1321,7 +1654,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336234?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1387,6 +1720,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>329</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336235">
     <type>продажа</type>
@@ -1394,7 +1729,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336235?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1460,6 +1795,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>330</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336236">
     <type>продажа</type>
@@ -1467,7 +1804,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336236?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1533,6 +1870,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>331</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336237">
     <type>продажа</type>
@@ -1540,7 +1879,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336237?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1606,6 +1945,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>332</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336239">
     <type>продажа</type>
@@ -1613,7 +1954,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336239?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1679,6 +2020,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>334</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336240">
     <type>продажа</type>
@@ -1686,7 +2029,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336240?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1752,6 +2095,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>335</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336243">
     <type>продажа</type>
@@ -1759,7 +2104,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336243?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1825,6 +2170,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>338</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336245">
     <type>продажа</type>
@@ -1832,7 +2179,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336245?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-17T12:18:56+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1898,6 +2245,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>340</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336255">
     <type>продажа</type>
@@ -1905,7 +2254,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336255?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1971,6 +2320,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>350</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336256">
     <type>продажа</type>
@@ -1978,7 +2329,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336256?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2044,6 +2395,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>351</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336257">
     <type>продажа</type>
@@ -2051,7 +2404,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336257?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2117,6 +2470,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>352</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336258">
     <type>продажа</type>
@@ -2124,7 +2479,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336258?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2190,6 +2545,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>353</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336264">
     <type>продажа</type>
@@ -2197,7 +2554,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336264?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2263,6 +2620,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>359</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336273">
     <type>продажа</type>
@@ -2270,7 +2629,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336273?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2336,6 +2695,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>404</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336274">
     <type>продажа</type>
@@ -2343,7 +2704,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336274?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2409,6 +2770,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>405</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336275">
     <type>продажа</type>
@@ -2416,7 +2779,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336275?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2482,6 +2845,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>406</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336276">
     <type>продажа</type>
@@ -2489,7 +2854,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336276?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2555,6 +2920,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>407</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336279">
     <type>продажа</type>
@@ -2562,7 +2929,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336279?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2628,6 +2995,158 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>410</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336296">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336296?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6683947</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>6015552</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>4</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-5616f28d69adf6e1.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-8ff889146e432d1b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 24,4 м² на 4 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 427.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>427</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
+  </offer>
+  <offer internal-id="336297">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336297?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6683947</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>6015552</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>4</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-5e93e0a143a85c57.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-dcd3903abd68939e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 24,4 м² на 4 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 428.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>428</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336298">
     <type>продажа</type>
@@ -2635,7 +3154,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336298?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2701,6 +3220,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>429</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336299">
     <type>продажа</type>
@@ -2708,7 +3229,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336299?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2774,6 +3295,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>430</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336300">
     <type>продажа</type>
@@ -2781,7 +3304,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336300?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2847,6 +3370,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>431</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336301">
     <type>продажа</type>
@@ -2854,7 +3379,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336301?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2920,6 +3445,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>432</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336303">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336303?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6422025</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5779822</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>4</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-efb825ff29946c51.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-5d2e995d36d5bbcc.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 24,5 м² на 4 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 434.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>434</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336304">
     <type>продажа</type>
@@ -2927,7 +3529,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336304?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2993,6 +3595,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>435</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336305">
     <type>продажа</type>
@@ -3000,7 +3604,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336305?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3066,6 +3670,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>436</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336306">
     <type>продажа</type>
@@ -3073,7 +3679,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336306?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3139,6 +3745,80 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>437</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336318">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336318?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>5350000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>21.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>4</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-f19b42ec29bb621b.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-b21f235661df732d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 21,5 м² на 4 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 449.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>449</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336319">
     <type>продажа</type>
@@ -3146,7 +3826,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336319?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3212,6 +3892,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>450</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336321">
     <type>продажа</type>
@@ -3219,7 +3901,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336321?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3285,6 +3967,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>452</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336322">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336322?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6654940</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5989446</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>23.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>4</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-663b8cfd9ef888e1.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-ab531acf841e2ad7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 23,4 м² на 4 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 453.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>453</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336328">
     <type>продажа</type>
@@ -3292,7 +4051,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336328?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3358,6 +4117,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>459</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336337">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336337?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6544742</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5890268</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>25.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>5</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-a8abee6d989e14b6.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-c7614e522464feac.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 25,7 м² на 5 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 504.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>504</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336338">
     <type>продажа</type>
@@ -3365,7 +4201,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336338?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3431,6 +4267,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>505</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336339">
     <type>продажа</type>
@@ -3438,7 +4276,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336339?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3504,6 +4342,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>506</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336340">
     <type>продажа</type>
@@ -3511,7 +4351,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336340?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3577,6 +4417,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>507</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336343">
     <type>продажа</type>
@@ -3584,7 +4426,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336343?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3650,6 +4492,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>510</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336344">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336344?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>9071510</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>8164359</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>37.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>5</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-e294ad175afbd1e0.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-8e565338afa5796a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 37,1 м² на 5 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 511.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>511</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336366">
     <type>продажа</type>
@@ -3657,7 +4576,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336366?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3723,6 +4642,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>533</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336370">
     <type>продажа</type>
@@ -3730,7 +4651,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336370?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3796,6 +4717,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>537</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336374">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336374?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6437053</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5793348</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>5</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-6c6cf48ed5ae692d.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-33f6ecff7f8f5733.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 24,5 м² на 5 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 541.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>541</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336392">
     <type>продажа</type>
@@ -3803,7 +4801,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336392?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3869,6 +4867,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>559</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336403">
     <type>продажа</type>
@@ -3876,7 +4876,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336403?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3942,6 +4942,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>606</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336404">
     <type>продажа</type>
@@ -3949,7 +4951,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336404?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4015,6 +5017,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>607</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336407">
     <type>продажа</type>
@@ -4022,7 +5026,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336407?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4088,6 +5092,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>610</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336408">
     <type>продажа</type>
@@ -4095,7 +5101,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336408?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4161,6 +5167,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>611</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336435">
     <type>продажа</type>
@@ -4168,7 +5176,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336435?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4234,6 +5242,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>638</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336437">
     <type>продажа</type>
@@ -4241,7 +5251,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336437?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4307,6 +5317,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>640</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336440">
     <type>продажа</type>
@@ -4314,7 +5326,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336440?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4380,6 +5392,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>643</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336442">
     <type>продажа</type>
@@ -4387,7 +5401,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336442?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4450,6 +5464,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>645</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336456">
     <type>продажа</type>
@@ -4457,7 +5473,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336456?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4523,6 +5539,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>659</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336463">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336463?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6627446</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5964702</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>25.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>7</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-c7e0236e9eb0944a.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-ff066134e5ccfa04.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 25,9 м² на 7 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 702.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>702</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336472">
     <type>продажа</type>
@@ -4530,7 +5623,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336472?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4596,6 +5689,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>711</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336497">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336497?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6467109</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5820398</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>7</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-d4233deb4c9ad94a.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-353017db5d74fa09.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 24,5 м² на 7 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 736.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>736</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336499">
     <type>продажа</type>
@@ -4603,7 +5773,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336499?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4669,6 +5839,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>738</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336500">
     <type>продажа</type>
@@ -4676,7 +5848,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336500?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4742,6 +5914,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>739</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336501">
     <type>продажа</type>
@@ -4749,7 +5923,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336501?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4815,6 +5989,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>740</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336502">
     <type>продажа</type>
@@ -4822,7 +5998,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336502?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4888,6 +6064,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>741</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336536">
     <type>продажа</type>
@@ -4895,7 +6073,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336536?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4961,6 +6139,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>811</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336559">
     <type>продажа</type>
@@ -4968,7 +6148,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336559?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5034,6 +6214,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>834</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336560">
     <type>продажа</type>
@@ -5041,7 +6223,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336560?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5107,6 +6289,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>835</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336561">
     <type>продажа</type>
@@ -5114,7 +6298,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336561?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5180,6 +6364,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>836</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336562">
     <type>продажа</type>
@@ -5187,7 +6373,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336562?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5253,6 +6439,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>837</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336563">
     <type>продажа</type>
@@ -5260,7 +6448,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336563?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5326,6 +6514,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>838</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336564">
     <type>продажа</type>
@@ -5333,7 +6523,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336564?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5399,6 +6589,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>839</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336565">
     <type>продажа</type>
@@ -5406,7 +6598,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336565?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5472,6 +6664,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>840</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336593">
     <type>продажа</type>
@@ -5479,7 +6673,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336593?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5545,6 +6739,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>904</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336594">
     <type>продажа</type>
@@ -5552,7 +6748,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336594?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5618,6 +6814,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>905</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336595">
     <type>продажа</type>
@@ -5625,7 +6823,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336595?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5691,6 +6889,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>906</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336596">
     <type>продажа</type>
@@ -5698,7 +6898,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336596?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5764,6 +6964,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>907</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336600">
     <type>продажа</type>
@@ -5771,7 +6973,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336600?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5837,6 +7039,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>911</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336623">
     <type>продажа</type>
@@ -5844,7 +7048,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336623?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5910,6 +7114,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>934</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336624">
     <type>продажа</type>
@@ -5917,7 +7123,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336624?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5983,6 +7189,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>935</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336625">
     <type>продажа</type>
@@ -5990,7 +7198,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336625?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6056,6 +7264,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>936</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336626">
     <type>продажа</type>
@@ -6063,7 +7273,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336626?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6129,6 +7339,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>937</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336627">
     <type>продажа</type>
@@ -6136,7 +7348,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336627?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6202,6 +7414,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>938</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336628">
     <type>продажа</type>
@@ -6209,7 +7423,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336628?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6275,6 +7489,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>939</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336629">
     <type>продажа</type>
@@ -6282,7 +7498,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336629?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6348,6 +7564,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>940</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336630">
     <type>продажа</type>
@@ -6355,7 +7573,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336630?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6421,6 +7639,80 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>941</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336638">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336638?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>5700000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>21.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>9</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-f19b42ec29bb621b.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-c72745726f45747b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 21,5 м² на 9 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 949.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>949</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336659">
     <type>продажа</type>
@@ -6428,7 +7720,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336659?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6494,6 +7786,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1006</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336660">
     <type>продажа</type>
@@ -6501,7 +7795,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336660?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6567,6 +7861,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1007</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336661">
     <type>продажа</type>
@@ -6574,7 +7870,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336661?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6640,6 +7936,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1008</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336663">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336663?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>9185292</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>8266762</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>37.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>10</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-e294ad175afbd1e0.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-41d21caa4e3a4b6a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 37,1 м² на 10 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1011.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1011</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336685">
     <type>продажа</type>
@@ -6647,7 +8020,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336685?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6713,6 +8086,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1033</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336687">
     <type>продажа</type>
@@ -6720,7 +8095,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336687?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6786,6 +8161,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1035</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336688">
     <type>продажа</type>
@@ -6793,7 +8170,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336688?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6859,6 +8236,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1036</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336689">
     <type>продажа</type>
@@ -6866,7 +8245,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336689?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6932,6 +8311,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1037</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336690">
     <type>продажа</type>
@@ -6939,7 +8320,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336690?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7005,6 +8386,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1038</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336691">
     <type>продажа</type>
@@ -7012,7 +8395,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336691?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7078,6 +8461,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1039</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336692">
     <type>продажа</type>
@@ -7085,7 +8470,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336692?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7151,6 +8536,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1040</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336715">
     <type>продажа</type>
@@ -7158,7 +8545,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336715?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7224,6 +8611,158 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1063</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336719">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336719?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6639324</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5975392</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>25.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>11</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-ffeda71ea2ece53c.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-0a898b1115abc475.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 25,7 м² на 11 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1103.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1103</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
+  </offer>
+  <offer internal-id="336732">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336732?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6340588</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5706529</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>20.6</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>11</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-f450679d5f2aa11d.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-16a3afa952380404.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 20,6 м² на 11 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1117.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1117</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336753">
     <type>продажа</type>
@@ -7231,7 +8770,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336753?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7297,6 +8836,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1138</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336754">
     <type>продажа</type>
@@ -7304,7 +8845,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336754?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7370,6 +8911,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1139</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336782">
     <type>продажа</type>
@@ -7377,7 +8920,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336782?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7443,6 +8986,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1203</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336784">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336784?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6570348</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5913313</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>25.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>12</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-91b0b1ff263a425b.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-467121e84128c1b4.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 25,1 м² на 12 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1205.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1205</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336785">
     <type>продажа</type>
@@ -7450,7 +9070,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336785?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7516,6 +9136,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1206</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336786">
     <type>продажа</type>
@@ -7523,7 +9145,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336786?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7589,6 +9211,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1207</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336787">
     <type>продажа</type>
@@ -7596,7 +9220,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336787?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7662,6 +9286,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1208</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336812">
     <type>продажа</type>
@@ -7669,7 +9295,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336812?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7735,6 +9361,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1235</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336814">
     <type>продажа</type>
@@ -7742,7 +9370,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336814?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7808,6 +9436,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1237</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336815">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336815?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6544970</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>5890473</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>12</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-81d59778ef9d1037.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-115666a38ef4dd87.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 24,5 м² на 12 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1238.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1238</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336816">
     <type>продажа</type>
@@ -7815,7 +9520,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336816?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7881,6 +9586,84 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1239</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336822">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336822?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>10661296</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>9595166</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>39.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>12</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-23deb9c4de03f83e.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-5cebafb3c37d3ad5.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 39,5 м² на 12 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Есть балкон. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1246.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1246</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="336855">
     <type>продажа</type>
@@ -7888,7 +9671,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336855?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7954,6 +9737,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1320</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336864">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336864?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6819979</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>6137981</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>13</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-24e626e743365062.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-a0de44d00ada7b80.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>Апартаменты-студия 24,4 м² на 13 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1329.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1329</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336894">
     <type>продажа</type>
@@ -7961,7 +9821,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336894?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8027,6 +9887,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1362</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="336342">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/336342?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Стачек, 62, литера А</address>
+      <latitude>59.881701</latitude>
+      <longitude>30.26488</longitude>
+      <metro>
+        <name>Кировский завод</name>
+        <time-on-foot>3</time-on-foot>
+        <time-on-transport>1</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Н Маркет»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>13575871</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>12218284</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>47.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>5</floor>
+    <floors-total>13</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>2.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-2c739d619e9b81b2.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-f9ef8b823d8f3a22.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/23cb7f55134d072d086f65540df70785bba9b0d9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/f13e596508998e5dc1a0f23ba4229c6532c076b9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fd4b0766281213acdfcea905fcb2fda2e8185bb9.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/29a2e3b4cf15561bb03032d667f9a083299c4cb7.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/1a04513c1c64a99b8807fd607bb6f310968c347e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/edcc79aef09d4a42b5edf9483efa21b30187eb5e.jpg</image>
+    <description>2-комнатные апартаменты 47,9 м² на 5 этаже 13-этажного дома в апарт-отеле «Industrial AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,5 м. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Кировский завод» в 3 минутах пешком.
+О проекте «Industrial AVENIR»:
+• Ключевая транспортная магистраль. Удобное расположение в 300-х метрах от двух станций метро на одной из главных транспортных артерий Санкт-Петербурга.
+• Апартаменты с отделкой. Все апартаменты сдаются с полной отделкой. Дизайн номеров поддерживает индустриальную концепцию апарт-отеля.
+• Общественные выставочные пространства. Выставочная зона интегрирована в оформление лобби и иллюстрирует эпохи индустриализации в архитектуре проспекта Стачек.
+• PSK Invest - ТОП 5 УК Петербурга. Деятельность по сдаче в аренду осуществляет управляющая компания PSK Invest, обеспечивая стабильную доходность инвестиций.
+• Эстетика индустриального стиля. Дизайн-код проекта связан с историей проспекта Стачек и флагмана российской промышленности – Кировского завода.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 509.</description>
+    <building-name>Апарт-отель «Industrial AVENIR»</building-name>
+    <yandex-building-id>4018265</yandex-building-id>
+    <yandex-house-id>4018307</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2026</built-year>
+    <ready-quarter>3</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>509</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="336406">
     <type>продажа</type>
@@ -8034,7 +9971,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/336406?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=industrial-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8100,5 +10037,7 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>609</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
 </realty-feed>

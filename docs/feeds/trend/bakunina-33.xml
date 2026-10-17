@@ -1,13 +1,161 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-17T12:18:56+03:00</generation-date>
+  <generation-date>2026-10-17T21:56:21+03:00</generation-date>
+  <offer internal-id="85929">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85929?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>29044000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>54.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-7aa7a707551ad4db.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-1bd208c30afb6a9f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>1-комнатная квартира 54,8 м² на 2 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 2.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>2</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
+  </offer>
+  <offer internal-id="86031">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86031?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>34230000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>48.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.5</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-16853a2c1b595bc8.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-829228719d8d9da8.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>1-комнатная квартира 48,9 м² на 9 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3,5 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 46.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>46</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
+  </offer>
   <offer internal-id="85940">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85940?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -73,6 +221,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>89</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="85968">
     <type>продажа</type>
@@ -80,7 +230,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85968?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -145,6 +295,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>62</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="85975">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85975?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>39765000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>72.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-886b7bd79167095d.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-13c2f2e6525aac4b.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 72,3 м² на 5 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 21.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>21</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="85984">
     <type>продажа</type>
@@ -152,7 +379,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85984?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -217,6 +444,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>67</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="85989">
     <type>продажа</type>
@@ -224,7 +453,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85989?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -289,6 +518,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>27</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="85990">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85990?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>40768000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>72.8</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>6</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-964d9ffa643740d2.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-1e51446057f93b7c.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>2-комнатная квартира 72,8 м² на 6 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 28.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>28</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="86000">
     <type>продажа</type>
@@ -296,7 +602,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86000?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -361,6 +667,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>73</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="86003">
     <type>продажа</type>
@@ -368,7 +676,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86003?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -433,6 +741,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>104</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="86014">
     <type>продажа</type>
@@ -440,7 +750,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86014?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -505,6 +815,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>77</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="86015">
     <type>продажа</type>
@@ -512,7 +824,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86015?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -577,6 +889,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>78</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="85931">
     <type>продажа</type>
@@ -584,7 +898,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85931?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -649,6 +963,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>4</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="85950">
     <type>продажа</type>
@@ -656,7 +972,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85950?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -722,6 +1038,82 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>55</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="85978">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/85978?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>55912000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>96.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>5</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-01c4a709035e1cda.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-dfa0ea35ba6f80a3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>3-комнатная квартира 96,4 м² на 5 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 24.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>24</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="85979">
     <type>продажа</type>
@@ -729,7 +1121,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85979?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -795,6 +1187,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>25</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="85982">
     <type>продажа</type>
@@ -802,7 +1196,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85982?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -868,6 +1262,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>65</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="86009">
     <type>продажа</type>
@@ -875,7 +1271,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86009?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -941,6 +1337,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>39</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="86019">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86019?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>87992000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>129.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-71a8a2c9e405d027.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-75d0200cd16c5864.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>3-комнатная квартира 129,4 м² на 8 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 41.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>41</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="85935">
     <type>продажа</type>
@@ -948,7 +1421,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85935?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1013,6 +1486,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>51</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="85967">
     <type>продажа</type>
@@ -1020,7 +1495,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85967?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1085,6 +1560,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>61</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="85983">
     <type>продажа</type>
@@ -1092,7 +1569,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85983?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1157,6 +1634,83 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>66</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="86022">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/86022?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
+      <latitude>59.930899</latitude>
+      <longitude>30.385946</longitude>
+      <metro>
+        <name>Площадь Александра Невского</name>
+        <time-on-foot>12</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Агентство недвижимости «Тренд»</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>108801000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>172.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>4</rooms>
+    <new-flat>да</new-flat>
+    <floor>8</floor>
+    <floors-total>9</floors-total>
+    <renovation>без отделки</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.0</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-6d03a66c428fd011.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-4d006758954fd830.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd0b4020a4d4409e43eb2d642e9b2f52366ac4c4.jpeg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/fef5851888e544ed269749f4f86160ee8da05cc3.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/cef8ebfa1d9d3b6d8b119abf109a047d4fbae863.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/951a2fc1c4d537a697d47eaf995393cae735013d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/5985e5c584dd0649c450320f97d416d8cf2f5673.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c7f8370f143eb6e4607a36111947bd9330706944.jpg</image>
+    <description>4-комнатная квартира 172,7 м² на 8 этаже 9-этажного дома в ЖК «BAKUNINA 33» от ГК «ПСК».
+Без отделки. Высота потолков 3 м. Есть балкон. Корпус 1, дом сдан.
+Метро «Площадь Александра Невского» в 12 минутах пешком.
+О проекте «BAKUNINA 33»:
+• Ландшафтный дизайн. Благоустройство собственной территории перекликается с традиционными французскими двориками: в острова зелени вписаны зоны отдыха.
+• Архитектура. Архитектурный облик Bakunina 33 сдержанный и благородный в духе античного классицизма, но воплощенный в новом исполнении, с элементами модерна.
+• Общественные пространства. Авторская отделка общественных пространств продумана с точки зрения как эстетики, так и удобства во всех деталях. Атмосфера элегантной классики.
+• Расположение. Жилой комплекс окружает неповторимая атмосфера Северной столицы. Он расположен в самом сердце Санкт-Петербурга.
+• Клубный дом. Всего 113 квартир. Наслаждайтесь жизнью в современном доме в историческом окружении среди людей вашего круга.
+• Подземный паркинг. 70 машино-мест, станции для зарядки электромобилей.
+• Келлеры. Индивидуальные помещения для хранения.
+• Квартиры с террасами. Панорамные виды на исторический центр и Неву.
+• Высокие потолки. 3 метра на типовых этажах, 3,5 метра на последнем этаже.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 44.</description>
+    <building-name>ЖК «BAKUNINA 33»</building-name>
+    <yandex-building-id>2898101</yandex-building-id>
+    <yandex-house-id>2898138</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2025</built-year>
+    <ready-quarter>2</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>44</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="86023">
     <type>продажа</type>
@@ -1164,7 +1718,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86023?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1230,6 +1784,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>79</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="86024">
     <type>продажа</type>
@@ -1237,7 +1793,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86024?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1303,6 +1859,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>80</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="86034">
     <type>продажа</type>
@@ -1310,7 +1868,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86034?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1376,5 +1934,7 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>83</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
 </realty-feed>

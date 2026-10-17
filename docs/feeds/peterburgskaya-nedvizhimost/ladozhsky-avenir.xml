@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-17T12:18:56+03:00</generation-date>
+  <generation-date>2026-10-17T21:56:21+03:00</generation-date>
   <offer internal-id="100226">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100226?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -70,6 +70,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>302</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100257">
     <type>продажа</type>
@@ -77,7 +79,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100257?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -140,6 +142,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>341</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100258">
     <type>продажа</type>
@@ -147,7 +151,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100258?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -210,6 +214,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>342</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100259">
     <type>продажа</type>
@@ -217,7 +223,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100259?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -280,6 +286,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>343</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100261">
     <type>продажа</type>
@@ -287,7 +295,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100261?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-16T12:24:33+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -350,6 +358,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>345</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100268">
     <type>продажа</type>
@@ -357,7 +367,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100268?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -420,6 +430,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>352</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100270">
     <type>продажа</type>
@@ -427,7 +439,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100270?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -490,6 +502,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>354</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100271">
     <type>продажа</type>
@@ -497,7 +511,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100271?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -560,6 +574,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>355</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100272">
     <type>продажа</type>
@@ -567,7 +583,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100272?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -630,6 +646,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>356</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100289">
     <type>продажа</type>
@@ -637,7 +655,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100289?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -700,6 +718,80 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>381</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="100329">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/100329?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1</address>
+      <latitude>59.939104</latitude>
+      <longitude>30.433835</longitude>
+      <metro>
+        <name>Ладожская</name>
+        <time-on-foot>10</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Петербургская недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>9815258</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>8833732</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>39.23</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>4</floor>
+    <floors-total>14</floors-total>
+    <renovation>под ключ</renovation>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-4481a466e8854e5d.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-c0274c0ae52d0c90.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/a3e31d2e668fab6d7f37188add04f192b206789d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ba7a4cd5591f6ca7c60ec052c391f04c9d37e095.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/d7e9194ec4b75747c4e29b857477a0d0616efdf4.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/43eb0c95d976b836d27fd13646b74630a6cb8200.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg</image>
+    <description>Апартаменты-студия 39,23 м² на 4 этаже 14-этажного дома в апарт-отеле «Ladozhsky AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Ладожская» в 10 минутах пешком.
+О проекте «Ladozhsky AVENIR»:
+• Управляющая компания. Деятельность по сдаче в аренду осуществляется управляющей компанией PSK INVEST.
+• Высокая доходность. Комбинирование среднесрочного и долгосрочного проживания арендаторов.
+• Мультиформатный проект. В составе проекта апартаменты, офисные и коммерческие помещения.
+• Доходная недвижимость. Вложение в реальный объект недвижимости и получение дохода от сдачи в аренду.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 433.</description>
+    <building-name>Апарт-отель «Ladozhsky AVENIR»</building-name>
+    <yandex-building-id>3118471</yandex-building-id>
+    <yandex-house-id>3118634</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>433</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="100336">
     <type>продажа</type>
@@ -707,7 +799,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100336?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -770,6 +862,80 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>440</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="100366">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/100366?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1</address>
+      <latitude>59.939104</latitude>
+      <longitude>30.433835</longitude>
+      <metro>
+        <name>Ладожская</name>
+        <time-on-foot>10</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Петербургская недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>9854945</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>8869450</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>39.35</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>4</floor>
+    <floors-total>14</floors-total>
+    <renovation>под ключ</renovation>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-edd9d7bbb302f7cb.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-7430deba03cbf918.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/a3e31d2e668fab6d7f37188add04f192b206789d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ba7a4cd5591f6ca7c60ec052c391f04c9d37e095.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/d7e9194ec4b75747c4e29b857477a0d0616efdf4.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/43eb0c95d976b836d27fd13646b74630a6cb8200.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg</image>
+    <description>Апартаменты-студия 39,35 м² на 4 этаже 14-этажного дома в апарт-отеле «Ladozhsky AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Ладожская» в 10 минутах пешком.
+О проекте «Ladozhsky AVENIR»:
+• Управляющая компания. Деятельность по сдаче в аренду осуществляется управляющей компанией PSK INVEST.
+• Высокая доходность. Комбинирование среднесрочного и долгосрочного проживания арендаторов.
+• Мультиформатный проект. В составе проекта апартаменты, офисные и коммерческие помещения.
+• Доходная недвижимость. Вложение в реальный объект недвижимости и получение дохода от сдачи в аренду.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 475.</description>
+    <building-name>Апарт-отель «Ladozhsky AVENIR»</building-name>
+    <yandex-building-id>3118471</yandex-building-id>
+    <yandex-house-id>3118634</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>475</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="100409">
     <type>продажа</type>
@@ -777,7 +943,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100409?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -840,6 +1006,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>533</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100416">
     <type>продажа</type>
@@ -847,7 +1015,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100416?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -910,6 +1078,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>540</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100420">
     <type>продажа</type>
@@ -917,7 +1087,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100420?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -980,6 +1150,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>544</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100434">
     <type>продажа</type>
@@ -987,7 +1159,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100434?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1050,6 +1222,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>558</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100439">
     <type>продажа</type>
@@ -1057,7 +1231,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100439?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1120,6 +1294,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>563</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100484">
     <type>продажа</type>
@@ -1127,7 +1303,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100484?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1190,6 +1366,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>625</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100495">
     <type>продажа</type>
@@ -1197,7 +1375,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100495?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1260,6 +1438,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>639</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100496">
     <type>продажа</type>
@@ -1267,7 +1447,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100496?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1330,6 +1510,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>640</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100513">
     <type>продажа</type>
@@ -1337,7 +1519,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100513?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1400,6 +1582,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>657</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100519">
     <type>продажа</type>
@@ -1407,7 +1591,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100519?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1470,6 +1654,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>663</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100569">
     <type>продажа</type>
@@ -1477,7 +1663,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100569?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1540,6 +1726,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>733</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100575">
     <type>продажа</type>
@@ -1547,7 +1735,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100575?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1610,6 +1798,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>739</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100594">
     <type>продажа</type>
@@ -1617,7 +1807,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100594?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1680,6 +1870,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>758</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100606">
     <type>продажа</type>
@@ -1687,7 +1879,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100606?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1750,6 +1942,149 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>775</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="100643">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/100643?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1</address>
+      <latitude>59.939104</latitude>
+      <longitude>30.433835</longitude>
+      <metro>
+        <name>Ладожская</name>
+        <time-on-foot>10</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Петербургская недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>8245093</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>7420584</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>31.15</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>8</floor>
+    <floors-total>14</floors-total>
+    <renovation>под ключ</renovation>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-634c77a539720018.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-f060ae1a2245dd5a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/a3e31d2e668fab6d7f37188add04f192b206789d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ba7a4cd5591f6ca7c60ec052c391f04c9d37e095.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/d7e9194ec4b75747c4e29b857477a0d0616efdf4.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/43eb0c95d976b836d27fd13646b74630a6cb8200.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg</image>
+    <description>Апартаменты-студия 31,15 м² на 8 этаже 14-этажного дома в апарт-отеле «Ladozhsky AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Ладожская» в 10 минутах пешком.
+О проекте «Ladozhsky AVENIR»:
+• Доходная недвижимость. Вложение в реальный объект недвижимости и получение дохода от сдачи в аренду.
+• Управляющая компания. Деятельность по сдаче в аренду осуществляется управляющей компанией PSK INVEST.
+• Высокая доходность. Комбинирование среднесрочного и долгосрочного проживания арендаторов.
+• Мультиформатный проект. В составе проекта апартаменты, офисные и коммерческие помещения.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 824.</description>
+    <building-name>Апарт-отель «Ladozhsky AVENIR»</building-name>
+    <yandex-building-id>3118471</yandex-building-id>
+    <yandex-house-id>3118634</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>824</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
+  </offer>
+  <offer internal-id="100654">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/100654?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1</address>
+      <latitude>59.939104</latitude>
+      <longitude>30.433835</longitude>
+      <metro>
+        <name>Ладожская</name>
+        <time-on-foot>10</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Петербургская недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>5874072</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>27.61</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>8</floor>
+    <floors-total>14</floors-total>
+    <renovation>под ключ</renovation>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-6daf5a13588adadb.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-092c8a746d7e38b8.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/a3e31d2e668fab6d7f37188add04f192b206789d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ba7a4cd5591f6ca7c60ec052c391f04c9d37e095.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/d7e9194ec4b75747c4e29b857477a0d0616efdf4.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/43eb0c95d976b836d27fd13646b74630a6cb8200.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg</image>
+    <description>Апартаменты-студия 27,61 м² на 8 этаже 14-этажного дома в апарт-отеле «Ladozhsky AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Корпус 1, дом сдан.
+Метро «Ладожская» в 10 минутах пешком.
+О проекте «Ladozhsky AVENIR»:
+• Доходная недвижимость. Вложение в реальный объект недвижимости и получение дохода от сдачи в аренду.
+• Управляющая компания. Деятельность по сдаче в аренду осуществляется управляющей компанией PSK INVEST.
+• Высокая доходность. Комбинирование среднесрочного и долгосрочного проживания арендаторов.
+• Мультиформатный проект. В составе проекта апартаменты, офисные и коммерческие помещения.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 838.</description>
+    <building-name>Апарт-отель «Ladozhsky AVENIR»</building-name>
+    <yandex-building-id>3118471</yandex-building-id>
+    <yandex-house-id>3118634</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>838</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="100655">
     <type>продажа</type>
@@ -1757,7 +2092,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100655?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1820,6 +2155,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>839</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100656">
     <type>продажа</type>
@@ -1827,7 +2164,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100656?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1890,6 +2227,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>840</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100673">
     <type>продажа</type>
@@ -1897,7 +2236,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100673?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1960,6 +2299,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>857</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100674">
     <type>продажа</type>
@@ -1967,7 +2308,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100674?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2030,6 +2371,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>858</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100724">
     <type>продажа</type>
@@ -2037,7 +2380,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100724?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2100,6 +2443,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>925</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100735">
     <type>продажа</type>
@@ -2107,7 +2452,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100735?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2170,6 +2515,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>939</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100736">
     <type>продажа</type>
@@ -2177,7 +2524,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100736?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2240,6 +2587,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>940</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100754">
     <type>продажа</type>
@@ -2247,7 +2596,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100754?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2310,6 +2659,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>958</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100759">
     <type>продажа</type>
@@ -2317,7 +2668,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100759?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2380,6 +2731,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>963</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100804">
     <type>продажа</type>
@@ -2387,7 +2740,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100804?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2450,6 +2803,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1025</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100815">
     <type>продажа</type>
@@ -2457,7 +2812,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100815?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2520,6 +2875,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1039</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100821">
     <type>продажа</type>
@@ -2527,7 +2884,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100821?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2590,6 +2947,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1045</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100831">
     <type>продажа</type>
@@ -2597,7 +2956,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100831?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2660,6 +3019,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1055</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100834">
     <type>продажа</type>
@@ -2667,7 +3028,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100834?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2730,6 +3091,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1058</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100839">
     <type>продажа</type>
@@ -2737,7 +3100,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100839?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2800,6 +3163,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1063</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100846">
     <type>продажа</type>
@@ -2807,7 +3172,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100846?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2870,6 +3235,80 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1075</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="100889">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/100889?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
+    <creation-date>2026-10-15T15:55:30+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1</address>
+      <latitude>59.939104</latitude>
+      <longitude>30.433835</longitude>
+      <metro>
+        <name>Ладожская</name>
+        <time-on-foot>10</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Петербургская недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>9978019</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>8980217</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>39.23</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>11</floor>
+    <floors-total>14</floors-total>
+    <renovation>под ключ</renovation>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-a05b2a45dd3b1a92.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-4c7563babaf5fcdf.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/a3e31d2e668fab6d7f37188add04f192b206789d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ba7a4cd5591f6ca7c60ec052c391f04c9d37e095.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/d7e9194ec4b75747c4e29b857477a0d0616efdf4.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/43eb0c95d976b836d27fd13646b74630a6cb8200.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg</image>
+    <description>Апартаменты-студия 39,23 м² на 11 этаже 14-этажного дома в апарт-отеле «Ladozhsky AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Ладожская» в 10 минутах пешком.
+О проекте «Ladozhsky AVENIR»:
+• Доходная недвижимость. Вложение в реальный объект недвижимости и получение дохода от сдачи в аренду.
+• Управляющая компания. Деятельность по сдаче в аренду осуществляется управляющей компанией PSK INVEST.
+• Высокая доходность. Комбинирование среднесрочного и долгосрочного проживания арендаторов.
+• Мультиформатный проект. В составе проекта апартаменты, офисные и коммерческие помещения.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1133.</description>
+    <building-name>Апарт-отель «Ladozhsky AVENIR»</building-name>
+    <yandex-building-id>3118471</yandex-building-id>
+    <yandex-house-id>3118634</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1133</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="100895">
     <type>продажа</type>
@@ -2877,7 +3316,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100895?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2940,6 +3379,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1139</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100913">
     <type>продажа</type>
@@ -2947,7 +3388,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100913?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3010,6 +3451,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1157</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100914">
     <type>продажа</type>
@@ -3017,7 +3460,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100914?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3080,6 +3523,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1158</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100919">
     <type>продажа</type>
@@ -3087,7 +3532,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100919?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3150,6 +3595,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1163</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100926">
     <type>продажа</type>
@@ -3157,7 +3604,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100926?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3220,6 +3667,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1175</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100964">
     <type>продажа</type>
@@ -3227,7 +3676,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100964?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3290,6 +3739,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1225</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100967">
     <type>продажа</type>
@@ -3297,7 +3748,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100967?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3360,6 +3811,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1230</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100975">
     <type>продажа</type>
@@ -3367,7 +3820,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100975?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3430,6 +3883,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1239</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100993">
     <type>продажа</type>
@@ -3437,7 +3892,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100993?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3500,6 +3955,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1257</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="100994">
     <type>продажа</type>
@@ -3507,7 +3964,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100994?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3570,6 +4027,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1258</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101044">
     <type>продажа</type>
@@ -3577,7 +4036,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101044?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3640,6 +4099,77 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1325</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="101050">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/101050?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1</address>
+      <latitude>59.939104</latitude>
+      <longitude>30.433835</longitude>
+      <metro>
+        <name>Ладожская</name>
+        <time-on-foot>10</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Петербургская недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>6100000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>26.63</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>13</floor>
+    <floors-total>14</floors-total>
+    <renovation>под ключ</renovation>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-c523cabd91d974c2.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-e527687b1e866690.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/a3e31d2e668fab6d7f37188add04f192b206789d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ba7a4cd5591f6ca7c60ec052c391f04c9d37e095.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/d7e9194ec4b75747c4e29b857477a0d0616efdf4.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/43eb0c95d976b836d27fd13646b74630a6cb8200.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg</image>
+    <description>Апартаменты-студия 26,63 м² на 13 этаже 14-этажного дома в апарт-отеле «Ladozhsky AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Корпус 1, дом сдан.
+Метро «Ладожская» в 10 минутах пешком.
+О проекте «Ladozhsky AVENIR»:
+• Высокая доходность. Комбинирование среднесрочного и долгосрочного проживания арендаторов.
+• Мультиформатный проект. В составе проекта апартаменты, офисные и коммерческие помещения.
+• Доходная недвижимость. Вложение в реальный объект недвижимости и получение дохода от сдачи в аренду.
+• Управляющая компания. Деятельность по сдаче в аренду осуществляется управляющей компанией PSK INVEST.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1334.</description>
+    <building-name>Апарт-отель «Ladozhsky AVENIR»</building-name>
+    <yandex-building-id>3118471</yandex-building-id>
+    <yandex-house-id>3118634</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1334</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="101055">
     <type>продажа</type>
@@ -3647,7 +4177,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101055?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3710,6 +4240,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1339</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101073">
     <type>продажа</type>
@@ -3717,7 +4249,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101073?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3780,6 +4312,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1357</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101074">
     <type>продажа</type>
@@ -3787,7 +4321,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101074?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3850,6 +4384,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1358</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101079">
     <type>продажа</type>
@@ -3857,7 +4393,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101079?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3920,6 +4456,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1363</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101107">
     <type>продажа</type>
@@ -3927,7 +4465,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101107?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3990,6 +4528,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1403</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101116">
     <type>продажа</type>
@@ -3997,7 +4537,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101116?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4060,6 +4600,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1412</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101117">
     <type>продажа</type>
@@ -4067,7 +4609,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101117?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4130,6 +4672,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1413</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101118">
     <type>продажа</type>
@@ -4137,7 +4681,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101118?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4200,6 +4744,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1415</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101124">
     <type>продажа</type>
@@ -4207,7 +4753,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101124?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4270,6 +4816,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1425</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101135">
     <type>продажа</type>
@@ -4277,7 +4825,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101135?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4340,6 +4888,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1439</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101154">
     <type>продажа</type>
@@ -4347,7 +4897,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101154?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4410,6 +4960,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1458</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101159">
     <type>продажа</type>
@@ -4417,7 +4969,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101159?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4480,6 +5032,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1463</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="101166">
     <type>продажа</type>
@@ -4487,7 +5041,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101166?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4550,6 +5104,80 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1475</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="101170">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/101170?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, пр. Энергетиков, д. 8, корпус 2, стр.1</address>
+      <latitude>59.939104</latitude>
+      <longitude>30.433835</longitude>
+      <metro>
+        <name>Ладожская</name>
+        <time-on-foot>10</time-on-foot>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>Петербургская недвижимость</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>8154054</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>7338648</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>24.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <apartments>да</apartments>
+    <floor>14</floor>
+    <floors-total>14</floors-total>
+    <renovation>под ключ</renovation>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-9b75dd581ae88cd7.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-509b1c8a8e2499f8.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/a3e31d2e668fab6d7f37188add04f192b206789d.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ba7a4cd5591f6ca7c60ec052c391f04c9d37e095.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/d7e9194ec4b75747c4e29b857477a0d0616efdf4.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/43eb0c95d976b836d27fd13646b74630a6cb8200.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c539efb56106d785b51b4b7b14b9083f10709d65.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/33059eb4b4e452056a38608b2ee11c14d7820b31.jpg</image>
+    <description>Апартаменты-студия 24,3 м² на 14 этаже 14-этажного дома в апарт-отеле «Ladozhsky AVENIR» от ГК «ПСК».
+Апартаменты с отделкой под ключ: можно заезжать без ремонта. Выгода 10% от базовой стоимости. Корпус 1, дом сдан.
+Метро «Ладожская» в 10 минутах пешком.
+О проекте «Ladozhsky AVENIR»:
+• Мультиформатный проект. В составе проекта апартаменты, офисные и коммерческие помещения.
+• Доходная недвижимость. Вложение в реальный объект недвижимости и получение дохода от сдачи в аренду.
+• Управляющая компания. Деятельность по сдаче в аренду осуществляется управляющей компанией PSK INVEST.
+• Высокая доходность. Комбинирование среднесрочного и долгосрочного проживания арендаторов.
+• Антикризисный актив. Апарт-отели доказали свою устойчивость в кризис.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 1483.</description>
+    <building-name>Апарт-отель «Ladozhsky AVENIR»</building-name>
+    <yandex-building-id>3118471</yandex-building-id>
+    <yandex-house-id>3118634</yandex-house-id>
+    <building-state>hand-over</building-state>
+    <built-year>2024</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>1483</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="101174">
     <type>продажа</type>
@@ -4557,7 +5185,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101174?utm_source=spbnedv&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-17T12:18:56+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4620,5 +5248,7 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>1489</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
 </realty-feed>

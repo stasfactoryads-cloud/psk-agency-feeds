@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-17T12:18:56+03:00</generation-date>
+  <generation-date>2026-10-17T21:56:21+03:00</generation-date>
   <offer internal-id="450993">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/450993?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -75,6 +75,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>13</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451068">
     <type>продажа</type>
@@ -82,7 +84,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451068?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -150,6 +152,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>88</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451130">
     <type>продажа</type>
@@ -157,7 +161,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451130?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -225,6 +229,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>150</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451137">
     <type>продажа</type>
@@ -232,7 +238,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451137?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -300,6 +306,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>157</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451240">
     <type>продажа</type>
@@ -307,7 +315,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451240?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -375,6 +383,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>260</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451241">
     <type>продажа</type>
@@ -382,7 +392,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451241?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -450,6 +460,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>261</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451242">
     <type>продажа</type>
@@ -457,7 +469,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451242?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -525,6 +537,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>262</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451000">
     <type>продажа</type>
@@ -532,7 +546,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451000?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -600,6 +614,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>20</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451141">
     <type>продажа</type>
@@ -607,7 +623,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451141?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -675,6 +691,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>161</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451251">
     <type>продажа</type>
@@ -682,7 +700,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451251?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -750,6 +768,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>271</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451252">
     <type>продажа</type>
@@ -757,7 +777,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451252?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -825,6 +845,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>272</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451253">
     <type>продажа</type>
@@ -832,7 +854,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451253?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -900,6 +922,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>273</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451021">
     <type>продажа</type>
@@ -907,7 +931,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451021?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -975,6 +999,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>41</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451096">
     <type>продажа</type>
@@ -982,7 +1008,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451096?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1050,6 +1076,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>116</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451174">
     <type>продажа</type>
@@ -1057,7 +1085,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451174?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1125,6 +1153,85 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>194</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="451181">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/451181?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, ул. Фучика, дом 21</address>
+      <latitude>59.882212</latitude>
+      <longitude>30.383664</longitude>
+      <metro>
+        <name>Бухарестская</name>
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>13920677</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>11832576</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>26.04</value>
+      <unit>кв. м</unit>
+    </area>
+    <studio>да</studio>
+    <new-flat>да</new-flat>
+    <floor>7</floor>
+    <floors-total>12</floors-total>
+    <renovation>под ключ</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.89</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-ad02463b8d351aa8.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-527646e37746187e.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd6f4d8c0ddc182e5392a59657fe88d3ec68635f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/62df8906c2ec9d67b08f827ab5b2afa0fb8ef5d1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/029129977548f703c12da9081ad57437c10b54e1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/67d8568460cfe3c23ec8a39287ed5b477ed5099f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg</image>
+    <description>Квартира-студия 26,04 м² на 7 этаже 12-этажного дома в ЖК «Оптимист» от ГК «ПСК».
+Квартира с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,89 м. Есть балкон. Выгода 15% от базовой стоимости. Корпус 1, срок сдачи: IV квартал 2028 года.
+Метро «Бухарестская» в 10 минутах пешком.
+О проекте «Оптимист»:
+• Ландшафтный комплекс. Закрытый внутренний двор эффектен и с уровня взгляда, и с верхних этажей.
+• Футуристические интерьеры. Теплый минимализм с изящными футуристическими формами.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, приложение для жителей PSK Home.
+• Квартиры с отделкой. 50% квартир с отделкой под ключ, 50% с отделкой White Box.
+• Перспективная локация. Активно развивающийся район в 10 минутах пешком от ст. метро «Бухарестская».
+• Подземный паркинг. 256 машино-мест.
+• Высокие потолки. Высота от 2,9 м до 3,1 м.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 201.</description>
+    <building-name>ЖК «Оптимист»</building-name>
+    <yandex-building-id>4895327</yandex-building-id>
+    <yandex-house-id>4895353</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2028</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>201</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="451284">
     <type>продажа</type>
@@ -1132,7 +1239,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451284?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1200,6 +1307,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>304</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451285">
     <type>продажа</type>
@@ -1207,7 +1316,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451285?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1275,6 +1384,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>305</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451286">
     <type>продажа</type>
@@ -1282,7 +1393,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451286?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1350,6 +1461,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>306</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451028">
     <type>продажа</type>
@@ -1357,7 +1470,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451028?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1425,6 +1538,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>48</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451103">
     <type>продажа</type>
@@ -1432,7 +1547,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451103?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1500,6 +1615,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>123</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451185">
     <type>продажа</type>
@@ -1507,7 +1624,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451185?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1575,6 +1692,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>205</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451295">
     <type>продажа</type>
@@ -1582,7 +1701,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451295?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1650,6 +1769,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>315</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451296">
     <type>продажа</type>
@@ -1657,7 +1778,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451296?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1725,6 +1846,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>316</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451218">
     <type>продажа</type>
@@ -1732,7 +1855,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451218?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1800,6 +1923,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>238</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451328">
     <type>продажа</type>
@@ -1807,7 +1932,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451328?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1875,6 +2000,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>348</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="450992">
     <type>продажа</type>
@@ -1882,7 +2009,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/450992?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1950,6 +2077,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>12</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451133">
     <type>продажа</type>
@@ -1957,7 +2086,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451133?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2025,6 +2154,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>153</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451134">
     <type>продажа</type>
@@ -2032,7 +2163,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451134?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2100,6 +2231,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>154</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451135">
     <type>продажа</type>
@@ -2107,7 +2240,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451135?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2175,6 +2308,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>155</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451136">
     <type>продажа</type>
@@ -2182,7 +2317,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451136?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2250,6 +2385,85 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>156</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="451138">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/451138?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, ул. Фучика, дом 21</address>
+      <latitude>59.882212</latitude>
+      <longitude>30.383664</longitude>
+      <metro>
+        <name>Бухарестская</name>
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>19170635</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>16295040</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>39.36</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>3</floor>
+    <floors-total>12</floors-total>
+    <renovation>под ключ</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.89</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-16dcfaaeb437e6ef.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-bc72fb18d42ad3cb.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd6f4d8c0ddc182e5392a59657fe88d3ec68635f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/62df8906c2ec9d67b08f827ab5b2afa0fb8ef5d1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/029129977548f703c12da9081ad57437c10b54e1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/67d8568460cfe3c23ec8a39287ed5b477ed5099f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg</image>
+    <description>1-комнатная квартира 39,36 м² на 3 этаже 12-этажного дома в ЖК «Оптимист» от ГК «ПСК».
+Квартира с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,89 м. Есть балкон. Выгода 15% от базовой стоимости. Корпус 1, срок сдачи: IV квартал 2028 года.
+Метро «Бухарестская» в 10 минутах пешком.
+О проекте «Оптимист»:
+• Квартиры с отделкой. 50% квартир с отделкой под ключ, 50% с отделкой White Box.
+• Перспективная локация. Активно развивающийся район в 10 минутах пешком от ст. метро «Бухарестская».
+• Формат бизнес-лайт. Оптимальное сочетание цены и комфорта для активных, устремленных в будущее людей.
+• Пост автомойки. Только для жителей дома пост автомойки в подземном паркинге.
+• Мультиформатное лобби. Лобби площадью 160 кв.м с лаунж-зонами и ресепшн для отдыха, работы и встреч.
+• Подземный паркинг. 256 машино-мест.
+• Высокие потолки. Высота от 2,9 м до 3,1 м.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 158.</description>
+    <building-name>ЖК «Оптимист»</building-name>
+    <yandex-building-id>4895327</yandex-building-id>
+    <yandex-house-id>4895353</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2028</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>158</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="451243">
     <type>продажа</type>
@@ -2257,7 +2471,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451243?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2325,6 +2539,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>263</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451247">
     <type>продажа</type>
@@ -2332,7 +2548,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451247?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2400,6 +2616,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>267</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451248">
     <type>продажа</type>
@@ -2407,7 +2625,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451248?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2475,6 +2693,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>268</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451249">
     <type>продажа</type>
@@ -2482,7 +2702,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451249?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2550,6 +2770,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>269</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451348">
     <type>продажа</type>
@@ -2557,7 +2779,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451348?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2625,6 +2847,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>368</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451349">
     <type>продажа</type>
@@ -2632,7 +2856,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451349?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2700,6 +2924,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>369</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451350">
     <type>продажа</type>
@@ -2707,7 +2933,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451350?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2775,6 +3001,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>370</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451416">
     <type>продажа</type>
@@ -2782,7 +3010,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451416?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2850,6 +3078,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>436</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451417">
     <type>продажа</type>
@@ -2857,7 +3087,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451417?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2925,6 +3155,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>437</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451420">
     <type>продажа</type>
@@ -2932,7 +3164,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451420?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3000,6 +3232,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>440</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="450997">
     <type>продажа</type>
@@ -3007,7 +3241,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/450997?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3075,6 +3309,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>17</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="450998">
     <type>продажа</type>
@@ -3082,7 +3318,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/450998?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3150,6 +3386,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>18</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="450999">
     <type>продажа</type>
@@ -3157,7 +3395,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/450999?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3225,6 +3463,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>19</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451073">
     <type>продажа</type>
@@ -3232,7 +3472,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451073?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3300,6 +3540,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>93</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451142">
     <type>продажа</type>
@@ -3307,7 +3549,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451142?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3375,6 +3617,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>162</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451145">
     <type>продажа</type>
@@ -3382,7 +3626,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451145?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3450,6 +3694,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>165</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451146">
     <type>продажа</type>
@@ -3457,7 +3703,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451146?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3525,6 +3771,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>166</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451147">
     <type>продажа</type>
@@ -3532,7 +3780,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451147?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3600,6 +3848,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>167</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451149">
     <type>продажа</type>
@@ -3607,7 +3857,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451149?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3675,6 +3925,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>169</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451254">
     <type>продажа</type>
@@ -3682,7 +3934,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451254?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3750,6 +4002,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>274</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451258">
     <type>продажа</type>
@@ -3757,7 +4011,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451258?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3825,6 +4079,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>278</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451354">
     <type>продажа</type>
@@ -3832,7 +4088,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451354?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3900,6 +4156,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>374</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451355">
     <type>продажа</type>
@@ -3907,7 +4165,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451355?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3975,6 +4233,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>375</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451423">
     <type>продажа</type>
@@ -3982,7 +4242,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451423?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4050,6 +4310,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>443</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451424">
     <type>продажа</type>
@@ -4057,7 +4319,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451424?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4125,6 +4387,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>444</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451427">
     <type>продажа</type>
@@ -4132,7 +4396,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451427?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4200,6 +4464,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>447</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451018">
     <type>продажа</type>
@@ -4207,7 +4473,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451018?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4275,6 +4541,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>38</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451020">
     <type>продажа</type>
@@ -4282,7 +4550,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451020?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4350,6 +4618,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>40</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451093">
     <type>продажа</type>
@@ -4357,7 +4627,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451093?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4425,6 +4695,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>113</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451094">
     <type>продажа</type>
@@ -4432,7 +4704,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451094?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4500,6 +4772,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>114</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451095">
     <type>продажа</type>
@@ -4507,7 +4781,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451095?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4575,6 +4849,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>115</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451175">
     <type>продажа</type>
@@ -4582,7 +4858,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451175?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4650,6 +4926,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>195</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451178">
     <type>продажа</type>
@@ -4657,7 +4935,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451178?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4725,6 +5003,85 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>198</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="451179">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/451179?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, ул. Фучика, дом 21</address>
+      <latitude>59.882212</latitude>
+      <longitude>30.383664</longitude>
+      <metro>
+        <name>Бухарестская</name>
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>16965649</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>14420802</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>33.22</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>7</floor>
+    <floors-total>12</floors-total>
+    <renovation>под ключ</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>2.89</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-a7eb69827a1bf6de.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-90498ee594efea59.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd6f4d8c0ddc182e5392a59657fe88d3ec68635f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/62df8906c2ec9d67b08f827ab5b2afa0fb8ef5d1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/029129977548f703c12da9081ad57437c10b54e1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/67d8568460cfe3c23ec8a39287ed5b477ed5099f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg</image>
+    <description>1-комнатная квартира 33,22 м² на 7 этаже 12-этажного дома в ЖК «Оптимист» от ГК «ПСК».
+Квартира с отделкой под ключ: можно заезжать без ремонта. Высота потолков 2,89 м. Есть балкон. Выгода 15% от базовой стоимости. Корпус 1, срок сдачи: IV квартал 2028 года.
+Метро «Бухарестская» в 10 минутах пешком.
+О проекте «Оптимист»:
+• Пост автомойки. Только для жителей дома пост автомойки в подземном паркинге.
+• Мультиформатное лобби. Лобби площадью 160 кв.м с лаунж-зонами и ресепшн для отдыха, работы и встреч.
+• Ландшафтный комплекс. Закрытый внутренний двор эффектен и с уровня взгляда, и с верхних этажей.
+• Футуристические интерьеры. Теплый минимализм с изящными футуристическими формами.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, приложение для жителей PSK Home.
+• Подземный паркинг. 256 машино-мест.
+• Высокие потолки. Высота от 2,9 м до 3,1 м.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 199.</description>
+    <building-name>ЖК «Оптимист»</building-name>
+    <yandex-building-id>4895327</yandex-building-id>
+    <yandex-house-id>4895353</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2028</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>199</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="451182">
     <type>продажа</type>
@@ -4732,7 +5089,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451182?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4800,6 +5157,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>202</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451287">
     <type>продажа</type>
@@ -4807,7 +5166,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451287?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4875,6 +5234,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>307</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451291">
     <type>продажа</type>
@@ -4882,7 +5243,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451291?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4950,6 +5311,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>311</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451292">
     <type>продажа</type>
@@ -4957,7 +5320,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451292?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5025,6 +5388,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>312</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451293">
     <type>продажа</type>
@@ -5032,7 +5397,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451293?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5100,6 +5465,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>313</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451372">
     <type>продажа</type>
@@ -5107,7 +5474,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451372?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5175,6 +5542,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>392</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451373">
     <type>продажа</type>
@@ -5182,7 +5551,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451373?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5250,6 +5619,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>393</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451374">
     <type>продажа</type>
@@ -5257,7 +5628,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451374?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5325,6 +5696,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>394</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451445">
     <type>продажа</type>
@@ -5332,7 +5705,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451445?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5400,6 +5773,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>465</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451025">
     <type>продажа</type>
@@ -5407,7 +5782,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451025?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5475,6 +5850,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>45</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451027">
     <type>продажа</type>
@@ -5482,7 +5859,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451027?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5550,6 +5927,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>47</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451100">
     <type>продажа</type>
@@ -5557,7 +5936,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451100?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5624,6 +6003,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>120</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451101">
     <type>продажа</type>
@@ -5631,7 +6012,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451101?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5699,6 +6080,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>121</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451102">
     <type>продажа</type>
@@ -5706,7 +6089,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451102?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5774,6 +6157,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>122</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451186">
     <type>продажа</type>
@@ -5781,7 +6166,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451186?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5849,6 +6234,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>206</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451188">
     <type>продажа</type>
@@ -5856,7 +6243,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451188?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5924,6 +6311,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>208</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451189">
     <type>продажа</type>
@@ -5931,7 +6320,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451189?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5999,6 +6388,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>209</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451191">
     <type>продажа</type>
@@ -6006,7 +6397,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451191?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6074,6 +6465,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>211</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451193">
     <type>продажа</type>
@@ -6081,7 +6474,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451193?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6149,6 +6542,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>213</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451298">
     <type>продажа</type>
@@ -6156,7 +6551,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451298?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6224,6 +6619,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>318</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451302">
     <type>продажа</type>
@@ -6231,7 +6628,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451302?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6299,6 +6696,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>322</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451303">
     <type>продажа</type>
@@ -6306,7 +6705,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451303?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6374,6 +6773,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>323</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451304">
     <type>продажа</type>
@@ -6381,7 +6782,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451304?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6449,6 +6850,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>324</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451378">
     <type>продажа</type>
@@ -6456,7 +6859,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451378?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6524,6 +6927,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>398</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451379">
     <type>продажа</type>
@@ -6531,7 +6936,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451379?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6599,6 +7004,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>399</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451380">
     <type>продажа</type>
@@ -6606,7 +7013,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451380?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6674,6 +7081,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>400</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451451">
     <type>продажа</type>
@@ -6681,7 +7090,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451451?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6749,6 +7158,84 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>471</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="451034">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/451034?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, ул. Фучика, дом 21</address>
+      <latitude>59.882212</latitude>
+      <longitude>30.383664</longitude>
+      <metro>
+        <name>Бухарестская</name>
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>16527360</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>14048256</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>30.72</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>9</floor>
+    <floors-total>12</floors-total>
+    <renovation>под ключ</renovation>
+    <ceiling-height>3.04</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-3777f5d3accec7ef.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-afdb380d7d4b72d8.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd6f4d8c0ddc182e5392a59657fe88d3ec68635f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/62df8906c2ec9d67b08f827ab5b2afa0fb8ef5d1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/029129977548f703c12da9081ad57437c10b54e1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/67d8568460cfe3c23ec8a39287ed5b477ed5099f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg</image>
+    <description>1-комнатная квартира 30,72 м² на 9 этаже 12-этажного дома в ЖК «Оптимист» от ГК «ПСК».
+Квартира с отделкой под ключ: можно заезжать без ремонта. Высота потолков 3,04 м. Выгода 15% от базовой стоимости. Корпус 1, срок сдачи: IV квартал 2028 года.
+Метро «Бухарестская» в 10 минутах пешком.
+О проекте «Оптимист»:
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, приложение для жителей PSK Home.
+• Квартиры с отделкой. 50% квартир с отделкой под ключ, 50% с отделкой White Box.
+• Перспективная локация. Активно развивающийся район в 10 минутах пешком от ст. метро «Бухарестская».
+• Формат бизнес-лайт. Оптимальное сочетание цены и комфорта для активных, устремленных в будущее людей.
+• Пост автомойки. Только для жителей дома пост автомойки в подземном паркинге.
+• Подземный паркинг. 256 машино-мест.
+• Высокие потолки. Высота от 2,9 м до 3,1 м.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 54.</description>
+    <building-name>ЖК «Оптимист»</building-name>
+    <yandex-building-id>4895327</yandex-building-id>
+    <yandex-house-id>4895353</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2028</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>54</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="451046">
     <type>продажа</type>
@@ -6756,7 +7243,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451046?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6824,6 +7311,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>66</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451047">
     <type>продажа</type>
@@ -6831,7 +7320,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451047?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6899,6 +7388,85 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>67</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="451048">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/451048?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, ул. Фучика, дом 21</address>
+      <latitude>59.882212</latitude>
+      <longitude>30.383664</longitude>
+      <metro>
+        <name>Бухарестская</name>
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>16655658</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>14157310</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>30.71</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>11</floor>
+    <floors-total>12</floors-total>
+    <renovation>под ключ</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.04</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-2b49b568800d16b7.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-d07bd2b3c4247930.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd6f4d8c0ddc182e5392a59657fe88d3ec68635f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/62df8906c2ec9d67b08f827ab5b2afa0fb8ef5d1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/029129977548f703c12da9081ad57437c10b54e1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/67d8568460cfe3c23ec8a39287ed5b477ed5099f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg</image>
+    <description>1-комнатная квартира 30,71 м² на 11 этаже 12-этажного дома в ЖК «Оптимист» от ГК «ПСК».
+Квартира с отделкой под ключ: можно заезжать без ремонта. Высота потолков 3,04 м. Есть балкон. Выгода 15% от базовой стоимости. Корпус 1, срок сдачи: IV квартал 2028 года.
+Метро «Бухарестская» в 10 минутах пешком.
+О проекте «Оптимист»:
+• Перспективная локация. Активно развивающийся район в 10 минутах пешком от ст. метро «Бухарестская».
+• Формат бизнес-лайт. Оптимальное сочетание цены и комфорта для активных, устремленных в будущее людей.
+• Пост автомойки. Только для жителей дома пост автомойки в подземном паркинге.
+• Мультиформатное лобби. Лобби площадью 160 кв.м с лаунж-зонами и ресепшн для отдыха, работы и встреч.
+• Ландшафтный комплекс. Закрытый внутренний двор эффектен и с уровня взгляда, и с верхних этажей.
+• Подземный паркинг. 256 машино-мест.
+• Высокие потолки. Высота от 2,9 м до 3,1 м.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 68.</description>
+    <building-name>ЖК «Оптимист»</building-name>
+    <yandex-building-id>4895327</yandex-building-id>
+    <yandex-house-id>4895353</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2028</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>68</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="451120">
     <type>продажа</type>
@@ -6906,7 +7474,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451120?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6973,6 +7541,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>140</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451121">
     <type>продажа</type>
@@ -6980,7 +7550,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451121?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7048,6 +7618,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>141</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451122">
     <type>продажа</type>
@@ -7055,7 +7627,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451122?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7123,6 +7695,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>142</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451222">
     <type>продажа</type>
@@ -7130,7 +7704,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451222?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7198,6 +7772,85 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>242</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="451224">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/451224?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, ул. Фучика, дом 21</address>
+      <latitude>59.882212</latitude>
+      <longitude>30.383664</longitude>
+      <metro>
+        <name>Бухарестская</name>
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>18043796</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>15337227</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>35.61</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <new-flat>да</new-flat>
+    <floor>11</floor>
+    <floors-total>12</floors-total>
+    <renovation>под ключ</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.04</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-ddd8a518c0925930.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-627bc3d158db296c.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd6f4d8c0ddc182e5392a59657fe88d3ec68635f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/62df8906c2ec9d67b08f827ab5b2afa0fb8ef5d1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/029129977548f703c12da9081ad57437c10b54e1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/67d8568460cfe3c23ec8a39287ed5b477ed5099f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg</image>
+    <description>1-комнатная квартира 35,61 м² на 11 этаже 12-этажного дома в ЖК «Оптимист» от ГК «ПСК».
+Квартира с отделкой под ключ: можно заезжать без ремонта. Высота потолков 3,04 м. Есть балкон. Выгода 15% от базовой стоимости. Корпус 1, срок сдачи: IV квартал 2028 года.
+Метро «Бухарестская» в 10 минутах пешком.
+О проекте «Оптимист»:
+• Ландшафтный комплекс. Закрытый внутренний двор эффектен и с уровня взгляда, и с верхних этажей.
+• Футуристические интерьеры. Теплый минимализм с изящными футуристическими формами.
+• Умный дом. IP домофония с просмотром камер видеонаблюдения, приложение для жителей PSK Home.
+• Квартиры с отделкой. 50% квартир с отделкой под ключ, 50% с отделкой White Box.
+• Перспективная локация. Активно развивающийся район в 10 минутах пешком от ст. метро «Бухарестская».
+• Подземный паркинг. 256 машино-мест.
+• Высокие потолки. Высота от 2,9 м до 3,1 м.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 244.</description>
+    <building-name>ЖК «Оптимист»</building-name>
+    <yandex-building-id>4895327</yandex-building-id>
+    <yandex-house-id>4895353</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2028</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>244</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="451226">
     <type>продажа</type>
@@ -7205,7 +7858,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451226?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7273,6 +7926,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>246</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451330">
     <type>продажа</type>
@@ -7280,7 +7935,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451330?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7348,6 +8003,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>350</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451396">
     <type>продажа</type>
@@ -7355,7 +8012,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451396?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7423,6 +8080,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>416</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451397">
     <type>продажа</type>
@@ -7430,7 +8089,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451397?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7498,6 +8157,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>417</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451398">
     <type>продажа</type>
@@ -7505,7 +8166,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451398?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7573,6 +8234,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>418</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451472">
     <type>продажа</type>
@@ -7580,7 +8243,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451472?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7648,6 +8311,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>492</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451473">
     <type>продажа</type>
@@ -7655,7 +8320,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451473?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7723,6 +8388,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>493</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="450994">
     <type>продажа</type>
@@ -7730,7 +8397,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/450994?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7798,6 +8465,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>14</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451129">
     <type>продажа</type>
@@ -7805,7 +8474,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451129?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7873,6 +8542,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>149</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451139">
     <type>продажа</type>
@@ -7880,7 +8551,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451139?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7948,6 +8619,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>159</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451239">
     <type>продажа</type>
@@ -7955,7 +8628,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451239?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8023,6 +8696,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>259</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451244">
     <type>продажа</type>
@@ -8030,7 +8705,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451244?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8098,6 +8773,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>264</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451245">
     <type>продажа</type>
@@ -8105,7 +8782,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451245?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8173,6 +8850,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>265</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451347">
     <type>продажа</type>
@@ -8180,7 +8859,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451347?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8248,6 +8927,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>367</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451351">
     <type>продажа</type>
@@ -8255,7 +8936,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451351?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8323,6 +9004,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>371</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451352">
     <type>продажа</type>
@@ -8330,7 +9013,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451352?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8398,6 +9081,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>372</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451414">
     <type>продажа</type>
@@ -8405,7 +9090,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451414?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8473,6 +9158,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>434</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451415">
     <type>продажа</type>
@@ -8480,7 +9167,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451415?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8548,6 +9235,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>435</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451418">
     <type>продажа</type>
@@ -8555,7 +9244,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451418?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8623,6 +9312,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>438</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451419">
     <type>продажа</type>
@@ -8630,7 +9321,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451419?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8698,6 +9389,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>439</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451001">
     <type>продажа</type>
@@ -8705,7 +9398,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451001?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8773,6 +9466,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>21</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451140">
     <type>продажа</type>
@@ -8780,7 +9475,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451140?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8848,6 +9543,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>160</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451150">
     <type>продажа</type>
@@ -8855,7 +9552,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451150?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8923,6 +9620,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>170</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451250">
     <type>продажа</type>
@@ -8930,7 +9629,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451250?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8998,6 +9697,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>270</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451255">
     <type>продажа</type>
@@ -9005,7 +9706,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451255?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9073,6 +9774,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>275</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451256">
     <type>продажа</type>
@@ -9080,7 +9783,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451256?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9148,6 +9851,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>276</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451353">
     <type>продажа</type>
@@ -9155,7 +9860,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451353?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9223,6 +9928,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>373</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451357">
     <type>продажа</type>
@@ -9230,7 +9937,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451357?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9298,6 +10005,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>377</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451358">
     <type>продажа</type>
@@ -9305,7 +10014,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451358?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9373,6 +10082,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>378</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451421">
     <type>продажа</type>
@@ -9380,7 +10091,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451421?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9448,6 +10159,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>441</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451422">
     <type>продажа</type>
@@ -9455,7 +10168,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451422?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9523,6 +10236,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>442</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451425">
     <type>продажа</type>
@@ -9530,7 +10245,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451425?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9598,6 +10313,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>445</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451426">
     <type>продажа</type>
@@ -9605,7 +10322,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451426?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9673,6 +10390,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>446</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451022">
     <type>продажа</type>
@@ -9680,7 +10399,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451022?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9748,6 +10467,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>42</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451173">
     <type>продажа</type>
@@ -9755,7 +10476,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451173?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9823,6 +10544,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>193</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451183">
     <type>продажа</type>
@@ -9830,7 +10553,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451183?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9898,6 +10621,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>203</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451283">
     <type>продажа</type>
@@ -9905,7 +10630,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451283?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9973,6 +10698,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>303</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451289">
     <type>продажа</type>
@@ -9980,7 +10707,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451289?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10048,6 +10775,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>309</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451371">
     <type>продажа</type>
@@ -10055,7 +10784,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451371?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10123,6 +10852,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>391</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451375">
     <type>продажа</type>
@@ -10130,7 +10861,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451375?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10198,6 +10929,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>395</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451376">
     <type>продажа</type>
@@ -10205,7 +10938,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451376?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10273,6 +11006,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>396</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451442">
     <type>продажа</type>
@@ -10280,7 +11015,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451442?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10348,6 +11083,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>462</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451443">
     <type>продажа</type>
@@ -10355,7 +11092,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451443?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10423,6 +11160,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>463</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451446">
     <type>продажа</type>
@@ -10430,7 +11169,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451446?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10498,6 +11237,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>466</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451447">
     <type>продажа</type>
@@ -10505,7 +11246,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451447?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10573,6 +11314,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>467</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451029">
     <type>продажа</type>
@@ -10580,7 +11323,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451029?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10648,6 +11391,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>49</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451184">
     <type>продажа</type>
@@ -10655,7 +11400,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451184?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10723,6 +11468,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>204</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451194">
     <type>продажа</type>
@@ -10730,7 +11477,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451194?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10798,6 +11545,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>214</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451294">
     <type>продажа</type>
@@ -10805,7 +11554,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451294?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10873,6 +11622,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>314</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451299">
     <type>продажа</type>
@@ -10880,7 +11631,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451299?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10948,6 +11699,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>319</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451300">
     <type>продажа</type>
@@ -10955,7 +11708,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451300?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11023,6 +11776,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>320</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451377">
     <type>продажа</type>
@@ -11030,7 +11785,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451377?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11098,6 +11853,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>397</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451381">
     <type>продажа</type>
@@ -11105,7 +11862,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451381?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11173,6 +11930,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>401</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451382">
     <type>продажа</type>
@@ -11180,7 +11939,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451382?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11248,6 +12007,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>402</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451449">
     <type>продажа</type>
@@ -11255,7 +12016,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451449?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11323,6 +12084,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>469</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451450">
     <type>продажа</type>
@@ -11330,7 +12093,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451450?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11398,6 +12161,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>470</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451453">
     <type>продажа</type>
@@ -11405,7 +12170,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451453?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11473,6 +12238,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>473</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451454">
     <type>продажа</type>
@@ -11480,7 +12247,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451454?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11548,6 +12315,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>474</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451217">
     <type>продажа</type>
@@ -11555,7 +12324,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451217?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11623,6 +12392,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>237</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451227">
     <type>продажа</type>
@@ -11630,7 +12401,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451227?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11698,6 +12469,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>247</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451327">
     <type>продажа</type>
@@ -11705,7 +12478,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451327?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11773,6 +12546,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>347</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451331">
     <type>продажа</type>
@@ -11780,7 +12555,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451331?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11848,6 +12623,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>351</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451395">
     <type>продажа</type>
@@ -11855,7 +12632,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451395?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11923,6 +12700,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>415</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451399">
     <type>продажа</type>
@@ -11930,7 +12709,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451399?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11998,6 +12777,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>419</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451400">
     <type>продажа</type>
@@ -12005,7 +12786,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451400?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12073,6 +12854,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>420</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451470">
     <type>продажа</type>
@@ -12080,7 +12863,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451470?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12148,6 +12931,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>490</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451471">
     <type>продажа</type>
@@ -12155,7 +12940,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451471?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12223,6 +13008,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>491</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451475">
     <type>продажа</type>
@@ -12230,7 +13017,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451475?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12298,6 +13085,85 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>495</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
+  </offer>
+  <offer internal-id="451482">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <url>https://psk-info.ru/flats/451482?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
+    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
+    <location>
+      <country>Россия</country>
+      <locality-name>Санкт-Петербург</locality-name>
+      <address>Санкт-Петербург, ул. Фучика, дом 21</address>
+      <latitude>59.882212</latitude>
+      <longitude>30.383664</longitude>
+      <metro>
+        <name>Бухарестская</name>
+        <time-on-foot>10</time-on-foot>
+        <time-on-transport>5</time-on-transport>
+      </metro>
+    </location>
+    <sales-agent>
+      <phone>7 (812) 210-26-76</phone>
+      <category>агентство</category>
+      <name>Эвелина Петрова</name>
+      <organization>ПАН</organization>
+    </sales-agent>
+    <deal-status>первичная продажа</deal-status>
+    <price>
+      <value>26061750</value>
+      <currency>RUB</currency>
+      <discount>
+        <final-price>22152487</final-price>
+      </discount>
+    </price>
+    <area>
+      <value>56.25</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <new-flat>да</new-flat>
+    <floor>12</floor>
+    <floors-total>12</floors-total>
+    <renovation>предчистовая</renovation>
+    <balcony>балкон</balcony>
+    <ceiling-height>3.04</ceiling-height>
+    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-e74b716618d276a8.jpg</image>
+    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-20dddf243133db12.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/dd6f4d8c0ddc182e5392a59657fe88d3ec68635f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/62df8906c2ec9d67b08f827ab5b2afa0fb8ef5d1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/029129977548f703c12da9081ad57437c10b54e1.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/67d8568460cfe3c23ec8a39287ed5b477ed5099f.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/9a6d404f31a080dfdf93f0e00a9e22381966ca0a.jpg</image>
+    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/ae5e6c376e863ea813bd6bf90b986e066b00dc98.jpg</image>
+    <description>2-комнатная квартира 56,25 м² на 12 этаже 12-этажного дома в ЖК «Оптимист» от ГК «ПСК».
+Предчистовая отделка (White Box): стены и полы подготовлены под финишную отделку по вашему вкусу. Высота потолков 3,04 м. Есть балкон. Выгода 15% от базовой стоимости. Корпус 1, срок сдачи: IV квартал 2028 года.
+Метро «Бухарестская» в 10 минутах пешком.
+О проекте «Оптимист»:
+• Квартиры с отделкой. 50% квартир с отделкой под ключ, 50% с отделкой White Box.
+• Перспективная локация. Активно развивающийся район в 10 минутах пешком от ст. метро «Бухарестская».
+• Формат бизнес-лайт. Оптимальное сочетание цены и комфорта для активных, устремленных в будущее людей.
+• Пост автомойки. Только для жителей дома пост автомойки в подземном паркинге.
+• Мультиформатное лобби. Лобби площадью 160 кв.м с лаунж-зонами и ресепшн для отдыха, работы и встреч.
+• Подземный паркинг. 256 машино-мест.
+• Высокие потолки. Высота от 2,9 м до 3,1 м.
+Застройщик ГК «ПСК». Номер лота на сайте застройщика: 502.</description>
+    <building-name>ЖК «Оптимист»</building-name>
+    <yandex-building-id>4895327</yandex-building-id>
+    <yandex-house-id>4895353</yandex-house-id>
+    <building-state>unfinished</building-state>
+    <built-year>2028</built-year>
+    <ready-quarter>4</ready-quarter>
+    <building-type>монолит</building-type>
+    <building-section>корпус 1</building-section>
+    <lift>да</lift>
+    <parking>да</parking>
+    <psk-flat-number>502</psk-flat-number>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="450988">
     <type>продажа</type>
@@ -12305,7 +13171,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/450988?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12373,6 +13239,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>8</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="450989">
     <type>продажа</type>
@@ -12380,7 +13248,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/450989?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12448,6 +13316,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>9</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451069">
     <type>продажа</type>
@@ -12455,7 +13325,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451069?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12523,6 +13393,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>89</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451132">
     <type>продажа</type>
@@ -12530,7 +13402,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451132?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12598,6 +13470,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>152</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451246">
     <type>продажа</type>
@@ -12605,7 +13479,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451246?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12673,6 +13547,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>266</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="450995">
     <type>продажа</type>
@@ -12680,7 +13556,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/450995?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12748,6 +13624,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>15</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451076">
     <type>продажа</type>
@@ -12755,7 +13633,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451076?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12823,6 +13701,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>96</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451143">
     <type>продажа</type>
@@ -12830,7 +13710,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451143?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12898,6 +13778,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>163</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451257">
     <type>продажа</type>
@@ -12905,7 +13787,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451257?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12973,6 +13855,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>277</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451016">
     <type>продажа</type>
@@ -12980,7 +13864,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451016?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13048,6 +13932,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>36</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451017">
     <type>продажа</type>
@@ -13055,7 +13941,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451017?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13123,6 +14009,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>37</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451097">
     <type>продажа</type>
@@ -13130,7 +14018,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451097?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13198,6 +14086,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>117</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451290">
     <type>продажа</type>
@@ -13205,7 +14095,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451290?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13273,6 +14163,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>310</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451023">
     <type>продажа</type>
@@ -13280,7 +14172,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451023?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13348,6 +14240,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>43</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451024">
     <type>продажа</type>
@@ -13355,7 +14249,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451024?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13423,6 +14317,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>44</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451104">
     <type>продажа</type>
@@ -13430,7 +14326,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451104?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13498,6 +14394,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>124</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451187">
     <type>продажа</type>
@@ -13505,7 +14403,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451187?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13573,6 +14471,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>207</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451301">
     <type>продажа</type>
@@ -13580,7 +14480,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451301?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13648,6 +14548,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>321</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451031">
     <type>продажа</type>
@@ -13655,7 +14557,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451031?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13723,6 +14625,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>51</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451044">
     <type>продажа</type>
@@ -13730,7 +14634,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451044?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13798,6 +14702,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>64</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451049">
     <type>продажа</type>
@@ -13805,7 +14711,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451049?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13873,6 +14779,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>69</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451119">
     <type>продажа</type>
@@ -13880,7 +14788,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451119?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13948,6 +14856,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>139</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451220">
     <type>продажа</type>
@@ -13955,7 +14865,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451220?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14023,6 +14933,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>240</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451332">
     <type>продажа</type>
@@ -14030,7 +14942,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451332?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14098,6 +15010,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>352</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451123">
     <type>продажа</type>
@@ -14105,7 +15019,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451123?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14173,6 +15087,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>143</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451329">
     <type>продажа</type>
@@ -14180,7 +15096,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451329?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14248,6 +15164,8 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>349</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="451333">
     <type>продажа</type>
@@ -14255,7 +15173,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/451333?utm_source=pan&amp;utm_medium=realty_feed&amp;utm_campaign=optimist</url>
     <creation-date>2026-10-14T16:29:28+03:00</creation-date>
-    <last-update-date>2026-10-17T12:18:56+03:00</last-update-date>
+    <last-update-date>2026-10-17T21:56:21+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14323,5 +15241,7 @@
     <building-section>корпус 1</building-section>
     <lift>да</lift>
     <parking>да</parking>
+    <psk-flat-number>353</psk-flat-number>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
 </realty-feed>
