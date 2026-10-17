@@ -48,8 +48,12 @@ def run(cfg, only=None, with_images=True):
     try:
         prev = json.loads((cfg.output_dir / "status.json").read_text())
         prev_lots = {pr["key"]: pr["lots"] for pr in prev.get("projects", [])}
+        prev_statuses = {pr["key"]: pr.get("statuses") for pr in prev.get("projects", [])}
+        prev_counts = {pr["key"]: {"free": pr.get("free", (pr.get("statuses") or {}).get("Свободно")),
+                                   "booked": pr.get("booked", (pr.get("statuses") or {}).get("Бронь"))}
+                       for pr in prev.get("projects", [])}
     except (FileNotFoundError, json.JSONDecodeError, KeyError):
-        prev_lots = {}
+        prev_lots, prev_statuses, prev_counts = {}, {}, {}
 
     all_flats = api.fetch_all_flats(cfg.api_base)
     first_seen = _load_first_seen(cfg)
@@ -62,7 +66,10 @@ def run(cfg, only=None, with_images=True):
         project_api = api.fetch_project(cfg.api_base, p.api_id)
         flats = api.select_project_flats(all_flats, p)
         flats.sort(key=lambda f: (str(f.get("building")), f.get("rooms") or 0, f.get("floor") or 0, f["id"]))
-        log.info("%s: лотов в продаже %d", p.title, len(flats))
+        statuses = api.status_counts(all_flats, p)
+        free = sum(1 for f in flats if f["status"] == "Свободно")
+        booked = sum(1 for f in flats if f["status"] == "Бронь")
+        log.info("%s: лотов %d (свободно %d, бронь %d)", p.title, len(flats), free, booked)
         if not flats:
             raise RuntimeError(f"API не вернуло лотов по {p.title}: фиды не перезаписываю")
 
@@ -79,14 +86,19 @@ def run(cfg, only=None, with_images=True):
 
         ctx = {"cfg": cfg, "project": p, "now": now, "flats": flats, "details": details, "images": images,
                "project_api": project_api, "renders": renders, "first_seen": first_seen}
-        report["projects"].append({"key": p.key, "name": p.name, "title": p.title, "lots": len(flats), "prev_lots": prev_lots.get(p.key)})
+        report["projects"].append({
+            "key": p.key, "name": p.name, "title": p.title, "lots": len(flats), "prev_lots": prev_lots.get(p.key),
+            "free": free, "booked": booked, "statuses": statuses, "prev_statuses": prev_statuses.get(p.key),
+            "prev": prev_counts.get(p.key),
+        })
 
         for agency in cfg.agencies:
             if (only and agency.slug not in only) or not agency.wants(p.key):
                 continue
             rel = cfg.feed_rel(agency, p)
             path = cfg.output_dir / rel
-            write_feed(build_feed(ctx, agency), path)
+            agency_flats = flats if agency.include_booked else [f for f in flats if f["status"] == "Свободно"]
+            write_feed(build_feed({**ctx, "flats": agency_flats}, agency), path)
             written.add(rel)
             if cfg.legacy_project == p.key:          # старые ссылки feeds/<агентство>.xml
                 legacy = f"feeds/{agency.slug}.xml"
@@ -105,6 +117,7 @@ def run(cfg, only=None, with_images=True):
             report["feeds"].append({
                 "agency": agency.name, "slug": agency.slug, "project": p.key, "project_name": p.name, "project_title": p.title,
                 "path": rel, "url": cfg.public_url(rel), "preview": prev_rel,
+                "include_booked": agency.include_booked, "expected": len(agency_flats),
                 "status": status, **check,
             })
 
@@ -151,7 +164,7 @@ def render_preview(feed_path, agency, project, cfg):
         gallery = "".join(f'<a href="{html.escape(u)}" target="_blank"><img loading="lazy" src="{html.escape(u)}"></a>' for u in imgs)
         cards.append(f"""<article><div class="gal">{gallery}</div>
 <h2>{rooms} {t(o, 'area/value')} м² · этаж {t(o, 'floor')}/{t(o, 'floors-total')} · {price}</h2>
-<p class="meta">ID {o.get('internal-id')} · {html.escape(t(o, 'renovation'))} · потолки {t(o, 'ceiling-height')} м · сдача {t(o, 'ready-quarter')} кв. {t(o, 'built-year')} · <a href="{html.escape(t(o, 'url'))}" target="_blank">страница лота</a></p>
+<p class="meta"><b>Квартира № {html.escape(t(o, 'psk-flat-number'))}</b> · {html.escape(t(o, 'psk-flat-status'))} · ID {o.get('internal-id')} · {html.escape(t(o, 'renovation'))} · потолки {t(o, 'ceiling-height')} м · сдача {t(o, 'ready-quarter')} кв. {t(o, 'built-year')} · <a href="{html.escape(t(o, 'url'))}" target="_blank">страница лота</a></p>
 <p class="meta">{html.escape(contact)}</p>
 <pre>{html.escape(t(o, 'description'))}</pre></article>""")
     return f"""<!doctype html><html lang="ru"><head><meta charset="utf-8">

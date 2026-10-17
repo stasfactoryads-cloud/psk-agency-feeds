@@ -28,7 +28,9 @@ legacy_project = "optimist"
 #   label: "ЖК" (по умолчанию) или "Апарт-отель": как называть объект в фиде
 #   building_type: кирпичный / монолит / панельный; пусто = тег не передается
 #   building_labels: подпись корпуса в фиде, номер в API -> как показывать (71 -> 7.1)
-#   deal_status: "первичная продажа"; include_statuses: какие статусы лотов брать
+#   deal_status: "первичная продажа"
+#   include_statuses: какие статусы лотов с сайта попадают в сборку ("Свободно", "Бронь").
+#     Лоты в брони видны в фиде только агентствам с include_booked = true.
 #   render_count: сколько рендеров ЖК добавлять к лоту
 #   show_discount: true = две цены: <price><value> старая цена без скидки,
 #                  <price><discount><final-price> цена со скидкой (Яндекс покажет обе);
@@ -44,7 +46,7 @@ yandex_house_id = "4895353"
 building_type = "монолит"
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.renovation]
@@ -60,7 +62,7 @@ yandex_house_id = "4528600"
 building_type = "монолит"
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.house_ids]
@@ -81,7 +83,7 @@ yandex_house_id = "4545002"      # в каталоге Яндекса один �
 building_type = "монолит"
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.renovation]
@@ -98,7 +100,7 @@ yandex_house_id = "4126233"
 building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.house_ids]
@@ -121,7 +123,7 @@ yandex_house_id = "4199106"
 building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.house_ids]
@@ -142,7 +144,7 @@ yandex_house_id = "3698841"
 building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.house_ids]
@@ -174,7 +176,7 @@ yandex_house_id = "3827695"
 building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.house_ids]
@@ -199,7 +201,7 @@ yandex_house_id = "4018307"
 building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.renovation]
@@ -217,7 +219,7 @@ yandex_house_id = "3118634"
 building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.renovation]
@@ -234,7 +236,7 @@ yandex_house_id = "2898138"
 building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.renovation]
@@ -251,7 +253,7 @@ yandex_house_id = "2742329"   # к. 1 в каталоге; у остальных
 building_type = ""               # заполнить: кирпичный / монолит / панельный (пусто = не передавать)
 building_section = "корпус {building}"
 deal_status = "первичная продажа"
-include_statuses = ["Свободно"]
+include_statuses = ["Свободно", "Бронь"]
 render_count = 6
 show_discount = true
 [project.house_ids]
@@ -293,6 +295,8 @@ support_bot = "@pskit_feed_boot"       # телеграм-бот поддерж�
 # category: "агентство" (лоты размещает агентство от своего имени).
 # utm_source: добавляется к ссылке на лот, чтобы видеть трафик от агентства
 #             (utm_campaign = key ЖК).
+# include_booked: true = в фид попадают и лоты в брони (с полем psk-flat-status = бронь),
+#                 false = только свободные. По умолчанию true.
 # projects: список key ЖК для агентства, например ["optimist", "sezony"].
 #           Если не указан, агентство получает фиды по всем ЖК.
 
@@ -306,6 +310,7 @@ agent_name = "Эвелина Петрова"
 email = ""
 url = ""
 utm_source = "trend"
+include_booked = true
 
 [[agency]]
 slug = "advecs"
@@ -317,6 +322,7 @@ agent_name = "Эвелина Петрова"
 email = ""
 url = ""
 utm_source = "advecs"
+include_booked = true
 
 [[agency]]
 slug = "peterburgskaya-nedvizhimost"
@@ -328,6 +334,7 @@ agent_name = "Эвелина Петрова"
 email = ""
 url = ""
 utm_source = "spbnedv"
+include_booked = true
 
 [[agency]]
 slug = "pan"
@@ -339,6 +346,7 @@ agent_name = "Эвелина Петрова"
 email = ""
 url = ""
 utm_source = "pan"
+include_booked = true
 
 [[agency]]
 slug = "n-market"
@@ -350,3 +358,4 @@ agent_name = "Эвелина Петрова"
 email = ""
 url = ""
 utm_source = "nmarket"
+include_booked = true

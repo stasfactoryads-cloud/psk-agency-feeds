@@ -77,7 +77,7 @@ def render_index(report, cfg: Config):
         sections += f"""<details class="agency" id="{e(slug)}" data-slug="{e(slug)}">
 <summary>
 <span class="chev" aria-hidden="true"></span>
-<span class="who"><b>{e(name)}</b><span class="muted">объектов: {len(feeds)}, лотов: {lots}</span></span>
+<span class="who"><b>{e(name)}</b><span class="muted">объектов: {len(feeds)}, лотов: {lots}{'' if feeds[0].get('include_booked', True) else ', без лотов в брони'}</span></span>
 <span class="badge {'ok' if ok else 'error'}">{'готов' if ok else 'есть ошибки'}</span>
 <button type="button" class="copy all" data-copy="{e(copy_text(cfg, name, feeds), quote=True)}">Скопировать все ссылки</button>
 </summary>
@@ -102,6 +102,31 @@ def render_index(report, cfg: Config):
         support_html = (f'<p class="muted">Технические проблемы с фидами и инфраструктурой: '
                         f'<a href="https://t.me/{e(handle)}">{e(p.support_bot)}</a></p>')
 
+    tf = sum(pr["free"] for pr in report.get("projects", []))
+    tb = sum(pr["booked"] for pr in report.get("projects", []))
+
+    def delta(now, was):
+        if was is None:
+            return '<span class="muted" title="нет данных прошлой сборки">–</span>'
+        if now == was:
+            return '<span class="muted">0</span>'
+        d = now - was
+        return f'<span class="{"up" if d > 0 else "down"}">{"+" if d > 0 else "−"}{abs(d)}</span>'
+
+    status_rows = ""
+    for pr in report.get("projects", []):
+        prev = pr.get("prev") or {}
+        status_rows += f"""<tr><td class="nw">{e(pr.get('title') or pr['name'])}</td>
+<td class="num">{pr['free']}</td><td class="num">{delta(pr['free'], prev.get('free'))}</td>
+<td class="num">{pr['booked']}</td><td class="num">{delta(pr['booked'], prev.get('booked'))}</td>
+<td class="num"><b>{pr['free'] + pr['booked']}</b></td></tr>"""
+    status_rows += f"""<tr class="total"><td><b>Всего</b></td><td class="num"><b>{tf}</b></td><td></td>
+<td class="num"><b>{tb}</b></td><td></td><td class="num"><b>{tf + tb}</b></td></tr>"""
+    status_html = f"""<details class="statuses" open><summary><span class="chev" aria-hidden="true"></span>
+<span class="who"><b>Статусы квартир</b><span class="muted">данные сайта на момент сборки, изменения с прошлой сборки</span></span></summary>
+<div class="wrap"><table class="st"><tr><th>Объект</th><th class="num">Свободно</th><th class="num">Δ</th>
+<th class="num">Бронь</th><th class="num">Δ</th><th class="num">Всего в сборке</th></tr>{status_rows}</table></div></details>"""
+
     if audit:
         audit_html = f"""<details class="audit"><summary><b>Аудит</b>
 <span class="badge {audit['status']}">{STATUS_LABEL[audit['status']]}</span>
@@ -121,7 +146,7 @@ main{{max-width:1100px;margin:0 auto}}h1{{margin:0 0 4px}}.muted{{color:var(--mu
 .bar{{display:flex;gap:8px;margin:16px 0 12px;flex-wrap:wrap}}
 button{{font:inherit;font-size:13px;padding:4px 12px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--text);cursor:pointer;white-space:nowrap}}
 button:hover{{border-color:var(--muted)}}button.done{{border-color:var(--ok);color:var(--ok)}}button.fail{{border-color:var(--err);color:var(--err)}}
-details.agency,details.audit{{background:var(--card);border:1px solid var(--line);border-radius:8px;margin:0 0 10px}}
+details.agency,details.audit,details.statuses{{background:var(--card);border:1px solid var(--line);border-radius:8px;margin:0 0 10px}}
 details>summary{{list-style:none;cursor:pointer;display:flex;align-items:center;gap:12px;padding:12px 16px;flex-wrap:wrap}}
 details>summary::-webkit-details-marker{{display:none}}
 .chev{{width:8px;height:8px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(-45deg);transition:transform .15s;flex:none}}
@@ -135,17 +160,19 @@ code{{background:var(--bg);border:1px solid var(--line);border-radius:4px;paddin
 .badge{{font-size:13px;padding:1px 8px;border-radius:10px;border:1px solid currentColor;white-space:nowrap}}
 .badge.ok,li.ok{{color:var(--ok)}}.badge.error,li.error{{color:var(--err)}}li.warn{{color:var(--warn)}}
 details.audit ul{{margin:0;padding:0 16px 12px 36px}}
+table.st{{min-width:560px}}tr.total td{{border-top:2px solid var(--line)}}.up{{color:var(--ok)}}.down{{color:var(--err)}}
 @media (max-width:640px){{details>summary{{gap:8px}}button.all{{width:100%}}}}
 </style></head><body><main>
 <h1>Фиды ГК «ПСК» для агентств недвижимости</h1>
 <p class="muted">Формат YRL, техтребования Яндекс Недвижимости. Обновляются ежедневно в 12:00 МСК.
-Последняя сборка: {e(fmt_ts(report['generated_at']))}. Лотов в продаже: {lots_total}.</p>
+Последняя сборка: {e(fmt_ts(report['generated_at']))}. Квартир в фидах: {tf + tb}, из них свободно {tf}, в брони {tb}.</p>
 <p class="muted">{contacts_html}</p>
 {support_html}
 <div class="bar">
 <button type="button" id="open-all">Раскрыть все</button>
 <button type="button" id="close-all">Свернуть все</button>
 </div>
+{status_html}
 {sections}
 {audit_html}
 <p class="muted">Данные в JSON: <a href="status.json">status.json</a></p>

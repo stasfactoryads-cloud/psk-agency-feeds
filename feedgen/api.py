@@ -76,6 +76,15 @@ def select_project_flats(flats, project):
 _projects_cache = {}
 
 
+def status_counts(flats, project):
+    """Все статусы лотов проекта на сайте (включая те, что не берем в фид): {статус: число}."""
+    counts = {}
+    for f in flats:
+        if f.get("project") == project.api_id:
+            counts[f.get("status")] = counts.get(f.get("status"), 0) + 1
+    return counts
+
+
 def fetch_project(api_base, project_id):
     """Карточка проекта. Список проектов один на всех, поэтому запрашиваем его один раз за сборку."""
     if api_base not in _projects_cache:

@@ -17,6 +17,7 @@ class Agency:
     url: str = ""
     utm_source: str = ""
     projects: list = field(default_factory=list)   # пусто = все ЖК
+    include_booked: bool = True                    # False = в фид только свободные лоты
 
     def wants(self, project_key):
         return not self.projects or project_key in self.projects
@@ -46,7 +47,7 @@ class Project:
     building_labels: dict = field(default_factory=dict)   # номер корпуса в API -> как показывать (71 -> 7.1)
     label: str = "ЖК"                                     # "ЖК" или "Апарт-отель"
     deal_status: str = "первичная продажа"
-    include_statuses: list = field(default_factory=lambda: ["Свободно"])
+    include_statuses: list = field(default_factory=lambda: ["Свободно", "Бронь"])
     render_count: int = 6
     show_discount: bool = False
     renovation: dict = field(default_factory=dict)

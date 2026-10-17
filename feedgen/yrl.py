@@ -21,6 +21,7 @@ def sub(parent, name, text=None, **attrs):
     return el
 
 
+FLAT_STATUS_TAG = {"Свободно": "свободна", "Бронь": "бронь"}   # значение поля psk-flat-status
 STATE_FROM_API = {"hand_over": "hand-over", "ready": "built", "unfinished": "unfinished"}
 
 
@@ -181,6 +182,10 @@ def build_offer(root, ctx, flat, agency):
         sub(offer, "building-section", p.section(flat))
     sub(offer, "lift", "да")
     sub(offer, "parking", "да")
+
+    # Собственные поля ГК «ПСК» (в требованиях Яндекса для них стандартных тегов нет)
+    sub(offer, "psk-flat-number", flat.get("number") or "")
+    sub(offer, "psk-flat-status", FLAT_STATUS_TAG.get(flat.get("status"), str(flat.get("status")).lower()))
     return offer
 
 

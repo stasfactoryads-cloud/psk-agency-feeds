@@ -78,6 +78,11 @@ def validate_feed(path, public_base_url=None):
                     per_issue["цена со скидкой не меньше цены без скидки: Яндекс не покажет скидку"] += 1
             except (TypeError, ValueError):
                 per_issue["<final-price> не число"] += 1
+        number, flat_status = _f(o, "psk-flat-number"), _f(o, "psk-flat-status")
+        if number is None or not (number.text or "").strip():
+            per_issue["нет номера квартиры <psk-flat-number>: вне списка допустимых полей ПСК"] += 1
+        if flat_status is None or flat_status.text not in ("свободна", "бронь"):
+            per_issue["<psk-flat-status> вне списка допустимых: свободна, бронь"] += 1
         rooms, studio = _f(o, "rooms"), _f(o, "studio")
         if rooms is None and studio is None:
             per_issue["нет ни <rooms>, ни <studio>"] += 1
