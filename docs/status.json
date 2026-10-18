@@ -1,22 +1,25 @@
 {
-  "generated_at": "2026-10-17T21:56:21+03:00",
+  "generated_at": "2026-10-18T12:19:03+03:00",
   "projects": [
     {
       "key": "optimist",
       "name": "Оптимист",
       "title": "ЖК «Оптимист»",
       "lots": 198,
-      "prev_lots": 191,
+      "prev_lots": 198,
       "free": 191,
       "booked": 7,
       "statuses": {
         "Свободно": 191,
         "Бронь": 7
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Свободно": 191,
+        "Бронь": 7
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 191,
+        "booked": 7
       }
     },
     {
@@ -24,17 +27,20 @@
       "name": "Сезоны",
       "title": "ЖК «Сезоны»",
       "lots": 283,
-      "prev_lots": 263,
+      "prev_lots": 283,
       "free": 263,
       "booked": 20,
       "statuses": {
         "Свободно": 263,
         "Бронь": 20
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Свободно": 263,
+        "Бронь": 20
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 263,
+        "booked": 20
       }
     },
     {
@@ -42,17 +48,20 @@
       "name": "Акватория",
       "title": "ЖК «Акватория»",
       "lots": 175,
-      "prev_lots": 160,
+      "prev_lots": 175,
       "free": 161,
       "booked": 14,
       "statuses": {
         "Бронь": 14,
         "Свободно": 161
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Бронь": 14,
+        "Свободно": 161
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 161,
+        "booked": 14
       }
     },
     {
@@ -60,17 +69,20 @@
       "name": "Ассамблея",
       "title": "ЖК «Ассамблея»",
       "lots": 486,
-      "prev_lots": 484,
+      "prev_lots": 486,
       "free": 484,
       "booked": 2,
       "statuses": {
         "Свободно": 484,
         "Бронь": 2
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Свободно": 484,
+        "Бронь": 2
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 484,
+        "booked": 2
       }
     },
     {
@@ -78,17 +90,20 @@
       "name": "Галерная гавань",
       "title": "ЖК «Галерная гавань»",
       "lots": 219,
-      "prev_lots": 208,
-      "free": 209,
-      "booked": 10,
+      "prev_lots": 219,
+      "free": 210,
+      "booked": 9,
       "statuses": {
+        "Свободно": 210,
+        "Бронь": 9
+      },
+      "prev_statuses": {
         "Свободно": 209,
         "Бронь": 10
       },
-      "prev_statuses": null,
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 209,
+        "booked": 10
       }
     },
     {
@@ -96,17 +111,20 @@
       "name": "PLUS Пулковский",
       "title": "ЖК «PLUS Пулковский»",
       "lots": 270,
-      "prev_lots": 244,
+      "prev_lots": 270,
       "free": 242,
       "booked": 28,
       "statuses": {
         "Свободно": 242,
         "Бронь": 28
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Свободно": 242,
+        "Бронь": 28
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 242,
+        "booked": 28
       }
     },
     {
@@ -114,17 +132,20 @@
       "name": "РЕСПЕКТ",
       "title": "ЖК «РЕСПЕКТ»",
       "lots": 485,
-      "prev_lots": 456,
+      "prev_lots": 485,
       "free": 453,
       "booked": 32,
       "statuses": {
         "Свободно": 453,
         "Бронь": 32
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Свободно": 453,
+        "Бронь": 32
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 453,
+        "booked": 32
       }
     },
     {
@@ -132,17 +153,20 @@
       "name": "Industrial AVENIR",
       "title": "Апарт-отель «Industrial AVENIR»",
       "lots": 134,
-      "prev_lots": 111,
+      "prev_lots": 134,
       "free": 115,
       "booked": 19,
       "statuses": {
         "Бронь": 19,
         "Свободно": 115
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Бронь": 19,
+        "Свободно": 115
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 115,
+        "booked": 19
       }
     },
     {
@@ -150,17 +174,20 @@
       "name": "Ladozhsky AVENIR",
       "title": "Апарт-отель «Ladozhsky AVENIR»",
       "lots": 73,
-      "prev_lots": 66,
+      "prev_lots": 73,
       "free": 66,
       "booked": 7,
       "statuses": {
         "Бронь": 7,
         "Свободно": 66
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Бронь": 7,
+        "Свободно": 66
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 66,
+        "booked": 7
       }
     },
     {
@@ -168,17 +195,20 @@
       "name": "BAKUNINA 33",
       "title": "ЖК «BAKUNINA 33»",
       "lots": 26,
-      "prev_lots": 19,
+      "prev_lots": 26,
       "free": 19,
       "booked": 7,
       "statuses": {
         "Бронь": 7,
         "Свободно": 19
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Бронь": 7,
+        "Свободно": 19
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 19,
+        "booked": 7
       }
     },
     {
@@ -186,17 +216,20 @@
       "name": "Северная корона",
       "title": "ЖК «Северная корона»",
       "lots": 16,
-      "prev_lots": 8,
+      "prev_lots": 16,
       "free": 8,
       "booked": 8,
       "statuses": {
         "Бронь": 8,
         "Свободно": 8
       },
-      "prev_statuses": null,
+      "prev_statuses": {
+        "Бронь": 8,
+        "Свободно": 8
+      },
       "prev": {
-        "free": null,
-        "booked": null
+        "free": 8,
+        "booked": 8
       }
     }
   ],
@@ -617,8 +650,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 209,
-        "бронь": 10
+        "свободна": 210,
+        "бронь": 9
       }
     },
     {
@@ -637,8 +670,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 209,
-        "бронь": 10
+        "свободна": 210,
+        "бронь": 9
       }
     },
     {
@@ -657,8 +690,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 209,
-        "бронь": 10
+        "свободна": 210,
+        "бронь": 9
       }
     },
     {
@@ -677,8 +710,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 209,
-        "бронь": 10
+        "свободна": 210,
+        "бронь": 9
       }
     },
     {
@@ -697,8 +730,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 209,
-        "бронь": 10
+        "свободна": 210,
+        "бронь": 9
       }
     },
     {
@@ -1303,30 +1336,18 @@
     }
   ],
   "audit": {
-    "checked_at": "2026-10-17T21:58:38+03:00",
+    "checked_at": "2026-10-18T12:19:44+03:00",
     "status": "ok",
     "checks": [
       "Правила Яндекс Недвижимости: проверено фидов 55",
       "Планировки JPG на месте",
       "Внешние картинки доступны: 66 из 66",
       "Набор лотов совпадает с API: Оптимист 198, Сезоны 283, Акватория 175, Ассамблея 486, Галерная гавань 219, PLUS Пулковский 270, РЕСПЕКТ 485, Industrial AVENIR 134, Ladozhsky AVENIR 73, BAKUNINA 33 26, Северная корона 16",
-      "Статусы лотов в фидах совпадают с сайтом: свободно 2211, бронь 154",
+      "Статусы лотов в фидах совпадают с сайтом: свободно 2212, бронь 153",
       "У каждого лота есть номер квартиры (psk-flat-number) и статус (psk-flat-status)",
       "Фиды свежие"
     ],
     "errors": [],
-    "warnings": [
-      "ЖК «Оптимист»: число лотов изменилось, было 191, стало 198",
-      "ЖК «Сезоны»: число лотов изменилось, было 263, стало 283",
-      "ЖК «Акватория»: число лотов изменилось, было 160, стало 175",
-      "ЖК «Ассамблея»: число лотов изменилось, было 484, стало 486",
-      "ЖК «Галерная гавань»: число лотов изменилось, было 208, стало 219",
-      "ЖК «PLUS Пулковский»: число лотов изменилось, было 244, стало 270",
-      "ЖК «РЕСПЕКТ»: число лотов изменилось, было 456, стало 485",
-      "Апарт-отель «Industrial AVENIR»: число лотов изменилось, было 111, стало 134",
-      "Апарт-отель «Ladozhsky AVENIR»: число лотов изменилось, было 66, стало 73",
-      "ЖК «BAKUNINA 33»: число лотов изменилось, было 19, стало 26",
-      "ЖК «Северная корона»: число лотов изменилось, было 8, стало 16"
-    ]
+    "warnings": []
   }
 }
