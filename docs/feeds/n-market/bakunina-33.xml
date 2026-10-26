@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-25T12:20:18+03:00</generation-date>
+  <generation-date>2026-10-26T18:51:24+03:00</generation-date>
   <offer internal-id="86031">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86031?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -81,7 +81,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85940?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -156,7 +156,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85968?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -230,7 +230,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85975?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -305,7 +305,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85984?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -371,7 +371,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>67</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="85989">
     <type>продажа</type>
@@ -379,7 +379,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85989?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -453,7 +453,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85990?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -528,7 +528,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86000?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -602,7 +602,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86003?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -676,7 +676,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86014?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -750,7 +750,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86015?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -824,7 +824,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85931?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -898,7 +898,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85950?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -965,7 +965,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>55</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="85979">
     <type>продажа</type>
@@ -973,7 +973,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85979?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1048,7 +1048,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85982?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1123,7 +1123,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86009?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1198,7 +1198,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86019?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1273,7 +1273,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85935?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1347,7 +1347,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85967?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1421,7 +1421,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/85983?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1495,7 +1495,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86022?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1570,7 +1570,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86023?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1645,7 +1645,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86024?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1712,7 +1712,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>80</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="86034">
     <type>продажа</type>
@@ -1720,7 +1720,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/86034?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=bakunina-33</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-10-25T12:20:18+03:00</last-update-date>
+    <last-update-date>2026-10-26T18:51:24+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
