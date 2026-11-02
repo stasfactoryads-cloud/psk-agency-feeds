@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-11-01T18:45:21+03:00",
+  "generated_at": "2026-11-02T22:12:18+03:00",
   "projects": [
     {
       "key": "optimist",
       "name": "Оптимист",
       "title": "ЖК «Оптимист»",
-      "lots": 194,
-      "prev_lots": 195,
-      "free": 190,
-      "booked": 4,
+      "lots": 195,
+      "prev_lots": 194,
+      "free": 188,
+      "booked": 7,
       "statuses": {
-        "Свободно": 190,
-        "Бронь": 4
-      },
-      "prev_statuses": {
         "Свободно": 188,
         "Бронь": 7
       },
+      "prev_statuses": {
+        "Свободно": 190,
+        "Бронь": 4
+      },
       "prev": {
-        "free": 188,
-        "booked": 7
+        "free": 190,
+        "booked": 4
       }
     },
     {
       "key": "sezony",
       "name": "Сезоны",
       "title": "ЖК «Сезоны»",
-      "lots": 276,
-      "prev_lots": 277,
-      "free": 261,
+      "lots": 275,
+      "prev_lots": 276,
+      "free": 260,
       "booked": 15,
       "statuses": {
-        "Свободно": 261,
+        "Свободно": 260,
         "Бронь": 15
       },
       "prev_statuses": {
-        "Свободно": 260,
-        "Бронь": 17
+        "Свободно": 261,
+        "Бронь": 15
       },
       "prev": {
-        "free": 260,
-        "booked": 17
+        "free": 261,
+        "booked": 15
       }
     },
     {
@@ -48,20 +48,20 @@
       "name": "Акватория",
       "title": "ЖК «Акватория»",
       "lots": 166,
-      "prev_lots": 168,
-      "free": 160,
-      "booked": 6,
+      "prev_lots": 166,
+      "free": 159,
+      "booked": 7,
       "statuses": {
-        "Бронь": 6,
-        "Свободно": 160
+        "Бронь": 7,
+        "Свободно": 159
       },
       "prev_statuses": {
-        "Бронь": 8,
+        "Бронь": 6,
         "Свободно": 160
       },
       "prev": {
         "free": 160,
-        "booked": 8
+        "booked": 6
       }
     },
     {
@@ -70,11 +70,11 @@
       "title": "ЖК «Ассамблея»",
       "lots": 486,
       "prev_lots": 486,
-      "free": 483,
-      "booked": 3,
+      "free": 482,
+      "booked": 4,
       "statuses": {
-        "Свободно": 483,
-        "Бронь": 3
+        "Свободно": 482,
+        "Бронь": 4
       },
       "prev_statuses": {
         "Свободно": 483,
@@ -89,42 +89,42 @@
       "key": "galernaya-gavan",
       "name": "Галерная гавань",
       "title": "ЖК «Галерная гавань»",
-      "lots": 219,
-      "prev_lots": 221,
-      "free": 213,
+      "lots": 218,
+      "prev_lots": 219,
+      "free": 212,
       "booked": 6,
       "statuses": {
-        "Свободно": 213,
+        "Свободно": 212,
         "Бронь": 6
       },
       "prev_statuses": {
         "Свободно": 213,
-        "Бронь": 8
+        "Бронь": 6
       },
       "prev": {
         "free": 213,
-        "booked": 8
+        "booked": 6
       }
     },
     {
       "key": "plus-pulkovsky",
       "name": "PLUS Пулковский",
       "title": "ЖК «PLUS Пулковский»",
-      "lots": 243,
+      "lots": 242,
       "prev_lots": 243,
       "free": 228,
-      "booked": 15,
+      "booked": 14,
       "statuses": {
+        "Свободно": 228,
+        "Бронь": 14
+      },
+      "prev_statuses": {
         "Свободно": 228,
         "Бронь": 15
       },
-      "prev_statuses": {
-        "Свободно": 226,
-        "Бронь": 17
-      },
       "prev": {
-        "free": 226,
-        "booked": 17
+        "free": 228,
+        "booked": 15
       }
     },
     {
@@ -133,19 +133,19 @@
       "title": "ЖК «РЕСПЕКТ»",
       "lots": 481,
       "prev_lots": 481,
-      "free": 460,
-      "booked": 21,
+      "free": 461,
+      "booked": 20,
       "statuses": {
+        "Свободно": 461,
+        "Бронь": 20
+      },
+      "prev_statuses": {
         "Свободно": 460,
         "Бронь": 21
       },
-      "prev_statuses": {
-        "Свободно": 459,
-        "Бронь": 22
-      },
       "prev": {
-        "free": 459,
-        "booked": 22
+        "free": 460,
+        "booked": 21
       }
     },
     {
@@ -154,19 +154,19 @@
       "title": "Апарт-отель «Industrial AVENIR»",
       "lots": 131,
       "prev_lots": 131,
-      "free": 113,
-      "booked": 18,
+      "free": 112,
+      "booked": 19,
       "statuses": {
+        "Бронь": 19,
+        "Свободно": 112
+      },
+      "prev_statuses": {
         "Бронь": 18,
         "Свободно": 113
       },
-      "prev_statuses": {
-        "Бронь": 20,
-        "Свободно": 111
-      },
       "prev": {
-        "free": 111,
-        "booked": 20
+        "free": 113,
+        "booked": 18
       }
     },
     {
@@ -175,19 +175,19 @@
       "title": "Апарт-отель «Ladozhsky AVENIR»",
       "lots": 63,
       "prev_lots": 63,
-      "free": 58,
-      "booked": 5,
+      "free": 54,
+      "booked": 9,
       "statuses": {
+        "Бронь": 9,
+        "Свободно": 54
+      },
+      "prev_statuses": {
         "Бронь": 5,
         "Свободно": 58
       },
-      "prev_statuses": {
-        "Бронь": 8,
-        "Свободно": 55
-      },
       "prev": {
-        "free": 55,
-        "booked": 8
+        "free": 58,
+        "booked": 5
       }
     },
     {
@@ -216,19 +216,19 @@
       "name": "Северная корона",
       "title": "ЖК «Северная корона»",
       "lots": 14,
-      "prev_lots": 15,
-      "free": 3,
-      "booked": 11,
+      "prev_lots": 14,
+      "free": 2,
+      "booked": 12,
       "statuses": {
-        "Бронь": 11,
-        "Свободно": 3
+        "Бронь": 12,
+        "Свободно": 2
       },
       "prev_statuses": {
         "Бронь": 11,
-        "Свободно": 4
+        "Свободно": 3
       },
       "prev": {
-        "free": 4,
+        "free": 3,
         "booked": 11
       }
     }
@@ -244,14 +244,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/optimist.xml",
       "preview": "preview/trend/optimist.html",
       "include_booked": true,
-      "expected": 194,
+      "expected": 195,
       "status": "ok",
-      "offers": 194,
+      "offers": 195,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 190,
-        "бронь": 4
+        "свободна": 188,
+        "бронь": 7
       }
     },
     {
@@ -264,14 +264,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/optimist.xml",
       "preview": "preview/advecs/optimist.html",
       "include_booked": true,
-      "expected": 194,
+      "expected": 195,
       "status": "ok",
-      "offers": 194,
+      "offers": 195,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 190,
-        "бронь": 4
+        "свободна": 188,
+        "бронь": 7
       }
     },
     {
@@ -284,14 +284,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/optimist.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/optimist.html",
       "include_booked": true,
-      "expected": 194,
+      "expected": 195,
       "status": "ok",
-      "offers": 194,
+      "offers": 195,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 190,
-        "бронь": 4
+        "свободна": 188,
+        "бронь": 7
       }
     },
     {
@@ -304,14 +304,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/optimist.xml",
       "preview": "preview/pan/optimist.html",
       "include_booked": true,
-      "expected": 194,
+      "expected": 195,
       "status": "ok",
-      "offers": 194,
+      "offers": 195,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 190,
-        "бронь": 4
+        "свободна": 188,
+        "бронь": 7
       }
     },
     {
@@ -324,14 +324,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/optimist.xml",
       "preview": "preview/n-market/optimist.html",
       "include_booked": true,
-      "expected": 194,
+      "expected": 195,
       "status": "ok",
-      "offers": 194,
+      "offers": 195,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 190,
-        "бронь": 4
+        "свободна": 188,
+        "бронь": 7
       }
     },
     {
@@ -344,13 +344,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/sezony.xml",
       "preview": "preview/trend/sezony.html",
       "include_booked": true,
-      "expected": 276,
+      "expected": 275,
       "status": "ok",
-      "offers": 276,
+      "offers": 275,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 261,
+        "свободна": 260,
         "бронь": 15
       }
     },
@@ -364,13 +364,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/sezony.xml",
       "preview": "preview/advecs/sezony.html",
       "include_booked": true,
-      "expected": 276,
+      "expected": 275,
       "status": "ok",
-      "offers": 276,
+      "offers": 275,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 261,
+        "свободна": 260,
         "бронь": 15
       }
     },
@@ -384,13 +384,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/sezony.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/sezony.html",
       "include_booked": true,
-      "expected": 276,
+      "expected": 275,
       "status": "ok",
-      "offers": 276,
+      "offers": 275,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 261,
+        "свободна": 260,
         "бронь": 15
       }
     },
@@ -404,13 +404,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/sezony.xml",
       "preview": "preview/pan/sezony.html",
       "include_booked": true,
-      "expected": 276,
+      "expected": 275,
       "status": "ok",
-      "offers": 276,
+      "offers": 275,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 261,
+        "свободна": 260,
         "бронь": 15
       }
     },
@@ -424,13 +424,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/sezony.xml",
       "preview": "preview/n-market/sezony.html",
       "include_booked": true,
-      "expected": 276,
+      "expected": 275,
       "status": "ok",
-      "offers": 276,
+      "offers": 275,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 261,
+        "свободна": 260,
         "бронь": 15
       }
     },
@@ -450,8 +450,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 160,
-        "бронь": 6
+        "свободна": 159,
+        "бронь": 7
       }
     },
     {
@@ -470,8 +470,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 160,
-        "бронь": 6
+        "свободна": 159,
+        "бронь": 7
       }
     },
     {
@@ -490,8 +490,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 160,
-        "бронь": 6
+        "свободна": 159,
+        "бронь": 7
       }
     },
     {
@@ -510,8 +510,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 160,
-        "бронь": 6
+        "свободна": 159,
+        "бронь": 7
       }
     },
     {
@@ -530,8 +530,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 160,
-        "бронь": 6
+        "свободна": 159,
+        "бронь": 7
       }
     },
     {
@@ -550,8 +550,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 483,
-        "бронь": 3
+        "свободна": 482,
+        "бронь": 4
       }
     },
     {
@@ -570,8 +570,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 483,
-        "бронь": 3
+        "свободна": 482,
+        "бронь": 4
       }
     },
     {
@@ -590,8 +590,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 483,
-        "бронь": 3
+        "свободна": 482,
+        "бронь": 4
       }
     },
     {
@@ -610,8 +610,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 483,
-        "бронь": 3
+        "свободна": 482,
+        "бронь": 4
       }
     },
     {
@@ -630,8 +630,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 483,
-        "бронь": 3
+        "свободна": 482,
+        "бронь": 4
       }
     },
     {
@@ -644,13 +644,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/galernaya-gavan.xml",
       "preview": "preview/trend/galernaya-gavan.html",
       "include_booked": true,
-      "expected": 219,
+      "expected": 218,
       "status": "ok",
-      "offers": 219,
+      "offers": 218,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 213,
+        "свободна": 212,
         "бронь": 6
       }
     },
@@ -664,13 +664,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/galernaya-gavan.xml",
       "preview": "preview/advecs/galernaya-gavan.html",
       "include_booked": true,
-      "expected": 219,
+      "expected": 218,
       "status": "ok",
-      "offers": 219,
+      "offers": 218,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 213,
+        "свободна": 212,
         "бронь": 6
       }
     },
@@ -684,13 +684,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/galernaya-gavan.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/galernaya-gavan.html",
       "include_booked": true,
-      "expected": 219,
+      "expected": 218,
       "status": "ok",
-      "offers": 219,
+      "offers": 218,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 213,
+        "свободна": 212,
         "бронь": 6
       }
     },
@@ -704,13 +704,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/galernaya-gavan.xml",
       "preview": "preview/pan/galernaya-gavan.html",
       "include_booked": true,
-      "expected": 219,
+      "expected": 218,
       "status": "ok",
-      "offers": 219,
+      "offers": 218,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 213,
+        "свободна": 212,
         "бронь": 6
       }
     },
@@ -724,13 +724,13 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/galernaya-gavan.xml",
       "preview": "preview/n-market/galernaya-gavan.html",
       "include_booked": true,
-      "expected": 219,
+      "expected": 218,
       "status": "ok",
-      "offers": 219,
+      "offers": 218,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 213,
+        "свободна": 212,
         "бронь": 6
       }
     },
@@ -744,14 +744,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/trend/plus-pulkovsky.xml",
       "preview": "preview/trend/plus-pulkovsky.html",
       "include_booked": true,
-      "expected": 243,
+      "expected": 242,
       "status": "ok",
-      "offers": 243,
+      "offers": 242,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
         "свободна": 228,
-        "бронь": 15
+        "бронь": 14
       }
     },
     {
@@ -764,14 +764,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/advecs/plus-pulkovsky.xml",
       "preview": "preview/advecs/plus-pulkovsky.html",
       "include_booked": true,
-      "expected": 243,
+      "expected": 242,
       "status": "ok",
-      "offers": 243,
+      "offers": 242,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
         "свободна": 228,
-        "бронь": 15
+        "бронь": 14
       }
     },
     {
@@ -784,14 +784,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/peterburgskaya-nedvizhimost/plus-pulkovsky.xml",
       "preview": "preview/peterburgskaya-nedvizhimost/plus-pulkovsky.html",
       "include_booked": true,
-      "expected": 243,
+      "expected": 242,
       "status": "ok",
-      "offers": 243,
+      "offers": 242,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
         "свободна": 228,
-        "бронь": 15
+        "бронь": 14
       }
     },
     {
@@ -804,14 +804,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/pan/plus-pulkovsky.xml",
       "preview": "preview/pan/plus-pulkovsky.html",
       "include_booked": true,
-      "expected": 243,
+      "expected": 242,
       "status": "ok",
-      "offers": 243,
+      "offers": 242,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
         "свободна": 228,
-        "бронь": 15
+        "бронь": 14
       }
     },
     {
@@ -824,14 +824,14 @@
       "url": "https://feedhub.realty/feed-evel/feeds/n-market/plus-pulkovsky.xml",
       "preview": "preview/n-market/plus-pulkovsky.html",
       "include_booked": true,
-      "expected": 243,
+      "expected": 242,
       "status": "ok",
-      "offers": 243,
+      "offers": 242,
       "errors": [],
       "warnings": [],
       "tag_statuses": {
         "свободна": 228,
-        "бронь": 15
+        "бронь": 14
       }
     },
     {
@@ -850,8 +850,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 21,
-        "свободна": 460
+        "бронь": 20,
+        "свободна": 461
       }
     },
     {
@@ -870,8 +870,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 21,
-        "свободна": 460
+        "бронь": 20,
+        "свободна": 461
       }
     },
     {
@@ -890,8 +890,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 21,
-        "свободна": 460
+        "бронь": 20,
+        "свободна": 461
       }
     },
     {
@@ -910,8 +910,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 21,
-        "свободна": 460
+        "бронь": 20,
+        "свободна": 461
       }
     },
     {
@@ -930,8 +930,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 21,
-        "свободна": 460
+        "бронь": 20,
+        "свободна": 461
       }
     },
     {
@@ -950,8 +950,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 113,
-        "бронь": 18
+        "свободна": 112,
+        "бронь": 19
       }
     },
     {
@@ -970,8 +970,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 113,
-        "бронь": 18
+        "свободна": 112,
+        "бронь": 19
       }
     },
     {
@@ -990,8 +990,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 113,
-        "бронь": 18
+        "свободна": 112,
+        "бронь": 19
       }
     },
     {
@@ -1010,8 +1010,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 113,
-        "бронь": 18
+        "свободна": 112,
+        "бронь": 19
       }
     },
     {
@@ -1030,8 +1030,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 113,
-        "бронь": 18
+        "свободна": 112,
+        "бронь": 19
       }
     },
     {
@@ -1050,8 +1050,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 58,
-        "бронь": 5
+        "свободна": 54,
+        "бронь": 9
       }
     },
     {
@@ -1070,8 +1070,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 58,
-        "бронь": 5
+        "свободна": 54,
+        "бронь": 9
       }
     },
     {
@@ -1090,8 +1090,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 58,
-        "бронь": 5
+        "свободна": 54,
+        "бронь": 9
       }
     },
     {
@@ -1110,8 +1110,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 58,
-        "бронь": 5
+        "свободна": 54,
+        "бронь": 9
       }
     },
     {
@@ -1130,8 +1130,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "свободна": 58,
-        "бронь": 5
+        "свободна": 54,
+        "бронь": 9
       }
     },
     {
@@ -1250,8 +1250,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 11,
-        "свободна": 3
+        "бронь": 12,
+        "свободна": 2
       }
     },
     {
@@ -1270,8 +1270,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 11,
-        "свободна": 3
+        "бронь": 12,
+        "свободна": 2
       }
     },
     {
@@ -1290,8 +1290,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 11,
-        "свободна": 3
+        "бронь": 12,
+        "свободна": 2
       }
     },
     {
@@ -1310,8 +1310,8 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 11,
-        "свободна": 3
+        "бронь": 12,
+        "свободна": 2
       }
     },
     {
@@ -1330,30 +1330,29 @@
       "errors": [],
       "warnings": [],
       "tag_statuses": {
-        "бронь": 11,
-        "свободна": 3
+        "бронь": 12,
+        "свободна": 2
       }
     }
   ],
   "audit": {
-    "checked_at": "2026-11-01T18:46:23+03:00",
+    "checked_at": "2026-11-02T22:14:17+03:00",
     "status": "ok",
     "checks": [
       "Правила Яндекс Недвижимости: проверено фидов 55",
       "Планировки JPG на месте",
       "Внешние картинки доступны: 66 из 66",
-      "Набор лотов совпадает с API: Оптимист 194, Сезоны 276, Акватория 166, Ассамблея 486, Галерная гавань 219, PLUS Пулковский 243, РЕСПЕКТ 481, Industrial AVENIR 131, Ladozhsky AVENIR 63, BAKUNINA 33 24, Северная корона 14",
-      "Статусы лотов в фидах совпадают с сайтом: свободно 2189, бронь 108",
+      "Набор лотов совпадает с API: Оптимист 195, Сезоны 275, Акватория 166, Ассамблея 486, Галерная гавань 218, PLUS Пулковский 242, РЕСПЕКТ 481, Industrial AVENIR 131, Ladozhsky AVENIR 63, BAKUNINA 33 24, Северная корона 14",
+      "Статусы лотов в фидах совпадают с сайтом: свободно 2178, бронь 117",
       "У каждого лота есть номер квартиры (psk-flat-number) и статус (psk-flat-status)",
       "Фиды свежие"
     ],
     "errors": [],
     "warnings": [
-      "ЖК «Оптимист»: число лотов изменилось, было 195, стало 194",
-      "ЖК «Сезоны»: число лотов изменилось, было 277, стало 276",
-      "ЖК «Акватория»: число лотов изменилось, было 168, стало 166",
-      "ЖК «Галерная гавань»: число лотов изменилось, было 221, стало 219",
-      "ЖК «Северная корона»: число лотов изменилось, было 15, стало 14"
+      "ЖК «Оптимист»: число лотов изменилось, было 194, стало 195",
+      "ЖК «Сезоны»: число лотов изменилось, было 276, стало 275",
+      "ЖК «Галерная гавань»: число лотов изменилось, было 219, стало 218",
+      "ЖК «PLUS Пулковский»: число лотов изменилось, было 243, стало 242"
     ]
   }
 }

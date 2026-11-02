@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-01T18:45:21+03:00</generation-date>
+  <generation-date>2026-11-02T22:12:18+03:00</generation-date>
   <offer internal-id="100226">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100226?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -79,7 +79,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100257?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -99,10 +99,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8615423</value>
+      <value>8699921</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7753881</final-price>
+        <final-price>7829929</final-price>
       </discount>
     </price>
     <area>
@@ -151,7 +151,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100258?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -171,10 +171,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8228001</value>
+      <value>8312499</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7405201</final-price>
+        <final-price>7481249</final-price>
       </discount>
     </price>
     <area>
@@ -223,7 +223,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100259?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -243,10 +243,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8615423</value>
+      <value>8699921</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7753881</final-price>
+        <final-price>7829929</final-price>
       </discount>
     </price>
     <area>
@@ -295,7 +295,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100261?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-16T12:24:33+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -315,10 +315,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8615423</value>
+      <value>8699921</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7753881</final-price>
+        <final-price>7829929</final-price>
       </discount>
     </price>
     <area>
@@ -367,7 +367,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100268?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -387,10 +387,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8228001</value>
+      <value>8312499</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7405201</final-price>
+        <final-price>7481249</final-price>
       </discount>
     </price>
     <area>
@@ -439,7 +439,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100270?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -459,10 +459,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8228001</value>
+      <value>8312499</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7405201</final-price>
+        <final-price>7481249</final-price>
       </discount>
     </price>
     <area>
@@ -511,7 +511,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100271?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -531,10 +531,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8615423</value>
+      <value>8699921</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7753881</final-price>
+        <final-price>7829929</final-price>
       </discount>
     </price>
     <area>
@@ -583,7 +583,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100272?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -603,10 +603,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8228001</value>
+      <value>8312499</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7405201</final-price>
+        <final-price>7481249</final-price>
       </discount>
     </price>
     <area>
@@ -655,7 +655,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100289?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -719,7 +719,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>381</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="100329">
     <type>продажа</type>
@@ -727,7 +727,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100329?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -747,10 +747,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9815258</value>
+      <value>9911154</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8833732</final-price>
+        <final-price>8920038</final-price>
       </discount>
     </price>
     <area>
@@ -799,7 +799,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100336?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -871,7 +871,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100409?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -891,10 +891,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9838535</value>
+      <value>9934430</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8854681</final-price>
+        <final-price>8940987</final-price>
       </discount>
     </price>
     <area>
@@ -943,7 +943,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100416?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1015,7 +1015,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100420?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1035,10 +1035,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8261227</value>
+      <value>8345724</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7435104</final-price>
+        <final-price>7511152</final-price>
       </discount>
     </price>
     <area>
@@ -1087,7 +1087,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100434?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1159,7 +1159,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100439?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1179,10 +1179,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10006565</value>
+      <value>10104098</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9005908</final-price>
+        <final-price>9093688</final-price>
       </discount>
     </price>
     <area>
@@ -1231,7 +1231,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100484?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1251,10 +1251,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9901596</value>
+      <value>9997785</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8911437</final-price>
+        <final-price>8998007</final-price>
       </discount>
     </price>
     <area>
@@ -1303,7 +1303,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100495?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1375,7 +1375,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100496?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1447,7 +1447,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100513?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1519,7 +1519,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100519?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1539,10 +1539,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10030195</value>
+      <value>10127728</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9027175</final-price>
+        <final-price>9114955</final-price>
       </discount>
     </price>
     <area>
@@ -1591,7 +1591,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100569?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1611,10 +1611,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9885044</value>
+      <value>9980940</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8896540</final-price>
+        <final-price>8982846</final-price>
       </discount>
     </price>
     <area>
@@ -1663,7 +1663,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100575?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1735,7 +1735,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100594?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1807,7 +1807,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100606?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1827,10 +1827,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9924857</value>
+      <value>10021045</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8932371</final-price>
+        <final-price>9018941</final-price>
       </discount>
     </price>
     <area>
@@ -1879,7 +1879,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100643?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1899,10 +1899,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8245093</value>
+      <value>8328160</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7420584</final-price>
+        <final-price>7495344</final-price>
       </discount>
     </price>
     <area>
@@ -1943,7 +1943,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>824</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="100654">
     <type>продажа</type>
@@ -1951,7 +1951,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100654?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2020,7 +2020,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100655?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2092,7 +2092,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100656?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2164,7 +2164,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100673?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2236,7 +2236,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100674?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2308,7 +2308,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100724?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2328,10 +2328,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9971552</value>
+      <value>10067741</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8974397</final-price>
+        <final-price>9060967</final-price>
       </discount>
     </price>
     <area>
@@ -2380,7 +2380,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100735?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2452,7 +2452,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100736?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2524,7 +2524,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100754?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2596,7 +2596,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100759?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2616,10 +2616,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10101128</value>
+      <value>10198661</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9091015</final-price>
+        <final-price>9178795</final-price>
       </discount>
     </price>
     <area>
@@ -2668,7 +2668,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100804?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2688,10 +2688,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9994856</value>
+      <value>10091045</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8995370</final-price>
+        <final-price>9081940</final-price>
       </discount>
     </price>
     <area>
@@ -2740,7 +2740,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100815?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2812,7 +2812,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100821?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2832,10 +2832,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8731517</value>
+      <value>8816015</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7858365</final-price>
+        <final-price>7934413</final-price>
       </discount>
     </price>
     <area>
@@ -2876,7 +2876,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>1045</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="100831">
     <type>продажа</type>
@@ -2884,7 +2884,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100831?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2904,10 +2904,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8731517</value>
+      <value>8816015</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7858365</final-price>
+        <final-price>7934413</final-price>
       </discount>
     </price>
     <area>
@@ -2956,7 +2956,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100834?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3028,7 +3028,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100839?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3048,10 +3048,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10124758</value>
+      <value>10222291</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9112282</final-price>
+        <final-price>9200062</final-price>
       </discount>
     </price>
     <area>
@@ -3100,7 +3100,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100846?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3120,10 +3120,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9994856</value>
+      <value>10091045</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8995370</final-price>
+        <final-price>9081940</final-price>
       </discount>
     </price>
     <area>
@@ -3172,7 +3172,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100895?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3244,7 +3244,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100913?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3316,7 +3316,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100914?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3388,7 +3388,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100926?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3408,10 +3408,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10018203</value>
+      <value>10114392</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9016383</final-price>
+        <final-price>9102953</final-price>
       </discount>
     </price>
     <area>
@@ -3460,7 +3460,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100964?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3480,10 +3480,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10041507</value>
+      <value>10137696</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9037357</final-price>
+        <final-price>9123927</final-price>
       </discount>
     </price>
     <area>
@@ -3532,7 +3532,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100975?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3604,7 +3604,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100993?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3676,7 +3676,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/100994?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3748,7 +3748,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101044?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3768,10 +3768,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10064855</value>
+      <value>10161044</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9058370</final-price>
+        <final-price>9144940</final-price>
       </discount>
     </price>
     <area>
@@ -3820,7 +3820,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101050?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3881,7 +3881,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>1334</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="101055">
     <type>продажа</type>
@@ -3889,7 +3889,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101055?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3961,7 +3961,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101073?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4033,7 +4033,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101074?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4105,7 +4105,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101079?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4125,10 +4125,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10195735</value>
+      <value>10293269</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9176162</final-price>
+        <final-price>9263942</final-price>
       </discount>
     </price>
     <area>
@@ -4177,7 +4177,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101107?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4197,10 +4197,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8127209</value>
+      <value>8207942</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7314488</final-price>
+        <final-price>7387148</final-price>
       </discount>
     </price>
     <area>
@@ -4249,7 +4249,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101124?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4269,10 +4269,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10088115</value>
+      <value>10184304</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9079304</final-price>
+        <final-price>9165874</final-price>
       </discount>
     </price>
     <area>
@@ -4321,7 +4321,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101135?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4393,7 +4393,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101159?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4413,10 +4413,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10219409</value>
+      <value>10316943</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9197468</final-price>
+        <final-price>9285248</final-price>
       </discount>
     </price>
     <area>
@@ -4465,7 +4465,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/101166?utm_source=nmarket&amp;utm_medium=realty_feed&amp;utm_campaign=ladozhsky-avenir</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4485,10 +4485,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10088115</value>
+      <value>10184304</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9079304</final-price>
+        <final-price>9165874</final-price>
       </discount>
     </price>
     <area>

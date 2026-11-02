@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-01T18:45:21+03:00</generation-date>
+  <generation-date>2026-11-02T22:12:18+03:00</generation-date>
   <offer internal-id="139419">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139419?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -85,7 +85,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139340?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -163,7 +163,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139342?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -241,7 +241,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139380?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -319,7 +319,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139316?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -342,10 +342,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10299146</value>
+      <value>10424479</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9269231</final-price>
+        <final-price>9382031</final-price>
       </discount>
     </price>
     <area>
@@ -397,7 +397,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139377?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -420,10 +420,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10252121</value>
+      <value>10373454</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9226908</final-price>
+        <final-price>9336108</final-price>
       </discount>
     </price>
     <area>
@@ -467,7 +467,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>150</psk-flat-number>
-    <psk-flat-status>бронь</psk-flat-status>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="139388">
     <type>продажа</type>
@@ -475,7 +475,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139388?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -554,7 +554,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395009?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -631,7 +631,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395045?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -708,7 +708,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395016?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -731,10 +731,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8057398</value>
+      <value>8098131</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7251658</final-price>
+        <final-price>7288318</final-price>
       </discount>
     </price>
     <area>
@@ -785,7 +785,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395051?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -808,10 +808,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8114542</value>
+      <value>8155564</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7303088</final-price>
+        <final-price>7340008</final-price>
       </discount>
     </price>
     <area>
@@ -862,7 +862,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395030?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -885,10 +885,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8044213</value>
+      <value>8084657</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7239792</final-price>
+        <final-price>7276192</final-price>
       </discount>
     </price>
     <area>
@@ -939,7 +939,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395063?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -962,10 +962,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8159130</value>
+      <value>8200152</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7343217</final-price>
+        <final-price>7380137</final-price>
       </discount>
     </price>
     <area>
@@ -1016,7 +1016,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395037?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1039,10 +1039,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8053640</value>
+      <value>8094084</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7248276</final-price>
+        <final-price>7284676</final-price>
       </discount>
     </price>
     <area>
@@ -1093,7 +1093,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395069?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1116,10 +1116,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8168692</value>
+      <value>8209714</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7351822</final-price>
+        <final-price>7388742</final-price>
       </discount>
     </price>
     <area>
@@ -1170,7 +1170,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395008?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1193,10 +1193,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11085536</value>
+      <value>11216936</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9976983</final-price>
+        <final-price>10095243</final-price>
       </discount>
     </price>
     <area>
@@ -1247,7 +1247,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395011?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1270,10 +1270,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10429804</value>
+      <value>10553004</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9386823</final-price>
+        <final-price>9497703</final-price>
       </discount>
     </price>
     <area>
@@ -1324,7 +1324,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395043?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1347,10 +1347,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10844334</value>
+      <value>10975478</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9759900</final-price>
+        <final-price>9877930</final-price>
       </discount>
     </price>
     <area>
@@ -1401,7 +1401,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394989?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1424,10 +1424,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10585068</value>
+      <value>10710401</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9526561</final-price>
+        <final-price>9639361</final-price>
       </discount>
     </price>
     <area>
@@ -1478,7 +1478,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395019?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1501,10 +1501,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10892662</value>
+      <value>11021728</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9803395</final-price>
+        <final-price>9919555</final-price>
       </discount>
     </price>
     <area>
@@ -1548,7 +1548,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>34</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="394994">
     <type>продажа</type>
@@ -1556,7 +1556,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394994?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1579,10 +1579,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10550760</value>
+      <value>10679238</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9495684</final-price>
+        <final-price>9611314</final-price>
       </discount>
     </price>
     <area>
@@ -1633,7 +1633,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394999?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1656,10 +1656,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10563318</value>
+      <value>10691796</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9506986</final-price>
+        <final-price>9622616</final-price>
       </discount>
     </price>
     <area>
@@ -1710,7 +1710,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395004?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1733,10 +1733,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10575876</value>
+      <value>10704354</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9518288</final-price>
+        <final-price>9633918</final-price>
       </discount>
     </price>
     <area>
@@ -1787,7 +1787,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395013?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1810,10 +1810,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15465942</value>
+      <value>15542931</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13919348</final-price>
+        <final-price>13988638</final-price>
       </discount>
     </price>
     <area>
@@ -1864,7 +1864,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395042?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1887,10 +1887,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16829518</value>
+      <value>16914582</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15146566</final-price>
+        <final-price>15223123</final-price>
       </discount>
     </price>
     <area>
@@ -1942,7 +1942,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394991?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -1965,10 +1965,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14527644</value>
+      <value>14602744</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13074879</final-price>
+        <final-price>13142469</final-price>
       </discount>
     </price>
     <area>
@@ -2020,7 +2020,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395006?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2043,10 +2043,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14511291</value>
+      <value>14585891</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13060162</final-price>
+        <final-price>13127302</final-price>
       </discount>
     </price>
     <area>
@@ -2098,7 +2098,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395041?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2121,10 +2121,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16370345</value>
+      <value>16452790</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>14733311</final-price>
+        <final-price>14807511</final-price>
       </discount>
     </price>
     <area>
@@ -2175,7 +2175,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395010?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2198,10 +2198,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>18027403</value>
+      <value>18082336</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16224663</final-price>
+        <final-price>16274103</final-price>
       </discount>
     </price>
     <area>
@@ -2252,7 +2252,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394988?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2330,7 +2330,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395017?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2408,7 +2408,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395047?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2486,7 +2486,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395031?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2564,7 +2564,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395073?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2641,7 +2641,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395074?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2718,7 +2718,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395110?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2795,7 +2795,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395112?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2872,7 +2872,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395113?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -2949,7 +2949,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395114?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3026,7 +3026,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395115?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3103,7 +3103,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395116?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3180,7 +3180,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395164?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3257,7 +3257,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395167?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3334,7 +3334,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395080?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3357,10 +3357,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7421000</value>
+      <value>7459266</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6678900</final-price>
+        <final-price>6713340</final-price>
       </discount>
     </price>
     <area>
@@ -3411,7 +3411,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395121?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3434,10 +3434,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7838133</value>
+      <value>7877566</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7054320</final-price>
+        <final-price>7089810</final-price>
       </discount>
     </price>
     <area>
@@ -3488,7 +3488,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395123?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3511,10 +3511,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6925555</value>
+      <value>6961333</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6233000</final-price>
+        <final-price>6265200</final-price>
       </discount>
     </price>
     <area>
@@ -3565,7 +3565,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395124?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3588,10 +3588,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6976666</value>
+      <value>7012444</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6279000</final-price>
+        <final-price>6311200</final-price>
       </discount>
     </price>
     <area>
@@ -3642,7 +3642,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395126?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3665,10 +3665,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7421000</value>
+      <value>7459266</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6678900</final-price>
+        <final-price>6713340</final-price>
       </discount>
     </price>
     <area>
@@ -3719,7 +3719,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395127?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3742,10 +3742,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7585200</value>
+      <value>7622466</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6826680</final-price>
+        <final-price>6860220</final-price>
       </discount>
     </price>
     <area>
@@ -3796,7 +3796,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395088?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3819,10 +3819,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7354111</value>
+      <value>7391755</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6618700</final-price>
+        <final-price>6652580</final-price>
       </discount>
     </price>
     <area>
@@ -3873,7 +3873,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395130?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3896,10 +3896,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7702933</value>
+      <value>7741066</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6932640</final-price>
+        <final-price>6966960</final-price>
       </discount>
     </price>
     <area>
@@ -3950,7 +3950,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395131?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -3973,10 +3973,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8104662</value>
+      <value>8145713</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7294196</final-price>
+        <final-price>7331142</final-price>
       </discount>
     </price>
     <area>
@@ -4028,7 +4028,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395132?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4051,10 +4051,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7871500</value>
+      <value>7910933</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7084350</final-price>
+        <final-price>7119840</final-price>
       </discount>
     </price>
     <area>
@@ -4105,7 +4105,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395133?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4128,10 +4128,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7702800</value>
+      <value>7740644</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6932520</final-price>
+        <final-price>6966580</final-price>
       </discount>
     </price>
     <area>
@@ -4182,7 +4182,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395184?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4205,10 +4205,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7842666</value>
+      <value>7881955</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7058400</final-price>
+        <final-price>7093760</final-price>
       </discount>
     </price>
     <area>
@@ -4259,7 +4259,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395143?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4282,10 +4282,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7880600</value>
+      <value>7920033</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7092540</final-price>
+        <final-price>7128030</final-price>
       </discount>
     </price>
     <area>
@@ -4336,7 +4336,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395144?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4359,10 +4359,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7711533</value>
+      <value>7749377</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6940380</final-price>
+        <final-price>6974440</final-price>
       </discount>
     </price>
     <area>
@@ -4413,7 +4413,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395148?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4436,10 +4436,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7362177</value>
+      <value>7399822</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6625960</final-price>
+        <final-price>6659840</final-price>
       </discount>
     </price>
     <area>
@@ -4490,7 +4490,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395193?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4513,10 +4513,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7851733</value>
+      <value>7891022</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7066560</final-price>
+        <final-price>7101920</final-price>
       </discount>
     </price>
     <area>
@@ -4567,7 +4567,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395104?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4590,10 +4590,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7370244</value>
+      <value>7407888</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6633220</final-price>
+        <final-price>6667100</final-price>
       </discount>
     </price>
     <area>
@@ -4636,7 +4636,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>34</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="395106">
     <type>продажа</type>
@@ -4644,7 +4644,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395106?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4667,10 +4667,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6984400</value>
+      <value>7019866</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6285960</final-price>
+        <final-price>6317880</final-price>
       </discount>
     </price>
     <area>
@@ -4721,7 +4721,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395152?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4744,10 +4744,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7720533</value>
+      <value>7758666</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6948480</final-price>
+        <final-price>6982800</final-price>
       </discount>
     </price>
     <area>
@@ -4798,7 +4798,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395154?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4821,10 +4821,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7889700</value>
+      <value>7929133</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7100730</final-price>
+        <final-price>7136220</final-price>
       </discount>
     </price>
     <area>
@@ -4875,7 +4875,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395155?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4898,10 +4898,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7723177</value>
+      <value>7761022</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6950860</final-price>
+        <final-price>6984920</final-price>
       </discount>
     </price>
     <area>
@@ -4952,7 +4952,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395157?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -4975,10 +4975,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7017555</value>
+      <value>7053333</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6315800</final-price>
+        <final-price>6348000</final-price>
       </discount>
     </price>
     <area>
@@ -5029,7 +5029,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395202?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5052,10 +5052,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7860800</value>
+      <value>7900088</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7074720</final-price>
+        <final-price>7110080</final-price>
       </discount>
     </price>
     <area>
@@ -5106,7 +5106,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395075?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5129,10 +5129,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10141666</value>
+      <value>10262500</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9127500</final-price>
+        <final-price>9236250</final-price>
       </discount>
     </price>
     <area>
@@ -5183,7 +5183,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395077?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5206,10 +5206,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10284944</value>
+      <value>10408611</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9256450</final-price>
+        <final-price>9367750</final-price>
       </discount>
     </price>
     <area>
@@ -5261,7 +5261,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395117?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5284,10 +5284,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10818088</value>
+      <value>10947300</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9736280</final-price>
+        <final-price>9852570</final-price>
       </discount>
     </price>
     <area>
@@ -5338,7 +5338,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395165?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5361,10 +5361,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10013166</value>
+      <value>10134833</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9011850</final-price>
+        <final-price>9121350</final-price>
       </discount>
     </price>
     <area>
@@ -5415,7 +5415,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395128?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5438,10 +5438,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11027777</value>
+      <value>11160111</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9925000</final-price>
+        <final-price>10044100</final-price>
       </discount>
     </price>
     <area>
@@ -5492,7 +5492,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395178?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5515,10 +5515,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9875266</value>
+      <value>9994022</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8887740</final-price>
+        <final-price>8994620</final-price>
       </discount>
     </price>
     <area>
@@ -5569,7 +5569,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395187?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5592,10 +5592,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9912377</value>
+      <value>10031133</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8921140</final-price>
+        <final-price>9028020</final-price>
       </discount>
     </price>
     <area>
@@ -5646,7 +5646,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395150?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5669,10 +5669,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11089533</value>
+      <value>11221866</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9980580</final-price>
+        <final-price>10099680</final-price>
       </discount>
     </price>
     <area>
@@ -5723,7 +5723,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395205?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5746,10 +5746,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9938355</value>
+      <value>10057111</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8944520</final-price>
+        <final-price>9051400</final-price>
       </discount>
     </price>
     <area>
@@ -5800,7 +5800,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395071?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5823,10 +5823,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15194723</value>
+      <value>15268346</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13675251</final-price>
+        <final-price>13741512</final-price>
       </discount>
     </price>
     <area>
@@ -5878,7 +5878,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395079?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5901,10 +5901,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14407450</value>
+      <value>14477123</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>12966705</final-price>
+        <final-price>13029411</final-price>
       </discount>
     </price>
     <area>
@@ -5956,7 +5956,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395176?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -5979,10 +5979,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>17617994</value>
+      <value>17706322</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15856195</final-price>
+        <final-price>15935690</final-price>
       </discount>
     </price>
     <area>
@@ -6034,7 +6034,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395194?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6057,10 +6057,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>17416766</value>
+      <value>17503650</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15675090</final-price>
+        <final-price>15753285</final-price>
       </discount>
     </price>
     <area>
@@ -6112,7 +6112,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395170?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6189,7 +6189,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395171?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6267,7 +6267,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395179?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6345,7 +6345,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395180?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6423,7 +6423,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395198?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6501,7 +6501,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395206?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6579,7 +6579,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395215?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6656,7 +6656,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395226?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6679,10 +6679,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6625321</value>
+      <value>6659204</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>5962789</final-price>
+        <final-price>5993284</final-price>
       </discount>
     </price>
     <area>
@@ -6733,7 +6733,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395248?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6756,10 +6756,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6654686</value>
+      <value>6688570</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>5989218</final-price>
+        <final-price>6019713</final-price>
       </discount>
     </price>
     <area>
@@ -6802,7 +6802,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>42</psk-flat-number>
-    <psk-flat-status>свободна</psk-flat-status>
+    <psk-flat-status>бронь</psk-flat-status>
   </offer>
   <offer internal-id="395259">
     <type>продажа</type>
@@ -6810,7 +6810,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395259?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6833,10 +6833,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6661463</value>
+      <value>6695346</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>5995317</final-price>
+        <final-price>6025812</final-price>
       </discount>
     </price>
     <area>
@@ -6887,7 +6887,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395207?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6910,10 +6910,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16553200</value>
+      <value>16635648</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>14897880</final-price>
+        <final-price>14972084</final-price>
       </discount>
     </price>
     <area>
@@ -6965,7 +6965,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395208?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -6988,10 +6988,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>18339493</value>
+      <value>18428520</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16505544</final-price>
+        <final-price>16585668</final-price>
       </discount>
     </price>
     <area>
@@ -7043,7 +7043,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395209?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7066,10 +7066,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>18252177</value>
+      <value>18342684</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16426960</final-price>
+        <final-price>16508416</final-price>
       </discount>
     </price>
     <area>
@@ -7121,7 +7121,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395216?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7144,10 +7144,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15244755</value>
+      <value>15319260</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13720280</final-price>
+        <final-price>13787334</final-price>
       </discount>
     </price>
     <area>
@@ -7198,7 +7198,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395217?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7221,10 +7221,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>17965977</value>
+      <value>18059288</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16169380</final-price>
+        <final-price>16253360</final-price>
       </discount>
     </price>
     <area>
@@ -7275,7 +7275,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395227?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7298,10 +7298,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15302066</value>
+      <value>15376571</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13771860</final-price>
+        <final-price>13838914</final-price>
       </discount>
     </price>
     <area>
@@ -7352,7 +7352,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395228?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7375,10 +7375,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>18037755</value>
+      <value>18131066</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16233980</final-price>
+        <final-price>16317960</final-price>
       </discount>
     </price>
     <area>
@@ -7429,7 +7429,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395238?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7452,10 +7452,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15319260</value>
+      <value>15393764</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13787334</final-price>
+        <final-price>13854388</final-price>
       </discount>
     </price>
     <area>
@@ -7506,7 +7506,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395239?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7529,10 +7529,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>18059288</value>
+      <value>18152600</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16253360</final-price>
+        <final-price>16337340</final-price>
       </discount>
     </price>
     <area>
@@ -7583,7 +7583,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395249?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7606,10 +7606,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15336453</value>
+      <value>15410957</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13802808</final-price>
+        <final-price>13869862</final-price>
       </discount>
     </price>
     <area>
@@ -7660,7 +7660,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395250?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7683,10 +7683,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>18080822</value>
+      <value>18174133</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16272740</final-price>
+        <final-price>16356720</final-price>
       </discount>
     </price>
     <area>
@@ -7737,7 +7737,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395320?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7814,7 +7814,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395296?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7837,10 +7837,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8119333</value>
+      <value>8160500</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7307400</final-price>
+        <final-price>7344450</final-price>
       </discount>
     </price>
     <area>
@@ -7891,7 +7891,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395326?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7914,10 +7914,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7796400</value>
+      <value>7834966</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7016760</final-price>
+        <final-price>7051470</final-price>
       </discount>
     </price>
     <area>
@@ -7968,7 +7968,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395303?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -7991,10 +7991,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8105288</value>
+      <value>8145877</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7294760</final-price>
+        <final-price>7331290</final-price>
       </discount>
     </price>
     <area>
@@ -8045,7 +8045,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395310?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8068,10 +8068,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8114655</value>
+      <value>8155244</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7303190</final-price>
+        <final-price>7339720</final-price>
       </discount>
     </price>
     <area>
@@ -8122,7 +8122,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395338?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8145,10 +8145,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7717588</value>
+      <value>7755577</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6945830</final-price>
+        <final-price>6980020</final-price>
       </discount>
     </price>
     <area>
@@ -8199,7 +8199,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395316?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8222,10 +8222,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8478844</value>
+      <value>8520675</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7630960</final-price>
+        <final-price>7668608</final-price>
       </discount>
     </price>
     <area>
@@ -8277,7 +8277,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395317?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8300,10 +8300,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8328576</value>
+      <value>8369728</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7495719</final-price>
+        <final-price>7532756</final-price>
       </discount>
     </price>
     <area>
@@ -8355,7 +8355,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395343?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8378,10 +8378,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8579644</value>
+      <value>8622053</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7721680</final-price>
+        <final-price>7759848</final-price>
       </discount>
     </price>
     <area>
@@ -8433,7 +8433,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395344?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8456,10 +8456,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8024793</value>
+      <value>8066311</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7222314</final-price>
+        <final-price>7259680</final-price>
       </discount>
     </price>
     <area>
@@ -8505,90 +8505,13 @@
     <psk-flat-number>84</psk-flat-number>
     <psk-flat-status>свободна</psk-flat-status>
   </offer>
-  <offer internal-id="395345">
-    <type>продажа</type>
-    <property-type>жилая</property-type>
-    <category>квартира</category>
-    <url>https://psk-info.ru/flats/395345?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
-    <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
-    <location>
-      <country>Россия</country>
-      <locality-name>Санкт-Петербург</locality-name>
-      <address>Санкт-Петербург, Пулковское шоссе, участок 24</address>
-      <latitude>59.747475</latitude>
-      <longitude>30.310545</longitude>
-      <metro>
-        <name>Московская</name>
-        <time-on-transport>15</time-on-transport>
-      </metro>
-      <metro>
-        <name>Купчино</name>
-      </metro>
-    </location>
-    <sales-agent>
-      <phone>7 (812) 210-26-76</phone>
-      <category>агентство</category>
-      <name>Эвелина Петрова</name>
-      <organization>Агентство недвижимости «Тренд»</organization>
-    </sales-agent>
-    <deal-status>первичная продажа</deal-status>
-    <price>
-      <value>6671611</value>
-      <currency>RUB</currency>
-      <discount>
-        <final-price>6004450</final-price>
-      </discount>
-    </price>
-    <area>
-      <value>20.5</value>
-      <unit>кв. м</unit>
-    </area>
-    <studio>да</studio>
-    <new-flat>да</new-flat>
-    <floor>5</floor>
-    <floors-total>5</floors-total>
-    <renovation>под ключ</renovation>
-    <image tag="plan">https://feedhub.realty/feed-evel/plans/plan-2f6cd2d2c456a4cf.jpg</image>
-    <image tag="floor-plan">https://feedhub.realty/feed-evel/plans/floor-4d515fe7f4529ade.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/4172e167c1486ef8c1ec930ab9f2c77a3d27a188.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8dd31f830a8def502ac62ca1c1ad51b4b2f45fec.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/c9bcb6758c537a43e24b0d4ecce2e7df8a5b5244.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/2fb9ae67b2ddedf4d0d2eec2e01f35155429b024.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/8e909f0157337f8de740e9ddf44f5dff74e461b0.jpg</image>
-    <image>https://storage.yandexcloud.net/psk-media/media/p/si/i/330de16ee8f7aad7ad8eba81235af307d904df04.jpg</image>
-    <description>Квартира-студия 20,5 м² на 5 этаже 5-этажного дома в ЖК «PLUS Пулковский» от ГК «ПСК».
-Квартира с отделкой под ключ: можно заезжать без ремонта. Выгода 10% от базовой стоимости. Корпус 13, срок сдачи: II квартал 2027 года.
-Метро «Московская» в 15 минутах на транспорте.
-О проекте «PLUS Пулковский»:
-• Плюс пешеходная аллея. Центральная зеленая улица пройдет через всю территорию квартала. Благоустроенный променад для прогулок и отдыха всей семьей.
-• Плюс квартиры с отделкой. Все квартиры сдаются с полной чистовой отделкой в двух цветовых решениях: светлая и темная. Используются современные технологичные материалы.
-• Плюс новый квартал. Квартал будет обладать собственной развитой инфраструктурой: детские сады, школы, спортивные площадки и многое другое.
-• Плюс жилые дома. Высота всех домов всего 5 этажей. Монолитная технология, высокая энергоэффективность, увеличенные окна, квартиры с патио и балконами.
-• Плюс атмосфера. Благоустройство квартала располагает к добрососедству. Вы будете с удовольствием проводить время как дома так и на улице.
-• Все дома 5 этажей. Свободный вид на окружение, ощущение пространства и воздуха.
-• Квартиры с патио. Огороженная собственная территория на первых этажах от 6 до 12 кв.м.
-• Плейхаб в центре квартала. Большая игровая плошадка с пространством для командных игр.
-Застройщик ГК «ПСК». Номер лота на сайте застройщика: 85.</description>
-    <building-name>ЖК «PLUS Пулковский»</building-name>
-    <yandex-building-id>3698654</yandex-building-id>
-    <yandex-house-id>4186896</yandex-house-id>
-    <building-state>unfinished</building-state>
-    <built-year>2027</built-year>
-    <ready-quarter>2</ready-quarter>
-    <building-section>корпус 13</building-section>
-    <lift>да</lift>
-    <parking>да</parking>
-    <psk-flat-number>85</psk-flat-number>
-    <psk-flat-status>бронь</psk-flat-status>
-  </offer>
   <offer internal-id="395263">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395263?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8611,10 +8534,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10209333</value>
+      <value>10331777</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9188400</final-price>
+        <final-price>9298600</final-price>
       </discount>
     </price>
     <area>
@@ -8665,7 +8588,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395286?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8688,10 +8611,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10375200</value>
+      <value>10501833</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9337680</final-price>
+        <final-price>9451650</final-price>
       </discount>
     </price>
     <area>
@@ -8742,7 +8665,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395287?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8765,10 +8688,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10348800</value>
+      <value>10475111</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9313920</final-price>
+        <final-price>9427600</final-price>
       </discount>
     </price>
     <area>
@@ -8819,7 +8742,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395290?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8842,10 +8765,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11209133</value>
+      <value>11345711</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10088220</final-price>
+        <final-price>10211140</final-price>
       </discount>
     </price>
     <area>
@@ -8896,7 +8819,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395268?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8919,10 +8842,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10337433</value>
+      <value>10462466</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9303690</final-price>
+        <final-price>9416220</final-price>
       </discount>
     </price>
     <area>
@@ -8973,7 +8896,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395328?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -8996,10 +8919,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11117066</value>
+      <value>11250755</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10005360</final-price>
+        <final-price>10125680</final-price>
       </discount>
     </price>
     <area>
@@ -9043,7 +8966,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>68</psk-flat-number>
-    <psk-flat-status>бронь</psk-flat-status>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="395272">
     <type>продажа</type>
@@ -9051,7 +8974,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395272?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9074,10 +8997,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11084373</value>
+      <value>11217920</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9975936</final-price>
+        <final-price>10096128</final-price>
       </discount>
     </price>
     <area>
@@ -9129,7 +9052,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395273?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9152,10 +9075,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10292000</value>
+      <value>10416000</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9262800</final-price>
+        <final-price>9374400</final-price>
       </discount>
     </price>
     <area>
@@ -9206,7 +9129,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395278?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9229,10 +9152,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10304000</value>
+      <value>10428000</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9273600</final-price>
+        <final-price>9385200</final-price>
       </discount>
     </price>
     <area>
@@ -9283,7 +9206,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395282?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9306,10 +9229,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11109413</value>
+      <value>11242960</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9998472</final-price>
+        <final-price>10118664</final-price>
       </discount>
     </price>
     <area>
@@ -9361,7 +9284,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395283?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9384,10 +9307,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10763353</value>
+      <value>10892740</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9687018</final-price>
+        <final-price>9803466</final-price>
       </discount>
     </price>
     <area>
@@ -9439,7 +9362,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395262?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9462,10 +9385,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>13506577</value>
+      <value>13575488</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>12155920</final-price>
+        <final-price>12217940</final-price>
       </discount>
     </price>
     <area>
@@ -9516,7 +9439,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395285?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9539,10 +9462,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15065600</value>
+      <value>15141866</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13559040</final-price>
+        <final-price>13627680</final-price>
       </discount>
     </price>
     <area>
@@ -9593,7 +9516,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395319?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9616,10 +9539,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>17711380</value>
+      <value>17803405</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15940242</final-price>
+        <final-price>16023065</final-price>
       </discount>
     </price>
     <area>
@@ -9671,7 +9594,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395323?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9694,10 +9617,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16787197</value>
+      <value>16870556</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15108478</final-price>
+        <final-price>15183501</final-price>
       </discount>
     </price>
     <area>
@@ -9749,7 +9672,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395297?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9772,10 +9695,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>17120577</value>
+      <value>17209088</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15408520</final-price>
+        <final-price>15488180</final-price>
       </discount>
     </price>
     <area>
@@ -9827,7 +9750,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395276?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9850,10 +9773,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14447342</value>
+      <value>14521608</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13002608</final-price>
+        <final-price>13069448</final-price>
       </discount>
     </price>
     <area>
@@ -9905,7 +9828,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395336?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -9928,10 +9851,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>17299822</value>
+      <value>17388800</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15569840</final-price>
+        <final-price>15649920</final-price>
       </discount>
     </price>
     <area>
@@ -9983,7 +9906,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395281?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10006,10 +9929,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14593766</value>
+      <value>14668683</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13134390</final-price>
+        <final-price>13201815</final-price>
       </discount>
     </price>
     <area>
@@ -10061,7 +9984,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395318?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10084,10 +10007,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>17228055</value>
+      <value>17316566</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15505250</final-price>
+        <final-price>15584910</final-price>
       </discount>
     </price>
     <area>
@@ -10139,7 +10062,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395261?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10217,7 +10140,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395264?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10295,7 +10218,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395288?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10318,10 +10241,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>18040411</value>
+      <value>18095433</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16236370</final-price>
+        <final-price>16285890</final-price>
       </discount>
     </price>
     <area>
@@ -10372,7 +10295,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395265?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10450,7 +10373,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395269?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10528,7 +10451,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395329?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10606,7 +10529,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395274?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10684,7 +10607,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395279?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10762,7 +10685,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395280?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10840,7 +10763,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395284?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10918,7 +10841,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395315?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -10996,7 +10919,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395347?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11074,7 +10997,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395349?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11151,7 +11074,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395351?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11228,7 +11151,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395407?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11305,7 +11228,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395408?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11382,7 +11305,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395409?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11459,7 +11382,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395355?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11482,10 +11405,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7865000</value>
+      <value>7904722</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7078500</final-price>
+        <final-price>7114250</final-price>
       </discount>
     </price>
     <area>
@@ -11536,7 +11459,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395416?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11559,10 +11482,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8238390</value>
+      <value>8278820</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7414551</final-price>
+        <final-price>7450938</final-price>
       </discount>
     </price>
     <area>
@@ -11614,7 +11537,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395417?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11637,10 +11560,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6965933</value>
+      <value>7001866</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6269340</final-price>
+        <final-price>6301680</final-price>
       </discount>
     </price>
     <area>
@@ -11691,7 +11614,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395361?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11714,10 +11637,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7898611</value>
+      <value>7938333</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7108750</final-price>
+        <final-price>7144500</final-price>
       </discount>
     </price>
     <area>
@@ -11768,7 +11691,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395425?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11791,10 +11714,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6991600</value>
+      <value>7027533</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6292440</final-price>
+        <final-price>6324780</final-price>
       </discount>
     </price>
     <area>
@@ -11845,7 +11768,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395367?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11868,10 +11791,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7907777</value>
+      <value>7947500</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7117000</final-price>
+        <final-price>7152750</final-price>
       </discount>
     </price>
     <area>
@@ -11922,7 +11845,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395433?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -11945,10 +11868,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6999300</value>
+      <value>7035233</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6299370</final-price>
+        <final-price>6331710</final-price>
       </discount>
     </price>
     <area>
@@ -11999,7 +11922,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395373?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12022,10 +11945,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7916944</value>
+      <value>7956666</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7125250</final-price>
+        <final-price>7161000</final-price>
       </discount>
     </price>
     <area>
@@ -12076,7 +11999,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395375?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12099,10 +12022,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>6854400</value>
+      <value>6888000</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6168960</final-price>
+        <final-price>6199200</final-price>
       </discount>
     </price>
     <area>
@@ -12153,7 +12076,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395440?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12176,10 +12099,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8172771</value>
+      <value>8212623</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7355494</final-price>
+        <final-price>7391361</final-price>
       </discount>
     </price>
     <area>
@@ -12231,7 +12154,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395379?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12254,10 +12177,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10968488</value>
+      <value>11098844</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9871640</final-price>
+        <final-price>9988960</final-price>
       </discount>
     </price>
     <area>
@@ -12308,7 +12231,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395406?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12331,10 +12254,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10979055</value>
+      <value>11112777</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9881150</final-price>
+        <final-price>10001500</final-price>
       </discount>
     </price>
     <area>
@@ -12385,7 +12308,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395410?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12408,10 +12331,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9980000</value>
+      <value>10100000</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8982000</final-price>
+        <final-price>9090000</final-price>
       </discount>
     </price>
     <area>
@@ -12462,7 +12385,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395354?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12485,10 +12408,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10508300</value>
+      <value>10635400</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9457470</final-price>
+        <final-price>9571860</final-price>
       </discount>
     </price>
     <area>
@@ -12539,7 +12462,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395383?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12562,10 +12485,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11136216</value>
+      <value>11271150</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10022595</final-price>
+        <final-price>10144035</final-price>
       </discount>
     </price>
     <area>
@@ -12617,7 +12540,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395385?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12640,10 +12563,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10063288</value>
+      <value>10184533</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9056960</final-price>
+        <final-price>9166080</final-price>
       </discount>
     </price>
     <area>
@@ -12694,7 +12617,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395413?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12717,10 +12640,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11302500</value>
+      <value>11439500</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10172250</final-price>
+        <final-price>10295550</final-price>
       </discount>
     </price>
     <area>
@@ -12771,7 +12694,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395360?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12794,10 +12717,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10463533</value>
+      <value>10589600</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9417180</final-price>
+        <final-price>9530640</final-price>
       </discount>
     </price>
     <area>
@@ -12848,7 +12771,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395390?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12871,10 +12794,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11165200</value>
+      <value>11297955</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10048680</final-price>
+        <final-price>10168160</final-price>
       </discount>
     </price>
     <area>
@@ -12925,7 +12848,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395391?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -12948,10 +12871,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9997455</value>
+      <value>10116977</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8997710</final-price>
+        <final-price>9105280</final-price>
       </discount>
     </price>
     <area>
@@ -13002,7 +12925,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395421?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13025,10 +12948,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11348166</value>
+      <value>11485166</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10213350</final-price>
+        <final-price>10336650</final-price>
       </discount>
     </price>
     <area>
@@ -13079,7 +13002,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395366?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13102,10 +13025,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10475733</value>
+      <value>10601800</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9428160</final-price>
+        <final-price>9541620</final-price>
       </discount>
     </price>
     <area>
@@ -13156,7 +13079,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395397?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13179,10 +13102,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10009022</value>
+      <value>10128544</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9008120</final-price>
+        <final-price>9115690</final-price>
       </discount>
     </price>
     <area>
@@ -13233,7 +13156,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395372?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13256,10 +13179,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10775222</value>
+      <value>10902666</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9697700</final-price>
+        <final-price>9812400</final-price>
       </discount>
     </price>
     <area>
@@ -13311,7 +13234,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395402?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13334,10 +13257,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11192666</value>
+      <value>11325422</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10073400</final-price>
+        <final-price>10192880</final-price>
       </discount>
     </price>
     <area>
@@ -13380,7 +13303,7 @@
     <lift>да</lift>
     <parking>да</parking>
     <psk-flat-number>55</psk-flat-number>
-    <psk-flat-status>бронь</psk-flat-status>
+    <psk-flat-status>свободна</psk-flat-status>
   </offer>
   <offer internal-id="395403">
     <type>продажа</type>
@@ -13388,7 +13311,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395403?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13411,10 +13334,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10020588</value>
+      <value>10140111</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9018530</final-price>
+        <final-price>9126100</final-price>
       </discount>
     </price>
     <area>
@@ -13465,7 +13388,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395437?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13488,10 +13411,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11647200</value>
+      <value>11785200</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10482480</final-price>
+        <final-price>10606680</final-price>
       </discount>
     </price>
     <area>
@@ -13543,7 +13466,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395350?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13566,10 +13489,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14809022</value>
+      <value>14880377</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13328120</final-price>
+        <final-price>13392340</final-price>
       </discount>
     </price>
     <area>
@@ -13621,7 +13544,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395377?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13644,10 +13567,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16572444</value>
+      <value>16657666</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>14915200</final-price>
+        <final-price>14991900</final-price>
       </discount>
     </price>
     <area>
@@ -13698,7 +13621,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395405?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13721,10 +13644,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15800488</value>
+      <value>15877477</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>14220440</final-price>
+        <final-price>14289730</final-price>
       </discount>
     </price>
     <area>
@@ -13776,7 +13699,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395411?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13799,10 +13722,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15504577</value>
+      <value>15580266</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13954120</final-price>
+        <final-price>14022240</final-price>
       </discount>
     </price>
     <area>
@@ -13854,7 +13777,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395356?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13877,10 +13800,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14561755</value>
+      <value>14636733</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13105580</final-price>
+        <final-price>13173060</final-price>
       </discount>
     </price>
     <area>
@@ -13931,7 +13854,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395381?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -13954,10 +13877,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16865066</value>
+      <value>16949133</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15178560</final-price>
+        <final-price>15254220</final-price>
       </discount>
     </price>
     <area>
@@ -14008,7 +13931,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395412?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14031,10 +13954,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15298266</value>
+      <value>15373088</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13768440</final-price>
+        <final-price>13835780</final-price>
       </discount>
     </price>
     <area>
@@ -14085,7 +14008,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395362?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14108,10 +14031,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14615311</value>
+      <value>14690288</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13153780</final-price>
+        <final-price>13221260</final-price>
       </discount>
     </price>
     <area>
@@ -14162,7 +14085,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395387?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14185,10 +14108,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16929733</value>
+      <value>17013800</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15236760</final-price>
+        <final-price>15312420</final-price>
       </discount>
     </price>
     <area>
@@ -14239,7 +14162,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395368?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14262,10 +14185,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14631377</value>
+      <value>14706355</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13168240</final-price>
+        <final-price>13235720</final-price>
       </discount>
     </price>
     <area>
@@ -14316,7 +14239,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395393?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14339,10 +14262,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16949133</value>
+      <value>17033200</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15254220</final-price>
+        <final-price>15329880</final-price>
       </discount>
     </price>
     <area>
@@ -14393,7 +14316,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395435?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14416,10 +14339,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16216024</value>
+      <value>16296586</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>14594422</final-price>
+        <final-price>14666928</final-price>
       </discount>
     </price>
     <area>
@@ -14471,7 +14394,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395374?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14494,10 +14417,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>15160533</value>
+      <value>15236444</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13644480</final-price>
+        <final-price>13712800</final-price>
       </discount>
     </price>
     <area>
@@ -14549,7 +14472,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395399?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14572,10 +14495,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>17535466</value>
+      <value>17620400</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15781920</final-price>
+        <final-price>15858360</final-price>
       </discount>
     </price>
     <area>
@@ -14627,7 +14550,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395443?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14650,10 +14573,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16233287</value>
+      <value>16313850</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>14609959</final-price>
+        <final-price>14682465</final-price>
       </discount>
     </price>
     <area>
@@ -14705,7 +14628,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395348?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14783,7 +14706,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395352?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14806,10 +14729,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>18561033</value>
+      <value>18613066</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16704930</final-price>
+        <final-price>16751760</final-price>
       </discount>
     </price>
     <area>
@@ -14860,7 +14783,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395380?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -14938,7 +14861,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395353?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15016,7 +14939,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395359?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15094,7 +15017,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395365?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15172,7 +15095,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395370?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15249,7 +15172,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395371?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15327,7 +15250,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/395376?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15405,7 +15328,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139539?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15428,10 +15351,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10326404</value>
+      <value>10452071</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9293764</final-price>
+        <final-price>9406864</final-price>
       </discount>
     </price>
     <area>
@@ -15483,7 +15406,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139548?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15506,10 +15429,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10278440</value>
+      <value>10400440</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9250596</final-price>
+        <final-price>9360396</final-price>
       </discount>
     </price>
     <area>
@@ -15561,7 +15484,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139582?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15584,10 +15507,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10306386</value>
+      <value>10428720</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9275748</final-price>
+        <final-price>9385848</final-price>
       </discount>
     </price>
     <area>
@@ -15639,7 +15562,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139630?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15662,10 +15585,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10539642</value>
+      <value>10667998</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9485678</final-price>
+        <final-price>9601198</final-price>
       </discount>
     </price>
     <area>
@@ -15717,7 +15640,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/139454?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15795,7 +15718,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/201435?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15818,10 +15741,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10830622</value>
+      <value>10961955</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9747560</final-price>
+        <final-price>9865760</final-price>
       </discount>
     </price>
     <area>
@@ -15872,7 +15795,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/201438?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15895,10 +15818,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11291677</value>
+      <value>11426388</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10162510</final-price>
+        <final-price>10283750</final-price>
       </discount>
     </price>
     <area>
@@ -15949,7 +15872,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/201498?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -15972,10 +15895,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>7154766</value>
+      <value>7189600</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>6439290</final-price>
+        <final-price>6470640</final-price>
       </discount>
     </price>
     <area>
@@ -16026,7 +15949,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/335043?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16049,10 +15972,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>8433250</value>
+      <value>8476261</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>7589925</final-price>
+        <final-price>7628635</final-price>
       </discount>
     </price>
     <area>
@@ -16104,7 +16027,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/335014?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16127,10 +16050,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>11291677</value>
+      <value>11426388</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>10162510</final-price>
+        <final-price>10283750</final-price>
       </discount>
     </price>
     <area>
@@ -16182,7 +16105,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/335017?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16205,10 +16128,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10830622</value>
+      <value>10961955</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9747560</final-price>
+        <final-price>9865760</final-price>
       </discount>
     </price>
     <area>
@@ -16260,7 +16183,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/335018?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16283,10 +16206,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10775644</value>
+      <value>10906311</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9698080</final-price>
+        <final-price>9815680</final-price>
       </discount>
     </price>
     <area>
@@ -16338,7 +16261,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/334995?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16361,10 +16284,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>20261200</value>
+      <value>20283400</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>18235080</final-price>
+        <final-price>18255060</final-price>
       </discount>
     </price>
     <area>
@@ -16416,7 +16339,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/335030?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16439,10 +16362,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>19960600</value>
+      <value>19981700</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>17964540</final-price>
+        <final-price>17983530</final-price>
       </discount>
     </price>
     <area>
@@ -16494,7 +16417,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/335007?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16517,10 +16440,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>20418533</value>
+      <value>20440800</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>18376680</final-price>
+        <final-price>18396720</final-price>
       </discount>
     </price>
     <area>
@@ -16572,7 +16495,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/335037?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16595,10 +16518,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>19950133</value>
+      <value>19971200</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>17955120</final-price>
+        <final-price>17974080</final-price>
       </discount>
     </price>
     <area>
@@ -16650,7 +16573,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/335013?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16673,10 +16596,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>20379600</value>
+      <value>20401800</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>18341640</final-price>
+        <final-price>18361620</final-price>
       </discount>
     </price>
     <area>
@@ -16728,7 +16651,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/335044?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16751,10 +16674,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>19946611</value>
+      <value>19967644</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>17951950</final-price>
+        <final-price>17970880</final-price>
       </discount>
     </price>
     <area>
@@ -16806,7 +16729,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394891?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16883,7 +16806,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394893?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -16960,7 +16883,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394950?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17037,7 +16960,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394948?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17060,10 +16983,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9951440</value>
+      <value>10071440</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8956296</final-price>
+        <final-price>9064296</final-price>
       </discount>
     </price>
     <area>
@@ -17114,7 +17037,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394951?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17137,10 +17060,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10372623</value>
+      <value>10499257</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9335361</final-price>
+        <final-price>9449331</final-price>
       </discount>
     </price>
     <area>
@@ -17191,7 +17114,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394953?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17214,10 +17137,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10065484</value>
+      <value>10186117</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9058936</final-price>
+        <final-price>9167506</final-price>
       </discount>
     </price>
     <area>
@@ -17269,7 +17192,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394924?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17292,10 +17215,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10085875</value>
+      <value>10208497</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9077288</final-price>
+        <final-price>9187648</final-price>
       </discount>
     </price>
     <area>
@@ -17346,7 +17269,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394905?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17369,10 +17292,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10235329</value>
+      <value>10358984</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9211796</final-price>
+        <final-price>9323086</final-price>
       </discount>
     </price>
     <area>
@@ -17423,7 +17346,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394963?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17446,10 +17369,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10087864</value>
+      <value>10209886</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9079077</final-price>
+        <final-price>9188897</final-price>
       </discount>
     </price>
     <area>
@@ -17501,7 +17424,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394971?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17524,10 +17447,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10098738</value>
+      <value>10220760</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9088864</final-price>
+        <final-price>9198684</final-price>
       </discount>
     </price>
     <area>
@@ -17579,7 +17502,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394917?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17602,10 +17525,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10259502</value>
+      <value>10383157</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9233551</final-price>
+        <final-price>9344841</final-price>
       </discount>
     </price>
     <area>
@@ -17656,7 +17579,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394942?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17679,10 +17602,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>9989388</value>
+      <value>10109599</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>8990449</final-price>
+        <final-price>9098639</final-price>
       </discount>
     </price>
     <area>
@@ -17733,7 +17656,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394979?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-17T21:54:10+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17756,10 +17679,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>10109505</value>
+      <value>10231527</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>9098554</final-price>
+        <final-price>9208374</final-price>
       </discount>
     </price>
     <area>
@@ -17811,7 +17734,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394892?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17834,10 +17757,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14628485</value>
+      <value>14699104</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13165636</final-price>
+        <final-price>13229193</final-price>
       </discount>
     </price>
     <area>
@@ -17889,7 +17812,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394919?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17912,10 +17835,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>17941020</value>
+      <value>18027140</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16146918</final-price>
+        <final-price>16224426</final-price>
       </discount>
     </price>
     <area>
@@ -17967,7 +17890,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394928?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -17990,10 +17913,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>16881425</value>
+      <value>16964480</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>15193282</final-price>
+        <final-price>15268032</final-price>
       </discount>
     </price>
     <area>
@@ -18044,7 +17967,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394954?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -18067,10 +17990,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14897090</value>
+      <value>14969168</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13407381</final-price>
+        <final-price>13472251</final-price>
       </discount>
     </price>
     <area>
@@ -18121,7 +18044,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394903?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -18144,10 +18067,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14431080</value>
+      <value>14504969</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>12987972</final-price>
+        <final-price>13054472</final-price>
       </discount>
     </price>
     <area>
@@ -18198,7 +18121,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394909?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -18221,10 +18144,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14447072</value>
+      <value>14520961</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13002365</final-price>
+        <final-price>13068865</final-price>
       </discount>
     </price>
     <area>
@@ -18275,7 +18198,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394970?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -18298,10 +18221,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14969889</value>
+      <value>15041966</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13472900</final-price>
+        <final-price>13537770</final-price>
       </discount>
     </price>
     <area>
@@ -18352,7 +18275,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394915?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -18375,10 +18298,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>14463063</value>
+      <value>14536952</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>13016757</final-price>
+        <final-price>13083257</final-price>
       </discount>
     </price>
     <area>
@@ -18429,7 +18352,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394890?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -18452,10 +18375,10 @@
     </sales-agent>
     <deal-status>первичная продажа</deal-status>
     <price>
-      <value>18492711</value>
+      <value>18551289</value>
       <currency>RUB</currency>
       <discount>
-        <final-price>16643440</final-price>
+        <final-price>16696160</final-price>
       </discount>
     </price>
     <area>
@@ -18506,7 +18429,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394900?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -18584,7 +18507,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394906?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -18662,7 +18585,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394912?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
@@ -18740,7 +18663,7 @@
     <category>квартира</category>
     <url>https://psk-info.ru/flats/394918?utm_source=trend&amp;utm_medium=realty_feed&amp;utm_campaign=plus-pulkovsky</url>
     <creation-date>2026-10-15T15:55:30+03:00</creation-date>
-    <last-update-date>2026-11-01T18:45:21+03:00</last-update-date>
+    <last-update-date>2026-11-02T22:12:18+03:00</last-update-date>
     <location>
       <country>Россия</country>
       <locality-name>Санкт-Петербург</locality-name>
